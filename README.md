@@ -3,7 +3,7 @@
 This project explores Nigeria's health data for 5000 patients. The goal was to analyze patient demographics and medical records using Google BigQuery to uncover health insights and support better healthcare decisions. 
 ## Datasets Used
 -**PATIENT_TABLE.csv:** Patient info - age, gender, state, blood group
--**MEDICALTABLE.csv:** Medical records - diagnosis, treatment
+-**MEDICALTABLE.csv:** Medical records - diagnosis, treatment, etc.
 -**Nigeria Health Dataset 5000:** Combined master dataset
 ## What I Did in BigQuery
 Created PATIENT and MEDICAL tables in BigQuery
