@@ -1,0 +1,5000 @@
+﻿Patient ID,Medical Condition,Prescribed Medication,Consultation Fee (NGN)
+NGA-00001,Hypertension,Amlodipine,44600
+NGA-00002,Sickle Cell Anemia,Folic Acid,33700
+NGA-00003,None,None,10900
+NGA-00004,Asthma,Salbutamol,41700
+NGA-00005,Diabetes,Metformin,13300
+NGA-00006,Asthma,Salbutamol,3200
+NGA-00007,Sickle Cell Anemia,Folic Acid,12800
+NGA-00008,Sickle Cell Anemia,Hydroxyurea,15500
+NGA-00009,Sickle Cell Anemia,Hydroxyurea,25200
+NGA-00010,Typhoid Fever,Ciprofloxacin,26300
+NGA-00011,Sickle Cell Anemia,Folic Acid,27500
+NGA-00012,Diabetes,Metformin,40800
+NGA-00013,Typhoid Fever,Ciprofloxacin,41900
+NGA-00014,Asthma,Salbutamol,11300
+NGA-00015,Malaria,Artemether/Lumefantrine,25700
+NGA-00016,Diabetes,Metformin,35500
+NGA-00017,None,None,11900
+NGA-00018,Typhoid Fever,Ciprofloxacin,3200
+NGA-00019,Diabetes,Metformin,25300
+NGA-00020,Diabetes,Metformin,22900
+NGA-00021,None,None,27900
+NGA-00022,Typhoid Fever,Ciprofloxacin,29500
+NGA-00023,Asthma,Salbutamol,19300
+NGA-00024,None,None,11800
+NGA-00025,Hypertension,Amlodipine,38200
+NGA-00026,Malaria,Artemether/Lumefantrine,34900
+NGA-00027,None,None,26800
+NGA-00028,Hypertension,Amlodipine,9800
+NGA-00029,None,None,42900
+NGA-00030,Asthma,Salbutamol,35500
+NGA-00031,Sickle Cell Anemia,Folic Acid,32400
+NGA-00032,None,None,42800
+NGA-00033,Asthma,Salbutamol,6900
+NGA-00034,Typhoid Fever,Ciprofloxacin,29700
+NGA-00035,Asthma,Salbutamol,22700
+NGA-00036,None,None,4500
+NGA-00037,Sickle Cell Anemia,Folic Acid,16200
+NGA-00038,None,None,11600
+NGA-00039,Asthma,Salbutamol,4800
+NGA-00040,Diabetes,Metformin,41000
+NGA-00041,Sickle Cell Anemia,Folic Acid,4100
+NGA-00042,None,None,33900
+NGA-00043,Sickle Cell Anemia,Hydroxyurea,31500
+NGA-00044,Malaria,Artemether/Lumefantrine,26900
+NGA-00045,Diabetes,Metformin,5500
+NGA-00046,None,None,21400
+NGA-00047,Asthma,Salbutamol,7500
+NGA-00048,None,None,8700
+NGA-00049,Typhoid Fever,Ciprofloxacin,22600
+NGA-00050,Malaria,Artemether/Lumefantrine,24300
+NGA-00051,None,None,2900
+NGA-00052,Asthma,Salbutamol,25100
+NGA-00053,None,None,21200
+NGA-00054,Diabetes,Metformin,27100
+NGA-00055,Sickle Cell Anemia,Folic Acid,44500
+NGA-00056,Diabetes,Metformin,19200
+NGA-00057,Malaria,Artemether/Lumefantrine,4300
+NGA-00058,Sickle Cell Anemia,Hydroxyurea,37600
+NGA-00059,Diabetes,Metformin,16400
+NGA-00060,None,None,21300
+NGA-00061,Asthma,Salbutamol,28400
+NGA-00062,Sickle Cell Anemia,Folic Acid,36000
+NGA-00063,Asthma,Salbutamol,33300
+NGA-00064,Hypertension,Amlodipine,30200
+NGA-00065,Hypertension,Amlodipine,37800
+NGA-00066,Sickle Cell Anemia,Folic Acid,22500
+NGA-00067,Typhoid Fever,Ciprofloxacin,14200
+NGA-00068,Sickle Cell Anemia,Folic Acid,28400
+NGA-00069,Sickle Cell Anemia,Folic Acid,28800
+NGA-00070,Typhoid Fever,Ciprofloxacin,4400
+NGA-00071,Diabetes,Metformin,8900
+NGA-00072,Hypertension,Amlodipine,39300
+NGA-00073,Hypertension,Amlodipine,6600
+NGA-00074,Hypertension,Amlodipine,7300
+NGA-00075,Asthma,Salbutamol,14000
+NGA-00076,Hypertension,Amlodipine,38700
+NGA-00077,None,None,36000
+NGA-00078,Diabetes,Metformin,44500
+NGA-00079,Typhoid Fever,Ciprofloxacin,17300
+NGA-00080,Malaria,Artemether/Lumefantrine,33700
+NGA-00081,Hypertension,Amlodipine,25800
+NGA-00082,Malaria,Artemether/Lumefantrine,25000
+NGA-00083,Hypertension,Amlodipine,6400
+NGA-00084,Asthma,Salbutamol,42400
+NGA-00085,None,None,43600
+NGA-00086,None,None,20600
+NGA-00087,Asthma,Salbutamol,23200
+NGA-00088,None,None,29200
+NGA-00089,Sickle Cell Anemia,Hydroxyurea,31400
+NGA-00090,Asthma,Salbutamol,43200
+NGA-00091,Malaria,Artemether/Lumefantrine,32400
+NGA-00092,Asthma,Salbutamol,19500
+NGA-00093,Sickle Cell Anemia,Hydroxyurea,12500
+NGA-00094,Malaria,Artemether/Lumefantrine,44700
+NGA-00095,Diabetes,Metformin,10600
+NGA-00096,None,None,6000
+NGA-00097,Diabetes,Metformin,27600
+NGA-00098,None,None,44200
+NGA-00099,Diabetes,Metformin,17800
+NGA-00100,Hypertension,Amlodipine,17200
+NGA-00101,Diabetes,Metformin,37200
+NGA-00102,Malaria,Artemether/Lumefantrine,34000
+NGA-00103,Malaria,Artemether/Lumefantrine,34400
+NGA-00104,Asthma,Salbutamol,6400
+NGA-00105,Malaria,Artemether/Lumefantrine,27700
+NGA-00106,Hypertension,Amlodipine,28200
+NGA-00107,Asthma,Salbutamol,11400
+NGA-00108,Typhoid Fever,Ciprofloxacin,41300
+NGA-00109,Typhoid Fever,Ciprofloxacin,23800
+NGA-00110,Asthma,Salbutamol,5800
+NGA-00111,Asthma,Salbutamol,38100
+NGA-00112,Hypertension,Amlodipine,11100
+NGA-00113,Hypertension,Amlodipine,38700
+NGA-00114,Hypertension,Amlodipine,32600
+NGA-00115,Sickle Cell Anemia,Hydroxyurea,29900
+NGA-00116,None,None,40100
+NGA-00117,None,None,4300
+NGA-00118,Asthma,Salbutamol,24800
+NGA-00119,Diabetes,Metformin,42800
+NGA-00120,Typhoid Fever,Ciprofloxacin,32000
+NGA-00121,Diabetes,Metformin,6900
+NGA-00122,Hypertension,Amlodipine,10900
+NGA-00123,Sickle Cell Anemia,Folic Acid,37400
+NGA-00124,Asthma,Salbutamol,23500
+NGA-00125,Hypertension,Amlodipine,20300
+NGA-00126,Diabetes,Metformin,23200
+NGA-00127,Typhoid Fever,Ciprofloxacin,10100
+NGA-00128,Asthma,Salbutamol,31400
+NGA-00129,Typhoid Fever,Ciprofloxacin,9400
+NGA-00130,Asthma,Salbutamol,18700
+NGA-00131,None,None,36500
+NGA-00132,Asthma,Salbutamol,31700
+NGA-00133,Typhoid Fever,Ciprofloxacin,20100
+NGA-00134,Malaria,Artemether/Lumefantrine,7200
+NGA-00135,Sickle Cell Anemia,Hydroxyurea,38000
+NGA-00136,None,None,5300
+NGA-00137,Sickle Cell Anemia,Hydroxyurea,28400
+NGA-00138,None,None,24700
+NGA-00139,None,None,13500
+NGA-00140,Hypertension,Amlodipine,3600
+NGA-00141,Hypertension,Amlodipine,38500
+NGA-00142,Hypertension,Amlodipine,15400
+NGA-00143,Typhoid Fever,Ciprofloxacin,27900
+NGA-00144,None,None,4400
+NGA-00145,Asthma,Salbutamol,22500
+NGA-00146,None,None,9000
+NGA-00147,Asthma,Salbutamol,17400
+NGA-00148,Typhoid Fever,Ciprofloxacin,14700
+NGA-00149,Malaria,Artemether/Lumefantrine,24200
+NGA-00150,Diabetes,Metformin,16300
+NGA-00151,Asthma,Salbutamol,11700
+NGA-00152,None,None,31900
+NGA-00153,Sickle Cell Anemia,Folic Acid,40900
+NGA-00154,Diabetes,Metformin,37300
+NGA-00155,Malaria,Artemether/Lumefantrine,12100
+NGA-00156,Typhoid Fever,Ciprofloxacin,27700
+NGA-00157,None,None,27200
+NGA-00158,Malaria,Artemether/Lumefantrine,34600
+NGA-00159,Typhoid Fever,Ciprofloxacin,7300
+NGA-00160,Asthma,Salbutamol,22700
+NGA-00161,Malaria,Artemether/Lumefantrine,14000
+NGA-00162,Asthma,Salbutamol,33500
+NGA-00163,Hypertension,Amlodipine,28000
+NGA-00164,Asthma,Salbutamol,8600
+NGA-00165,Asthma,Salbutamol,41200
+NGA-00166,Diabetes,Metformin,35400
+NGA-00167,None,None,40400
+NGA-00168,Asthma,Salbutamol,6600
+NGA-00169,Diabetes,Metformin,36800
+NGA-00170,Typhoid Fever,Ciprofloxacin,5000
+NGA-00171,Diabetes,Metformin,27800
+NGA-00172,Typhoid Fever,Ciprofloxacin,33800
+NGA-00173,Asthma,Salbutamol,15900
+NGA-00174,None,None,39900
+NGA-00175,None,None,4900
+NGA-00176,None,None,33800
+NGA-00177,Sickle Cell Anemia,Folic Acid,44200
+NGA-00178,Diabetes,Metformin,42800
+NGA-00179,Typhoid Fever,Ciprofloxacin,12900
+NGA-00180,Malaria,Artemether/Lumefantrine,23200
+NGA-00181,Sickle Cell Anemia,Folic Acid,20100
+NGA-00182,Asthma,Salbutamol,9700
+NGA-00183,Diabetes,Metformin,42200
+NGA-00184,None,None,37200
+NGA-00185,Typhoid Fever,Ciprofloxacin,44600
+NGA-00186,Asthma,Salbutamol,32400
+NGA-00187,Typhoid Fever,Ciprofloxacin,19500
+NGA-00188,None,None,3600
+NGA-00189,Diabetes,Metformin,31900
+NGA-00190,None,None,19000
+NGA-00191,Sickle Cell Anemia,Folic Acid,26600
+NGA-00192,Sickle Cell Anemia,Hydroxyurea,13200
+NGA-00193,Typhoid Fever,Ciprofloxacin,13100
+NGA-00194,Hypertension,Amlodipine,37500
+NGA-00195,Asthma,Salbutamol,33100
+NGA-00196,None,None,25900
+NGA-00197,Hypertension,Amlodipine,15700
+NGA-00198,Malaria,Artemether/Lumefantrine,6000
+NGA-00199,Sickle Cell Anemia,Hydroxyurea,18800
+NGA-00200,None,None,35400
+NGA-00201,Sickle Cell Anemia,Folic Acid,27900
+NGA-00202,Typhoid Fever,Ciprofloxacin,2400
+NGA-00203,Hypertension,Amlodipine,35200
+NGA-00204,Hypertension,Amlodipine,22200
+NGA-00205,Typhoid Fever,Ciprofloxacin,19200
+NGA-00206,Sickle Cell Anemia,Hydroxyurea,30400
+NGA-00207,Malaria,Artemether/Lumefantrine,16500
+NGA-00208,Malaria,Artemether/Lumefantrine,43200
+NGA-00209,Sickle Cell Anemia,Folic Acid,4000
+NGA-00210,None,None,27200
+NGA-00211,Malaria,Artemether/Lumefantrine,31900
+NGA-00212,None,None,15200
+NGA-00213,Hypertension,Amlodipine,39900
+NGA-00214,Typhoid Fever,Ciprofloxacin,26900
+NGA-00215,Malaria,Artemether/Lumefantrine,22000
+NGA-00216,Typhoid Fever,Ciprofloxacin,29100
+NGA-00217,Typhoid Fever,Ciprofloxacin,41300
+NGA-00218,Hypertension,Amlodipine,3400
+NGA-00219,Malaria,Artemether/Lumefantrine,44400
+NGA-00220,Malaria,Artemether/Lumefantrine,28300
+NGA-00221,Typhoid Fever,Ciprofloxacin,39200
+NGA-00222,Diabetes,Metformin,32200
+NGA-00223,Diabetes,Metformin,21800
+NGA-00224,Diabetes,Metformin,29400
+NGA-00225,Asthma,Salbutamol,40400
+NGA-00226,Typhoid Fever,Ciprofloxacin,16100
+NGA-00227,Asthma,Salbutamol,42700
+NGA-00228,None,None,41800
+NGA-00229,Typhoid Fever,Ciprofloxacin,20000
+NGA-00230,Diabetes,Metformin,23900
+NGA-00231,Diabetes,Metformin,4900
+NGA-00232,Typhoid Fever,Ciprofloxacin,10900
+NGA-00233,Asthma,Salbutamol,43400
+NGA-00234,None,None,22200
+NGA-00235,Typhoid Fever,Ciprofloxacin,42200
+NGA-00236,Diabetes,Metformin,21500
+NGA-00237,Diabetes,Metformin,22600
+NGA-00238,Sickle Cell Anemia,Hydroxyurea,7900
+NGA-00239,Sickle Cell Anemia,Folic Acid,22600
+NGA-00240,Diabetes,Metformin,11700
+NGA-00241,Typhoid Fever,Ciprofloxacin,14600
+NGA-00242,Diabetes,Metformin,2500
+NGA-00243,Malaria,Artemether/Lumefantrine,41600
+NGA-00244,Hypertension,Amlodipine,15100
+NGA-00245,Diabetes,Metformin,30000
+NGA-00246,Typhoid Fever,Ciprofloxacin,29800
+NGA-00247,Typhoid Fever,Ciprofloxacin,33600
+NGA-00248,Diabetes,Metformin,42600
+NGA-00249,Malaria,Artemether/Lumefantrine,6000
+NGA-00250,Malaria,Artemether/Lumefantrine,28500
+NGA-00251,Malaria,Artemether/Lumefantrine,39800
+NGA-00252,Typhoid Fever,Ciprofloxacin,38100
+NGA-00253,None,None,11900
+NGA-00254,Typhoid Fever,Ciprofloxacin,36800
+NGA-00255,Diabetes,Metformin,19700
+NGA-00256,None,None,41200
+NGA-00257,Sickle Cell Anemia,Hydroxyurea,9900
+NGA-00258,Sickle Cell Anemia,Hydroxyurea,12100
+NGA-00259,Typhoid Fever,Ciprofloxacin,15400
+NGA-00260,Sickle Cell Anemia,Folic Acid,40800
+NGA-00261,None,None,6000
+NGA-00262,Sickle Cell Anemia,Folic Acid,25400
+NGA-00263,Hypertension,Amlodipine,29900
+NGA-00264,Diabetes,Metformin,15300
+NGA-00265,Asthma,Salbutamol,13500
+NGA-00266,Malaria,Artemether/Lumefantrine,14800
+NGA-00267,Diabetes,Metformin,43800
+NGA-00268,Malaria,Artemether/Lumefantrine,39500
+NGA-00269,Typhoid Fever,Ciprofloxacin,13600
+NGA-00270,Typhoid Fever,Ciprofloxacin,30800
+NGA-00271,Diabetes,Metformin,30700
+NGA-00272,Diabetes,Metformin,8800
+NGA-00273,Diabetes,Metformin,14000
+NGA-00274,Malaria,Artemether/Lumefantrine,36800
+NGA-00275,Hypertension,Amlodipine,34400
+NGA-00276,Hypertension,Amlodipine,2300
+NGA-00277,Diabetes,Metformin,27800
+NGA-00278,Sickle Cell Anemia,Hydroxyurea,20900
+NGA-00279,Diabetes,Metformin,17100
+NGA-00280,Diabetes,Metformin,40500
+NGA-00281,Malaria,Artemether/Lumefantrine,5900
+NGA-00282,Sickle Cell Anemia,Hydroxyurea,30700
+NGA-00283,None,None,24100
+NGA-00284,None,None,30300
+NGA-00285,None,None,44100
+NGA-00286,Typhoid Fever,Ciprofloxacin,19900
+NGA-00287,Diabetes,Metformin,13800
+NGA-00288,Malaria,Artemether/Lumefantrine,28300
+NGA-00289,Hypertension,Amlodipine,26800
+NGA-00290,Sickle Cell Anemia,Hydroxyurea,6400
+NGA-00291,Sickle Cell Anemia,Hydroxyurea,23300
+NGA-00292,Sickle Cell Anemia,Hydroxyurea,10300
+NGA-00293,Hypertension,Amlodipine,25200
+NGA-00294,Hypertension,Amlodipine,32400
+NGA-00295,None,None,40600
+NGA-00296,Typhoid Fever,Ciprofloxacin,22100
+NGA-00297,None,None,15800
+NGA-00298,Typhoid Fever,Ciprofloxacin,37700
+NGA-00299,Malaria,Artemether/Lumefantrine,7800
+NGA-00300,None,None,38100
+NGA-00301,Sickle Cell Anemia,Folic Acid,44600
+NGA-00302,Hypertension,Amlodipine,31400
+NGA-00303,Sickle Cell Anemia,Folic Acid,28800
+NGA-00304,Diabetes,Metformin,23900
+NGA-00305,Sickle Cell Anemia,Hydroxyurea,37500
+NGA-00306,Typhoid Fever,Ciprofloxacin,18600
+NGA-00307,Sickle Cell Anemia,Folic Acid,5300
+NGA-00308,Malaria,Artemether/Lumefantrine,40800
+NGA-00309,Asthma,Salbutamol,35500
+NGA-00310,Malaria,Artemether/Lumefantrine,3200
+NGA-00311,Typhoid Fever,Ciprofloxacin,10600
+NGA-00312,Malaria,Artemether/Lumefantrine,18500
+NGA-00313,Hypertension,Amlodipine,28500
+NGA-00314,Typhoid Fever,Ciprofloxacin,9800
+NGA-00315,Hypertension,Amlodipine,26900
+NGA-00316,Malaria,Artemether/Lumefantrine,44600
+NGA-00317,None,None,3500
+NGA-00318,Diabetes,Metformin,43100
+NGA-00319,Sickle Cell Anemia,Hydroxyurea,12400
+NGA-00320,Diabetes,Metformin,18400
+NGA-00321,Hypertension,Amlodipine,18400
+NGA-00322,Hypertension,Amlodipine,27100
+NGA-00323,None,None,42300
+NGA-00324,Asthma,Salbutamol,20200
+NGA-00325,Typhoid Fever,Ciprofloxacin,9500
+NGA-00326,Malaria,Artemether/Lumefantrine,9200
+NGA-00327,Hypertension,Amlodipine,16900
+NGA-00328,Malaria,Artemether/Lumefantrine,12000
+NGA-00329,Sickle Cell Anemia,Folic Acid,18500
+NGA-00330,Asthma,Salbutamol,26500
+NGA-00331,Diabetes,Metformin,6000
+NGA-00332,Asthma,Salbutamol,4800
+NGA-00333,Malaria,Artemether/Lumefantrine,37400
+NGA-00334,None,None,35600
+NGA-00335,None,None,10300
+NGA-00336,Asthma,Salbutamol,31100
+NGA-00337,None,None,37900
+NGA-00338,Hypertension,Amlodipine,36100
+NGA-00339,Malaria,Artemether/Lumefantrine,35700
+NGA-00340,None,None,15100
+NGA-00341,Sickle Cell Anemia,Folic Acid,14100
+NGA-00342,Sickle Cell Anemia,Hydroxyurea,29100
+NGA-00343,Diabetes,Metformin,8400
+NGA-00344,Asthma,Salbutamol,2100
+NGA-00345,Malaria,Artemether/Lumefantrine,20300
+NGA-00346,Hypertension,Amlodipine,9600
+NGA-00347,Diabetes,Metformin,34000
+NGA-00348,Asthma,Salbutamol,13600
+NGA-00349,None,None,10200
+NGA-00350,Malaria,Artemether/Lumefantrine,36700
+NGA-00351,None,None,31000
+NGA-00352,Sickle Cell Anemia,Folic Acid,25200
+NGA-00353,Typhoid Fever,Ciprofloxacin,11900
+NGA-00354,Asthma,Salbutamol,12200
+NGA-00355,Malaria,Artemether/Lumefantrine,11000
+NGA-00356,Sickle Cell Anemia,Hydroxyurea,17900
+NGA-00357,None,None,42400
+NGA-00358,Typhoid Fever,Ciprofloxacin,33700
+NGA-00359,None,None,18400
+NGA-00360,Typhoid Fever,Ciprofloxacin,40800
+NGA-00361,Sickle Cell Anemia,Hydroxyurea,12900
+NGA-00362,Sickle Cell Anemia,Folic Acid,3600
+NGA-00363,Sickle Cell Anemia,Folic Acid,20700
+NGA-00364,None,None,36800
+NGA-00365,Typhoid Fever,Ciprofloxacin,36900
+NGA-00366,Hypertension,Amlodipine,9600
+NGA-00367,Sickle Cell Anemia,Folic Acid,12700
+NGA-00368,Diabetes,Metformin,26200
+NGA-00369,Diabetes,Metformin,18500
+NGA-00370,Hypertension,Amlodipine,28700
+NGA-00371,None,None,7700
+NGA-00372,Diabetes,Metformin,16200
+NGA-00373,Malaria,Artemether/Lumefantrine,2900
+NGA-00374,Hypertension,Amlodipine,13600
+NGA-00375,Diabetes,Metformin,16600
+NGA-00376,Typhoid Fever,Ciprofloxacin,37800
+NGA-00377,None,None,26800
+NGA-00378,Diabetes,Metformin,16900
+NGA-00379,None,None,43900
+NGA-00380,Malaria,Artemether/Lumefantrine,38700
+NGA-00381,Diabetes,Metformin,29200
+NGA-00382,Diabetes,Metformin,42200
+NGA-00383,Malaria,Artemether/Lumefantrine,36700
+NGA-00384,Typhoid Fever,Ciprofloxacin,44500
+NGA-00385,Hypertension,Amlodipine,28200
+NGA-00386,Diabetes,Metformin,39800
+NGA-00387,Sickle Cell Anemia,Hydroxyurea,41600
+NGA-00388,Sickle Cell Anemia,Hydroxyurea,38300
+NGA-00389,Typhoid Fever,Ciprofloxacin,39200
+NGA-00390,Sickle Cell Anemia,Folic Acid,12700
+NGA-00391,Asthma,Salbutamol,20400
+NGA-00392,Typhoid Fever,Ciprofloxacin,40900
+NGA-00393,Diabetes,Metformin,39600
+NGA-00394,None,None,20100
+NGA-00395,Malaria,Artemether/Lumefantrine,16100
+NGA-00396,None,None,15900
+NGA-00397,Diabetes,Metformin,6100
+NGA-00398,Typhoid Fever,Ciprofloxacin,39100
+NGA-00399,Asthma,Salbutamol,19400
+NGA-00400,Asthma,Salbutamol,3900
+NGA-00401,Hypertension,Amlodipine,21700
+NGA-00402,None,None,36500
+NGA-00403,Diabetes,Metformin,24500
+NGA-00404,Asthma,Salbutamol,2200
+NGA-00405,Malaria,Artemether/Lumefantrine,34800
+NGA-00406,Diabetes,Metformin,36300
+NGA-00407,None,None,16600
+NGA-00408,Sickle Cell Anemia,Folic Acid,7900
+NGA-00409,Asthma,Salbutamol,23900
+NGA-00410,Sickle Cell Anemia,Hydroxyurea,21600
+NGA-00411,None,None,42200
+NGA-00412,Malaria,Artemether/Lumefantrine,44400
+NGA-00413,Hypertension,Amlodipine,33800
+NGA-00414,Asthma,Salbutamol,28300
+NGA-00415,Typhoid Fever,Ciprofloxacin,19300
+NGA-00416,Malaria,Artemether/Lumefantrine,18200
+NGA-00417,Hypertension,Amlodipine,43400
+NGA-00418,Asthma,Salbutamol,20500
+NGA-00419,None,None,27300
+NGA-00420,Diabetes,Metformin,28300
+NGA-00421,Diabetes,Metformin,13100
+NGA-00422,Hypertension,Amlodipine,2700
+NGA-00423,Asthma,Salbutamol,32100
+NGA-00424,Sickle Cell Anemia,Folic Acid,21700
+NGA-00425,Sickle Cell Anemia,Folic Acid,38700
+NGA-00426,Sickle Cell Anemia,Hydroxyurea,29600
+NGA-00427,Malaria,Artemether/Lumefantrine,39500
+NGA-00428,Sickle Cell Anemia,Hydroxyurea,39300
+NGA-00429,Hypertension,Amlodipine,20600
+NGA-00430,Malaria,Artemether/Lumefantrine,4200
+NGA-00431,Diabetes,Metformin,38400
+NGA-00432,None,None,28700
+NGA-00433,None,None,41100
+NGA-00434,Sickle Cell Anemia,Folic Acid,5500
+NGA-00435,Hypertension,Amlodipine,43400
+NGA-00436,Diabetes,Metformin,11200
+NGA-00437,None,None,24500
+NGA-00438,Diabetes,Metformin,36200
+NGA-00439,None,None,42900
+NGA-00440,Sickle Cell Anemia,Folic Acid,42100
+NGA-00441,Sickle Cell Anemia,Hydroxyurea,21300
+NGA-00442,Malaria,Artemether/Lumefantrine,16500
+NGA-00443,Typhoid Fever,Ciprofloxacin,22700
+NGA-00444,Hypertension,Amlodipine,17400
+NGA-00445,Sickle Cell Anemia,Folic Acid,20600
+NGA-00446,Diabetes,Metformin,16000
+NGA-00447,Hypertension,Amlodipine,30100
+NGA-00448,Malaria,Artemether/Lumefantrine,5300
+NGA-00449,Hypertension,Amlodipine,33300
+NGA-00450,Malaria,Artemether/Lumefantrine,20200
+NGA-00451,None,None,2900
+NGA-00452,Asthma,Salbutamol,6100
+NGA-00453,Typhoid Fever,Ciprofloxacin,23100
+NGA-00454,Asthma,Salbutamol,14600
+NGA-00455,Typhoid Fever,Ciprofloxacin,26200
+NGA-00456,Typhoid Fever,Ciprofloxacin,33100
+NGA-00457,Diabetes,Metformin,9800
+NGA-00458,None,None,14200
+NGA-00459,Typhoid Fever,Ciprofloxacin,10900
+NGA-00460,Typhoid Fever,Ciprofloxacin,43500
+NGA-00461,Diabetes,Metformin,28300
+NGA-00462,None,None,29500
+NGA-00463,Diabetes,Metformin,20700
+NGA-00464,Malaria,Artemether/Lumefantrine,24200
+NGA-00465,Asthma,Salbutamol,2800
+NGA-00466,Diabetes,Metformin,44000
+NGA-00467,Malaria,Artemether/Lumefantrine,41800
+NGA-00468,None,None,15900
+NGA-00469,Typhoid Fever,Ciprofloxacin,41100
+NGA-00470,Asthma,Salbutamol,29800
+NGA-00471,Diabetes,Metformin,35600
+NGA-00472,Asthma,Salbutamol,19600
+NGA-00473,None,None,32400
+NGA-00474,Asthma,Salbutamol,36000
+NGA-00475,Hypertension,Amlodipine,11900
+NGA-00476,Hypertension,Amlodipine,16800
+NGA-00477,Malaria,Artemether/Lumefantrine,4000
+NGA-00478,None,None,37500
+NGA-00479,None,None,34200
+NGA-00480,Sickle Cell Anemia,Folic Acid,13400
+NGA-00481,Asthma,Salbutamol,9700
+NGA-00482,Hypertension,Amlodipine,26100
+NGA-00483,Sickle Cell Anemia,Hydroxyurea,5100
+NGA-00484,None,None,37800
+NGA-00485,Diabetes,Metformin,25100
+NGA-00486,Sickle Cell Anemia,Folic Acid,9200
+NGA-00487,Asthma,Salbutamol,16200
+NGA-00488,None,None,21200
+NGA-00489,Sickle Cell Anemia,Folic Acid,14900
+NGA-00490,Typhoid Fever,Ciprofloxacin,3400
+NGA-00491,Asthma,Salbutamol,7600
+NGA-00492,None,None,4400
+NGA-00493,Sickle Cell Anemia,Hydroxyurea,39100
+NGA-00494,Diabetes,Metformin,38900
+NGA-00495,Malaria,Artemether/Lumefantrine,25200
+NGA-00496,None,None,39500
+NGA-00497,Typhoid Fever,Ciprofloxacin,45000
+NGA-00498,Hypertension,Amlodipine,20400
+NGA-00499,Hypertension,Amlodipine,9400
+NGA-00500,Asthma,Salbutamol,18200
+NGA-00501,Sickle Cell Anemia,Folic Acid,37700
+NGA-00502,Hypertension,Amlodipine,24100
+NGA-00503,Hypertension,Amlodipine,36000
+NGA-00504,Typhoid Fever,Ciprofloxacin,29100
+NGA-00505,Malaria,Artemether/Lumefantrine,34700
+NGA-00506,Asthma,Salbutamol,12700
+NGA-00507,Asthma,Salbutamol,29800
+NGA-00508,Diabetes,Metformin,26600
+NGA-00509,Asthma,Salbutamol,34600
+NGA-00510,None,None,19500
+NGA-00511,Typhoid Fever,Ciprofloxacin,26000
+NGA-00512,Asthma,Salbutamol,4200
+NGA-00513,None,None,18600
+NGA-00514,Sickle Cell Anemia,Folic Acid,15900
+NGA-00515,Diabetes,Metformin,17100
+NGA-00516,Hypertension,Amlodipine,2800
+NGA-00517,Typhoid Fever,Ciprofloxacin,38100
+NGA-00518,Typhoid Fever,Ciprofloxacin,2900
+NGA-00519,Sickle Cell Anemia,Folic Acid,5400
+NGA-00520,Typhoid Fever,Ciprofloxacin,34900
+NGA-00521,Diabetes,Metformin,20900
+NGA-00522,None,None,26900
+NGA-00523,Hypertension,Amlodipine,27800
+NGA-00524,Malaria,Artemether/Lumefantrine,5600
+NGA-00525,Sickle Cell Anemia,Folic Acid,36700
+NGA-00526,Typhoid Fever,Ciprofloxacin,29900
+NGA-00527,Hypertension,Amlodipine,2100
+NGA-00528,Asthma,Salbutamol,14600
+NGA-00529,Malaria,Artemether/Lumefantrine,41600
+NGA-00530,Typhoid Fever,Ciprofloxacin,39000
+NGA-00531,Typhoid Fever,Ciprofloxacin,8300
+NGA-00532,Hypertension,Amlodipine,39300
+NGA-00533,Sickle Cell Anemia,Folic Acid,32400
+NGA-00534,None,None,21800
+NGA-00535,Hypertension,Amlodipine,24500
+NGA-00536,Asthma,Salbutamol,34600
+NGA-00537,Asthma,Salbutamol,4100
+NGA-00538,Asthma,Salbutamol,11300
+NGA-00539,Malaria,Artemether/Lumefantrine,16100
+NGA-00540,Diabetes,Metformin,8300
+NGA-00541,Malaria,Artemether/Lumefantrine,42700
+NGA-00542,Sickle Cell Anemia,Hydroxyurea,34100
+NGA-00543,None,None,11300
+NGA-00544,Sickle Cell Anemia,Folic Acid,15100
+NGA-00545,Sickle Cell Anemia,Folic Acid,14100
+NGA-00546,Malaria,Artemether/Lumefantrine,29000
+NGA-00547,Typhoid Fever,Ciprofloxacin,13100
+NGA-00548,None,None,23900
+NGA-00549,None,None,27700
+NGA-00550,Hypertension,Amlodipine,34100
+NGA-00551,Diabetes,Metformin,32900
+NGA-00552,Sickle Cell Anemia,Hydroxyurea,12000
+NGA-00553,Hypertension,Amlodipine,25100
+NGA-00554,Typhoid Fever,Ciprofloxacin,31000
+NGA-00555,Sickle Cell Anemia,Folic Acid,8500
+NGA-00556,Diabetes,Metformin,11600
+NGA-00557,Sickle Cell Anemia,Folic Acid,20900
+NGA-00558,Diabetes,Metformin,20100
+NGA-00559,None,None,22500
+NGA-00560,Diabetes,Metformin,38200
+NGA-00561,Typhoid Fever,Ciprofloxacin,40800
+NGA-00562,None,None,21300
+NGA-00563,None,None,11500
+NGA-00564,None,None,7300
+NGA-00565,Sickle Cell Anemia,Hydroxyurea,21200
+NGA-00566,Malaria,Artemether/Lumefantrine,14000
+NGA-00567,Typhoid Fever,Ciprofloxacin,17400
+NGA-00568,Hypertension,Amlodipine,21800
+NGA-00569,Hypertension,Amlodipine,20400
+NGA-00570,Hypertension,Amlodipine,31000
+NGA-00571,Typhoid Fever,Ciprofloxacin,40300
+NGA-00572,Asthma,Salbutamol,18700
+NGA-00573,Hypertension,Amlodipine,42600
+NGA-00574,Hypertension,Amlodipine,21100
+NGA-00575,Asthma,Salbutamol,15500
+NGA-00576,Typhoid Fever,Ciprofloxacin,3800
+NGA-00577,Malaria,Artemether/Lumefantrine,28400
+NGA-00578,Typhoid Fever,Ciprofloxacin,41100
+NGA-00579,None,None,41300
+NGA-00580,None,None,28000
+NGA-00581,None,None,37000
+NGA-00582,Malaria,Artemether/Lumefantrine,13400
+NGA-00583,Hypertension,Amlodipine,23300
+NGA-00584,Hypertension,Amlodipine,35300
+NGA-00585,Hypertension,Amlodipine,18100
+NGA-00586,Typhoid Fever,Ciprofloxacin,13700
+NGA-00587,Asthma,Salbutamol,14300
+NGA-00588,Sickle Cell Anemia,Folic Acid,12300
+NGA-00589,None,None,14300
+NGA-00590,Malaria,Artemether/Lumefantrine,23600
+NGA-00591,Malaria,Artemether/Lumefantrine,16400
+NGA-00592,Asthma,Salbutamol,27300
+NGA-00593,Sickle Cell Anemia,Folic Acid,38500
+NGA-00594,Sickle Cell Anemia,Hydroxyurea,21200
+NGA-00595,Sickle Cell Anemia,Folic Acid,21800
+NGA-00596,Typhoid Fever,Ciprofloxacin,12900
+NGA-00597,Diabetes,Metformin,37500
+NGA-00598,Sickle Cell Anemia,Hydroxyurea,3200
+NGA-00599,Diabetes,Metformin,34400
+NGA-00600,Sickle Cell Anemia,Folic Acid,12300
+NGA-00601,Sickle Cell Anemia,Folic Acid,18700
+NGA-00602,Asthma,Salbutamol,20100
+NGA-00603,None,None,22400
+NGA-00604,Asthma,Salbutamol,3100
+NGA-00605,Asthma,Salbutamol,39500
+NGA-00606,Typhoid Fever,Ciprofloxacin,3000
+NGA-00607,Malaria,Artemether/Lumefantrine,39300
+NGA-00608,Asthma,Salbutamol,20100
+NGA-00609,None,None,17300
+NGA-00610,Diabetes,Metformin,15200
+NGA-00611,Sickle Cell Anemia,Folic Acid,21100
+NGA-00612,Typhoid Fever,Ciprofloxacin,10600
+NGA-00613,Typhoid Fever,Ciprofloxacin,5800
+NGA-00614,None,None,15600
+NGA-00615,Diabetes,Metformin,22300
+NGA-00616,Asthma,Salbutamol,10900
+NGA-00617,Diabetes,Metformin,35400
+NGA-00618,Malaria,Artemether/Lumefantrine,4600
+NGA-00619,Asthma,Salbutamol,27300
+NGA-00620,Sickle Cell Anemia,Folic Acid,35900
+NGA-00621,Typhoid Fever,Ciprofloxacin,29700
+NGA-00622,Typhoid Fever,Ciprofloxacin,4000
+NGA-00623,Typhoid Fever,Ciprofloxacin,38600
+NGA-00624,Diabetes,Metformin,33800
+NGA-00625,Diabetes,Metformin,36200
+NGA-00626,Hypertension,Amlodipine,18000
+NGA-00627,None,None,17400
+NGA-00628,None,None,23800
+NGA-00629,Malaria,Artemether/Lumefantrine,12400
+NGA-00630,Sickle Cell Anemia,Folic Acid,14500
+NGA-00631,Sickle Cell Anemia,Folic Acid,13300
+NGA-00632,None,None,12500
+NGA-00633,None,None,44300
+NGA-00634,None,None,36400
+NGA-00635,Asthma,Salbutamol,30200
+NGA-00636,Malaria,Artemether/Lumefantrine,20200
+NGA-00637,Sickle Cell Anemia,Hydroxyurea,12600
+NGA-00638,Typhoid Fever,Ciprofloxacin,43000
+NGA-00639,Asthma,Salbutamol,41300
+NGA-00640,Hypertension,Amlodipine,39200
+NGA-00641,Typhoid Fever,Ciprofloxacin,7600
+NGA-00642,None,None,19700
+NGA-00643,Malaria,Artemether/Lumefantrine,44300
+NGA-00644,Diabetes,Metformin,29100
+NGA-00645,None,None,41400
+NGA-00646,Malaria,Artemether/Lumefantrine,30900
+NGA-00647,Diabetes,Metformin,2600
+NGA-00648,Typhoid Fever,Ciprofloxacin,43200
+NGA-00649,None,None,13200
+NGA-00650,Malaria,Artemether/Lumefantrine,3200
+NGA-00651,None,None,45000
+NGA-00652,None,None,33700
+NGA-00653,Diabetes,Metformin,5000
+NGA-00654,Diabetes,Metformin,33600
+NGA-00655,None,None,37000
+NGA-00656,None,None,27200
+NGA-00657,Sickle Cell Anemia,Hydroxyurea,34400
+NGA-00658,Asthma,Salbutamol,17600
+NGA-00659,Asthma,Salbutamol,20100
+NGA-00660,Typhoid Fever,Ciprofloxacin,5400
+NGA-00661,Hypertension,Amlodipine,31600
+NGA-00662,Typhoid Fever,Ciprofloxacin,27700
+NGA-00663,Sickle Cell Anemia,Hydroxyurea,26400
+NGA-00664,None,None,33600
+NGA-00665,Hypertension,Amlodipine,37800
+NGA-00666,None,None,44700
+NGA-00667,Diabetes,Metformin,5700
+NGA-00668,None,None,6400
+NGA-00669,None,None,40100
+NGA-00670,Typhoid Fever,Ciprofloxacin,23600
+NGA-00671,Typhoid Fever,Ciprofloxacin,34200
+NGA-00672,Hypertension,Amlodipine,21300
+NGA-00673,None,None,42000
+NGA-00674,Malaria,Artemether/Lumefantrine,19300
+NGA-00675,Sickle Cell Anemia,Folic Acid,5300
+NGA-00676,Hypertension,Amlodipine,33400
+NGA-00677,Malaria,Artemether/Lumefantrine,22200
+NGA-00678,Asthma,Salbutamol,20300
+NGA-00679,Typhoid Fever,Ciprofloxacin,6000
+NGA-00680,Typhoid Fever,Ciprofloxacin,29600
+NGA-00681,Malaria,Artemether/Lumefantrine,29900
+NGA-00682,Hypertension,Amlodipine,24000
+NGA-00683,Hypertension,Amlodipine,30800
+NGA-00684,None,None,14100
+NGA-00685,Typhoid Fever,Ciprofloxacin,21800
+NGA-00686,Asthma,Salbutamol,27100
+NGA-00687,Malaria,Artemether/Lumefantrine,19200
+NGA-00688,Hypertension,Amlodipine,30000
+NGA-00689,Malaria,Artemether/Lumefantrine,35600
+NGA-00690,Asthma,Salbutamol,18500
+NGA-00691,Sickle Cell Anemia,Folic Acid,40100
+NGA-00692,Asthma,Salbutamol,32500
+NGA-00693,None,None,2700
+NGA-00694,Malaria,Artemether/Lumefantrine,18000
+NGA-00695,Asthma,Salbutamol,7700
+NGA-00696,Sickle Cell Anemia,Hydroxyurea,19400
+NGA-00697,Diabetes,Metformin,44100
+NGA-00698,Asthma,Salbutamol,27200
+NGA-00699,Malaria,Artemether/Lumefantrine,2700
+NGA-00700,None,None,29600
+NGA-00701,Sickle Cell Anemia,Hydroxyurea,4900
+NGA-00702,None,None,32900
+NGA-00703,Malaria,Artemether/Lumefantrine,32200
+NGA-00704,Hypertension,Amlodipine,31700
+NGA-00705,None,None,2200
+NGA-00706,Asthma,Salbutamol,9800
+NGA-00707,Sickle Cell Anemia,Folic Acid,32300
+NGA-00708,None,None,23300
+NGA-00709,None,None,41100
+NGA-00710,Asthma,Salbutamol,38800
+NGA-00711,Typhoid Fever,Ciprofloxacin,15600
+NGA-00712,Sickle Cell Anemia,Hydroxyurea,38000
+NGA-00713,Asthma,Salbutamol,31300
+NGA-00714,Sickle Cell Anemia,Hydroxyurea,28800
+NGA-00715,Sickle Cell Anemia,Folic Acid,20200
+NGA-00716,Malaria,Artemether/Lumefantrine,41300
+NGA-00717,None,None,4900
+NGA-00718,Sickle Cell Anemia,Hydroxyurea,4400
+NGA-00719,Hypertension,Amlodipine,4900
+NGA-00720,Sickle Cell Anemia,Folic Acid,39700
+NGA-00721,Sickle Cell Anemia,Hydroxyurea,24900
+NGA-00722,Malaria,Artemether/Lumefantrine,18200
+NGA-00723,Asthma,Salbutamol,15300
+NGA-00724,Sickle Cell Anemia,Folic Acid,15200
+NGA-00725,Typhoid Fever,Ciprofloxacin,39300
+NGA-00726,Malaria,Artemether/Lumefantrine,11200
+NGA-00727,Typhoid Fever,Ciprofloxacin,27400
+NGA-00728,Typhoid Fever,Ciprofloxacin,5900
+NGA-00729,Asthma,Salbutamol,21500
+NGA-00730,Sickle Cell Anemia,Hydroxyurea,33800
+NGA-00731,Sickle Cell Anemia,Hydroxyurea,16600
+NGA-00732,None,None,13200
+NGA-00733,Malaria,Artemether/Lumefantrine,14900
+NGA-00734,Sickle Cell Anemia,Hydroxyurea,15000
+NGA-00735,Malaria,Artemether/Lumefantrine,7500
+NGA-00736,Malaria,Artemether/Lumefantrine,10100
+NGA-00737,Typhoid Fever,Ciprofloxacin,28000
+NGA-00738,None,None,14100
+NGA-00739,Hypertension,Amlodipine,2700
+NGA-00740,Hypertension,Amlodipine,40600
+NGA-00741,Typhoid Fever,Ciprofloxacin,39600
+NGA-00742,Sickle Cell Anemia,Folic Acid,9200
+NGA-00743,Hypertension,Amlodipine,33000
+NGA-00744,None,None,35700
+NGA-00745,None,None,22700
+NGA-00746,Hypertension,Amlodipine,11700
+NGA-00747,Typhoid Fever,Ciprofloxacin,17400
+NGA-00748,None,None,5500
+NGA-00749,None,None,41400
+NGA-00750,Hypertension,Amlodipine,31300
+NGA-00751,Hypertension,Amlodipine,34500
+NGA-00752,Diabetes,Metformin,19500
+NGA-00753,Asthma,Salbutamol,15300
+NGA-00754,None,None,39300
+NGA-00755,Asthma,Salbutamol,23400
+NGA-00756,Sickle Cell Anemia,Hydroxyurea,15000
+NGA-00757,Typhoid Fever,Ciprofloxacin,10800
+NGA-00758,Asthma,Salbutamol,43700
+NGA-00759,Diabetes,Metformin,41500
+NGA-00760,None,None,5300
+NGA-00761,Typhoid Fever,Ciprofloxacin,31000
+NGA-00762,Malaria,Artemether/Lumefantrine,2400
+NGA-00763,Hypertension,Amlodipine,17300
+NGA-00764,Asthma,Salbutamol,18100
+NGA-00765,Diabetes,Metformin,13500
+NGA-00766,Malaria,Artemether/Lumefantrine,42600
+NGA-00767,Typhoid Fever,Ciprofloxacin,20000
+NGA-00768,Typhoid Fever,Ciprofloxacin,15700
+NGA-00769,Diabetes,Metformin,37000
+NGA-00770,Typhoid Fever,Ciprofloxacin,17000
+NGA-00771,None,None,42900
+NGA-00772,None,None,42200
+NGA-00773,Typhoid Fever,Ciprofloxacin,35400
+NGA-00774,Sickle Cell Anemia,Hydroxyurea,17700
+NGA-00775,None,None,9200
+NGA-00776,Sickle Cell Anemia,Hydroxyurea,7100
+NGA-00777,Asthma,Salbutamol,25700
+NGA-00778,Sickle Cell Anemia,Hydroxyurea,16100
+NGA-00779,Hypertension,Amlodipine,39700
+NGA-00780,Hypertension,Amlodipine,36700
+NGA-00781,Diabetes,Metformin,4500
+NGA-00782,Diabetes,Metformin,26800
+NGA-00783,Asthma,Salbutamol,15100
+NGA-00784,Typhoid Fever,Ciprofloxacin,40100
+NGA-00785,Malaria,Artemether/Lumefantrine,36100
+NGA-00786,Sickle Cell Anemia,Hydroxyurea,5300
+NGA-00787,Typhoid Fever,Ciprofloxacin,9300
+NGA-00788,Typhoid Fever,Ciprofloxacin,44900
+NGA-00789,Hypertension,Amlodipine,44100
+NGA-00790,Asthma,Salbutamol,16200
+NGA-00791,Malaria,Artemether/Lumefantrine,36700
+NGA-00792,Sickle Cell Anemia,Hydroxyurea,38100
+NGA-00793,Hypertension,Amlodipine,43800
+NGA-00794,Sickle Cell Anemia,Folic Acid,6800
+NGA-00795,Sickle Cell Anemia,Folic Acid,21800
+NGA-00796,Asthma,Salbutamol,34600
+NGA-00797,Hypertension,Amlodipine,9600
+NGA-00798,Malaria,Artemether/Lumefantrine,25100
+NGA-00799,Diabetes,Metformin,42500
+NGA-00800,Diabetes,Metformin,6200
+NGA-00801,Diabetes,Metformin,11500
+NGA-00802,Asthma,Salbutamol,24900
+NGA-00803,Malaria,Artemether/Lumefantrine,43000
+NGA-00804,Asthma,Salbutamol,5900
+NGA-00805,Sickle Cell Anemia,Hydroxyurea,40300
+NGA-00806,Sickle Cell Anemia,Hydroxyurea,34900
+NGA-00807,Diabetes,Metformin,33500
+NGA-00808,Typhoid Fever,Ciprofloxacin,44700
+NGA-00809,Asthma,Salbutamol,43300
+NGA-00810,Malaria,Artemether/Lumefantrine,4800
+NGA-00811,Diabetes,Metformin,13100
+NGA-00812,Hypertension,Amlodipine,18600
+NGA-00813,Asthma,Salbutamol,13100
+NGA-00814,Malaria,Artemether/Lumefantrine,32300
+NGA-00815,None,None,44200
+NGA-00816,Typhoid Fever,Ciprofloxacin,9400
+NGA-00817,None,None,41300
+NGA-00818,None,None,6400
+NGA-00819,Asthma,Salbutamol,28200
+NGA-00820,Asthma,Salbutamol,17900
+NGA-00821,Hypertension,Amlodipine,21900
+NGA-00822,None,None,38200
+NGA-00823,Diabetes,Metformin,44100
+NGA-00824,Asthma,Salbutamol,38400
+NGA-00825,Sickle Cell Anemia,Folic Acid,38100
+NGA-00826,Diabetes,Metformin,33600
+NGA-00827,Diabetes,Metformin,6400
+NGA-00828,Malaria,Artemether/Lumefantrine,4700
+NGA-00829,Diabetes,Metformin,15500
+NGA-00830,Diabetes,Metformin,22300
+NGA-00831,None,None,10300
+NGA-00832,None,None,5900
+NGA-00833,Hypertension,Amlodipine,5700
+NGA-00834,Malaria,Artemether/Lumefantrine,33100
+NGA-00835,Malaria,Artemether/Lumefantrine,5800
+NGA-00836,Diabetes,Metformin,12700
+NGA-00837,Malaria,Artemether/Lumefantrine,16300
+NGA-00838,Diabetes,Metformin,29600
+NGA-00839,Typhoid Fever,Ciprofloxacin,17600
+NGA-00840,Malaria,Artemether/Lumefantrine,38500
+NGA-00841,Asthma,Salbutamol,42900
+NGA-00842,Asthma,Salbutamol,15800
+NGA-00843,Malaria,Artemether/Lumefantrine,3700
+NGA-00844,Sickle Cell Anemia,Hydroxyurea,4500
+NGA-00845,Hypertension,Amlodipine,15200
+NGA-00846,Hypertension,Amlodipine,2400
+NGA-00847,Asthma,Salbutamol,21000
+NGA-00848,Sickle Cell Anemia,Folic Acid,5800
+NGA-00849,Diabetes,Metformin,32600
+NGA-00850,Sickle Cell Anemia,Hydroxyurea,40400
+NGA-00851,Malaria,Artemether/Lumefantrine,28500
+NGA-00852,Hypertension,Amlodipine,40200
+NGA-00853,Typhoid Fever,Ciprofloxacin,19500
+NGA-00854,None,None,28400
+NGA-00855,Typhoid Fever,Ciprofloxacin,15000
+NGA-00856,Malaria,Artemether/Lumefantrine,35000
+NGA-00857,Diabetes,Metformin,15700
+NGA-00858,Asthma,Salbutamol,19500
+NGA-00859,Sickle Cell Anemia,Hydroxyurea,38100
+NGA-00860,Typhoid Fever,Ciprofloxacin,20600
+NGA-00861,Sickle Cell Anemia,Folic Acid,34200
+NGA-00862,Sickle Cell Anemia,Hydroxyurea,15100
+NGA-00863,None,None,44500
+NGA-00864,None,None,15100
+NGA-00865,Malaria,Artemether/Lumefantrine,35700
+NGA-00866,Asthma,Salbutamol,33900
+NGA-00867,Malaria,Artemether/Lumefantrine,9900
+NGA-00868,None,None,27400
+NGA-00869,Asthma,Salbutamol,8100
+NGA-00870,Typhoid Fever,Ciprofloxacin,42400
+NGA-00871,Sickle Cell Anemia,Folic Acid,38900
+NGA-00872,Typhoid Fever,Ciprofloxacin,27700
+NGA-00873,None,None,16700
+NGA-00874,Typhoid Fever,Ciprofloxacin,4400
+NGA-00875,None,None,15200
+NGA-00876,Malaria,Artemether/Lumefantrine,5500
+NGA-00877,Sickle Cell Anemia,Folic Acid,28600
+NGA-00878,Hypertension,Amlodipine,33600
+NGA-00879,Hypertension,Amlodipine,6400
+NGA-00880,Asthma,Salbutamol,20000
+NGA-00881,Diabetes,Metformin,6500
+NGA-00882,Sickle Cell Anemia,Hydroxyurea,31900
+NGA-00883,Sickle Cell Anemia,Folic Acid,18400
+NGA-00884,Asthma,Salbutamol,29600
+NGA-00885,Diabetes,Metformin,31700
+NGA-00886,Diabetes,Metformin,6000
+NGA-00887,Typhoid Fever,Ciprofloxacin,4500
+NGA-00888,None,None,34400
+NGA-00889,Diabetes,Metformin,38100
+NGA-00890,Diabetes,Metformin,32200
+NGA-00891,Typhoid Fever,Ciprofloxacin,24600
+NGA-00892,Typhoid Fever,Ciprofloxacin,7700
+NGA-00893,None,None,30600
+NGA-00894,Sickle Cell Anemia,Hydroxyurea,7800
+NGA-00895,Diabetes,Metformin,33800
+NGA-00896,Malaria,Artemether/Lumefantrine,19400
+NGA-00897,Sickle Cell Anemia,Hydroxyurea,8100
+NGA-00898,Hypertension,Amlodipine,37400
+NGA-00899,Sickle Cell Anemia,Folic Acid,41800
+NGA-00900,Sickle Cell Anemia,Hydroxyurea,8500
+NGA-00901,Typhoid Fever,Ciprofloxacin,5600
+NGA-00902,Asthma,Salbutamol,36900
+NGA-00903,Sickle Cell Anemia,Folic Acid,17300
+NGA-00904,Typhoid Fever,Ciprofloxacin,29400
+NGA-00905,Diabetes,Metformin,9300
+NGA-00906,Sickle Cell Anemia,Folic Acid,35600
+NGA-00907,Malaria,Artemether/Lumefantrine,37900
+NGA-00908,Malaria,Artemether/Lumefantrine,26400
+NGA-00909,Typhoid Fever,Ciprofloxacin,18400
+NGA-00910,Hypertension,Amlodipine,8300
+NGA-00911,Hypertension,Amlodipine,24800
+NGA-00912,None,None,29200
+NGA-00913,Diabetes,Metformin,23400
+NGA-00914,Typhoid Fever,Ciprofloxacin,36400
+NGA-00915,Hypertension,Amlodipine,32500
+NGA-00916,Sickle Cell Anemia,Folic Acid,34100
+NGA-00917,Typhoid Fever,Ciprofloxacin,2500
+NGA-00918,None,None,26500
+NGA-00919,Asthma,Salbutamol,8000
+NGA-00920,Hypertension,Amlodipine,36400
+NGA-00921,Sickle Cell Anemia,Folic Acid,29200
+NGA-00922,Malaria,Artemether/Lumefantrine,42300
+NGA-00923,Diabetes,Metformin,29200
+NGA-00924,None,None,23200
+NGA-00925,Typhoid Fever,Ciprofloxacin,34700
+NGA-00926,Diabetes,Metformin,25700
+NGA-00927,Typhoid Fever,Ciprofloxacin,21600
+NGA-00928,Asthma,Salbutamol,32200
+NGA-00929,Hypertension,Amlodipine,8800
+NGA-00930,None,None,3300
+NGA-00931,Asthma,Salbutamol,43300
+NGA-00932,Asthma,Salbutamol,30400
+NGA-00933,Hypertension,Amlodipine,41300
+NGA-00934,Asthma,Salbutamol,13500
+NGA-00935,Typhoid Fever,Ciprofloxacin,16600
+NGA-00936,Hypertension,Amlodipine,23200
+NGA-00937,Malaria,Artemether/Lumefantrine,7500
+NGA-00938,None,None,36600
+NGA-00939,Typhoid Fever,Ciprofloxacin,25900
+NGA-00940,None,None,42400
+NGA-00941,Sickle Cell Anemia,Hydroxyurea,8200
+NGA-00942,Asthma,Salbutamol,17000
+NGA-00943,Hypertension,Amlodipine,14700
+NGA-00944,Asthma,Salbutamol,10000
+NGA-00945,Malaria,Artemether/Lumefantrine,32800
+NGA-00946,Hypertension,Amlodipine,3900
+NGA-00947,None,None,31100
+NGA-00948,Sickle Cell Anemia,Hydroxyurea,24000
+NGA-00949,Malaria,Artemether/Lumefantrine,41800
+NGA-00950,Diabetes,Metformin,29600
+NGA-00951,None,None,32400
+NGA-00952,Diabetes,Metformin,8300
+NGA-00953,Asthma,Salbutamol,29200
+NGA-00954,Asthma,Salbutamol,24200
+NGA-00955,Diabetes,Metformin,2700
+NGA-00956,Asthma,Salbutamol,18300
+NGA-00957,Hypertension,Amlodipine,14400
+NGA-00958,Sickle Cell Anemia,Folic Acid,3200
+NGA-00959,Hypertension,Amlodipine,36000
+NGA-00960,Hypertension,Amlodipine,37800
+NGA-00961,Hypertension,Amlodipine,13300
+NGA-00962,Diabetes,Metformin,20000
+NGA-00963,Malaria,Artemether/Lumefantrine,17400
+NGA-00964,Typhoid Fever,Ciprofloxacin,14900
+NGA-00965,Sickle Cell Anemia,Folic Acid,22500
+NGA-00966,Asthma,Salbutamol,21400
+NGA-00967,Diabetes,Metformin,36600
+NGA-00968,Malaria,Artemether/Lumefantrine,31800
+NGA-00969,None,None,28100
+NGA-00970,Diabetes,Metformin,16700
+NGA-00971,Asthma,Salbutamol,32900
+NGA-00972,Asthma,Salbutamol,3000
+NGA-00973,Diabetes,Metformin,39400
+NGA-00974,None,None,29300
+NGA-00975,Hypertension,Amlodipine,43800
+NGA-00976,None,None,27100
+NGA-00977,Typhoid Fever,Ciprofloxacin,16200
+NGA-00978,Sickle Cell Anemia,Folic Acid,18900
+NGA-00979,Typhoid Fever,Ciprofloxacin,31600
+NGA-00980,Malaria,Artemether/Lumefantrine,10800
+NGA-00981,Typhoid Fever,Ciprofloxacin,6000
+NGA-00982,Hypertension,Amlodipine,18700
+NGA-00983,Diabetes,Metformin,29000
+NGA-00984,Diabetes,Metformin,17200
+NGA-00985,Sickle Cell Anemia,Hydroxyurea,36600
+NGA-00986,Typhoid Fever,Ciprofloxacin,11500
+NGA-00987,Sickle Cell Anemia,Folic Acid,26000
+NGA-00988,Typhoid Fever,Ciprofloxacin,24800
+NGA-00989,Asthma,Salbutamol,41900
+NGA-00990,Diabetes,Metformin,21000
+NGA-00991,Typhoid Fever,Ciprofloxacin,39800
+NGA-00992,Hypertension,Amlodipine,16900
+NGA-00993,Asthma,Salbutamol,32000
+NGA-00994,Malaria,Artemether/Lumefantrine,41200
+NGA-00995,Diabetes,Metformin,28400
+NGA-00996,Asthma,Salbutamol,37700
+NGA-00997,Asthma,Salbutamol,5200
+NGA-00998,None,None,18700
+NGA-00999,Diabetes,Metformin,43200
+NGA-01000,None,None,19900
+NGA-01001,Diabetes,Metformin,7500
+NGA-01002,Asthma,Salbutamol,41900
+NGA-01003,Malaria,Artemether/Lumefantrine,38300
+NGA-01004,Asthma,Salbutamol,3000
+NGA-01005,Typhoid Fever,Ciprofloxacin,5800
+NGA-01006,Diabetes,Metformin,6200
+NGA-01007,Asthma,Salbutamol,33300
+NGA-01008,None,None,10300
+NGA-01009,Malaria,Artemether/Lumefantrine,18400
+NGA-01010,Typhoid Fever,Ciprofloxacin,41700
+NGA-01011,Malaria,Artemether/Lumefantrine,22700
+NGA-01012,Typhoid Fever,Ciprofloxacin,27300
+NGA-01013,Malaria,Artemether/Lumefantrine,30600
+NGA-01014,Diabetes,Metformin,21200
+NGA-01015,Malaria,Artemether/Lumefantrine,39900
+NGA-01016,Hypertension,Amlodipine,34400
+NGA-01017,Hypertension,Amlodipine,28500
+NGA-01018,Malaria,Artemether/Lumefantrine,11200
+NGA-01019,None,None,2700
+NGA-01020,Asthma,Salbutamol,16200
+NGA-01021,Malaria,Artemether/Lumefantrine,34700
+NGA-01022,Typhoid Fever,Ciprofloxacin,33400
+NGA-01023,None,None,38800
+NGA-01024,None,None,24400
+NGA-01025,Malaria,Artemether/Lumefantrine,36300
+NGA-01026,Asthma,Salbutamol,34900
+NGA-01027,Sickle Cell Anemia,Folic Acid,33400
+NGA-01028,Diabetes,Metformin,26100
+NGA-01029,Malaria,Artemether/Lumefantrine,42900
+NGA-01030,Hypertension,Amlodipine,26500
+NGA-01031,Sickle Cell Anemia,Folic Acid,15200
+NGA-01032,Sickle Cell Anemia,Folic Acid,27300
+NGA-01033,Diabetes,Metformin,34400
+NGA-01034,Sickle Cell Anemia,Hydroxyurea,13200
+NGA-01035,Diabetes,Metformin,36800
+NGA-01036,Asthma,Salbutamol,33400
+NGA-01037,Typhoid Fever,Ciprofloxacin,43200
+NGA-01038,Typhoid Fever,Ciprofloxacin,12000
+NGA-01039,Asthma,Salbutamol,20900
+NGA-01040,Malaria,Artemether/Lumefantrine,26100
+NGA-01041,Asthma,Salbutamol,27300
+NGA-01042,None,None,40000
+NGA-01043,Diabetes,Metformin,43200
+NGA-01044,Sickle Cell Anemia,Hydroxyurea,19600
+NGA-01045,None,None,11200
+NGA-01046,Hypertension,Amlodipine,4400
+NGA-01047,Asthma,Salbutamol,26300
+NGA-01048,Typhoid Fever,Ciprofloxacin,33300
+NGA-01049,Sickle Cell Anemia,Hydroxyurea,7400
+NGA-01050,Typhoid Fever,Ciprofloxacin,33400
+NGA-01051,Diabetes,Metformin,23200
+NGA-01052,Malaria,Artemether/Lumefantrine,36700
+NGA-01053,Asthma,Salbutamol,13000
+NGA-01054,Hypertension,Amlodipine,24000
+NGA-01055,None,None,24200
+NGA-01056,Sickle Cell Anemia,Hydroxyurea,37000
+NGA-01057,Asthma,Salbutamol,24700
+NGA-01058,Sickle Cell Anemia,Folic Acid,35100
+NGA-01059,Hypertension,Amlodipine,37900
+NGA-01060,None,None,16300
+NGA-01061,Typhoid Fever,Ciprofloxacin,31600
+NGA-01062,Diabetes,Metformin,8400
+NGA-01063,Asthma,Salbutamol,40300
+NGA-01064,Asthma,Salbutamol,17800
+NGA-01065,Hypertension,Amlodipine,30500
+NGA-01066,Hypertension,Amlodipine,30500
+NGA-01067,Sickle Cell Anemia,Folic Acid,30500
+NGA-01068,Malaria,Artemether/Lumefantrine,39500
+NGA-01069,Sickle Cell Anemia,Folic Acid,8800
+NGA-01070,Hypertension,Amlodipine,41000
+NGA-01071,Typhoid Fever,Ciprofloxacin,32800
+NGA-01072,Sickle Cell Anemia,Hydroxyurea,40700
+NGA-01073,Asthma,Salbutamol,34700
+NGA-01074,Diabetes,Metformin,6800
+NGA-01075,Asthma,Salbutamol,11400
+NGA-01076,Malaria,Artemether/Lumefantrine,12600
+NGA-01077,None,None,11000
+NGA-01078,Asthma,Salbutamol,20800
+NGA-01079,Asthma,Salbutamol,23900
+NGA-01080,None,None,16700
+NGA-01081,Typhoid Fever,Ciprofloxacin,25000
+NGA-01082,Asthma,Salbutamol,14800
+NGA-01083,Sickle Cell Anemia,Folic Acid,42500
+NGA-01084,Hypertension,Amlodipine,20200
+NGA-01085,Malaria,Artemether/Lumefantrine,41000
+NGA-01086,None,None,29500
+NGA-01087,Hypertension,Amlodipine,23600
+NGA-01088,Typhoid Fever,Ciprofloxacin,28300
+NGA-01089,Typhoid Fever,Ciprofloxacin,19200
+NGA-01090,Typhoid Fever,Ciprofloxacin,15900
+NGA-01091,Typhoid Fever,Ciprofloxacin,25700
+NGA-01092,Malaria,Artemether/Lumefantrine,22600
+NGA-01093,None,None,13600
+NGA-01094,Asthma,Salbutamol,14100
+NGA-01095,Typhoid Fever,Ciprofloxacin,16000
+NGA-01096,Typhoid Fever,Ciprofloxacin,26700
+NGA-01097,Typhoid Fever,Ciprofloxacin,16400
+NGA-01098,Typhoid Fever,Ciprofloxacin,5400
+NGA-01099,Malaria,Artemether/Lumefantrine,17400
+NGA-01100,Malaria,Artemether/Lumefantrine,10600
+NGA-01101,Hypertension,Amlodipine,42300
+NGA-01102,Diabetes,Metformin,15900
+NGA-01103,Asthma,Salbutamol,16800
+NGA-01104,Typhoid Fever,Ciprofloxacin,35900
+NGA-01105,Hypertension,Amlodipine,16200
+NGA-01106,Diabetes,Metformin,29000
+NGA-01107,Hypertension,Amlodipine,41700
+NGA-01108,Sickle Cell Anemia,Hydroxyurea,32100
+NGA-01109,Malaria,Artemether/Lumefantrine,23000
+NGA-01110,Hypertension,Amlodipine,25100
+NGA-01111,Sickle Cell Anemia,Hydroxyurea,21700
+NGA-01112,Sickle Cell Anemia,Hydroxyurea,13900
+NGA-01113,Sickle Cell Anemia,Hydroxyurea,43600
+NGA-01114,Hypertension,Amlodipine,4800
+NGA-01115,Hypertension,Amlodipine,29400
+NGA-01116,Asthma,Salbutamol,43700
+NGA-01117,Asthma,Salbutamol,18600
+NGA-01118,Hypertension,Amlodipine,40200
+NGA-01119,Diabetes,Metformin,41900
+NGA-01120,None,None,20400
+NGA-01121,None,None,15900
+NGA-01122,None,None,7200
+NGA-01123,Malaria,Artemether/Lumefantrine,34200
+NGA-01124,Malaria,Artemether/Lumefantrine,7100
+NGA-01125,Hypertension,Amlodipine,28500
+NGA-01126,Asthma,Salbutamol,23200
+NGA-01127,Typhoid Fever,Ciprofloxacin,13100
+NGA-01128,Typhoid Fever,Ciprofloxacin,11600
+NGA-01129,None,None,28400
+NGA-01130,Hypertension,Amlodipine,17300
+NGA-01131,Typhoid Fever,Ciprofloxacin,15700
+NGA-01132,Typhoid Fever,Ciprofloxacin,35000
+NGA-01133,Diabetes,Metformin,35500
+NGA-01134,None,None,20700
+NGA-01135,Asthma,Salbutamol,40100
+NGA-01136,Malaria,Artemether/Lumefantrine,28300
+NGA-01137,Malaria,Artemether/Lumefantrine,20900
+NGA-01138,Typhoid Fever,Ciprofloxacin,27800
+NGA-01139,Sickle Cell Anemia,Folic Acid,12200
+NGA-01140,Typhoid Fever,Ciprofloxacin,33100
+NGA-01141,None,None,41300
+NGA-01142,Malaria,Artemether/Lumefantrine,4100
+NGA-01143,Diabetes,Metformin,43100
+NGA-01144,Hypertension,Amlodipine,17100
+NGA-01145,Asthma,Salbutamol,23700
+NGA-01146,Diabetes,Metformin,9900
+NGA-01147,Diabetes,Metformin,37900
+NGA-01148,Sickle Cell Anemia,Hydroxyurea,19000
+NGA-01149,Typhoid Fever,Ciprofloxacin,10200
+NGA-01150,Malaria,Artemether/Lumefantrine,3600
+NGA-01151,Diabetes,Metformin,34600
+NGA-01152,Diabetes,Metformin,16100
+NGA-01153,Malaria,Artemether/Lumefantrine,22400
+NGA-01154,None,None,29500
+NGA-01155,Hypertension,Amlodipine,9400
+NGA-01156,Hypertension,Amlodipine,14100
+NGA-01157,Hypertension,Amlodipine,7400
+NGA-01158,Sickle Cell Anemia,Hydroxyurea,14100
+NGA-01159,Sickle Cell Anemia,Folic Acid,25300
+NGA-01160,Diabetes,Metformin,34000
+NGA-01161,Malaria,Artemether/Lumefantrine,15100
+NGA-01162,Typhoid Fever,Ciprofloxacin,30500
+NGA-01163,Diabetes,Metformin,9200
+NGA-01164,Sickle Cell Anemia,Hydroxyurea,18400
+NGA-01165,Typhoid Fever,Ciprofloxacin,25800
+NGA-01166,Diabetes,Metformin,26400
+NGA-01167,Typhoid Fever,Ciprofloxacin,24400
+NGA-01168,Diabetes,Metformin,12900
+NGA-01169,Hypertension,Amlodipine,30200
+NGA-01170,Sickle Cell Anemia,Hydroxyurea,4100
+NGA-01171,Sickle Cell Anemia,Hydroxyurea,5600
+NGA-01172,Typhoid Fever,Ciprofloxacin,29300
+NGA-01173,Sickle Cell Anemia,Hydroxyurea,23800
+NGA-01174,Malaria,Artemether/Lumefantrine,3400
+NGA-01175,Malaria,Artemether/Lumefantrine,2300
+NGA-01176,None,None,10800
+NGA-01177,Typhoid Fever,Ciprofloxacin,41100
+NGA-01178,Hypertension,Amlodipine,25800
+NGA-01179,Typhoid Fever,Ciprofloxacin,5100
+NGA-01180,Sickle Cell Anemia,Folic Acid,38700
+NGA-01181,Hypertension,Amlodipine,39400
+NGA-01182,Typhoid Fever,Ciprofloxacin,20900
+NGA-01183,Hypertension,Amlodipine,12400
+NGA-01184,Malaria,Artemether/Lumefantrine,36200
+NGA-01185,None,None,24700
+NGA-01186,None,None,19200
+NGA-01187,Sickle Cell Anemia,Hydroxyurea,34100
+NGA-01188,Sickle Cell Anemia,Hydroxyurea,6500
+NGA-01189,Diabetes,Metformin,16900
+NGA-01190,Asthma,Salbutamol,13200
+NGA-01191,Asthma,Salbutamol,19900
+NGA-01192,Typhoid Fever,Ciprofloxacin,2700
+NGA-01193,None,None,12500
+NGA-01194,Asthma,Salbutamol,8600
+NGA-01195,Diabetes,Metformin,18900
+NGA-01196,Diabetes,Metformin,28400
+NGA-01197,None,None,20800
+NGA-01198,Sickle Cell Anemia,Folic Acid,38800
+NGA-01199,Hypertension,Amlodipine,42000
+NGA-01200,Asthma,Salbutamol,37500
+NGA-01201,Hypertension,Amlodipine,19300
+NGA-01202,Typhoid Fever,Ciprofloxacin,32100
+NGA-01203,Asthma,Salbutamol,23300
+NGA-01204,Typhoid Fever,Ciprofloxacin,4100
+NGA-01205,Typhoid Fever,Ciprofloxacin,16300
+NGA-01206,Sickle Cell Anemia,Folic Acid,10900
+NGA-01207,Diabetes,Metformin,41800
+NGA-01208,Sickle Cell Anemia,Hydroxyurea,38700
+NGA-01209,Malaria,Artemether/Lumefantrine,14900
+NGA-01210,Diabetes,Metformin,26700
+NGA-01211,None,None,6600
+NGA-01212,Malaria,Artemether/Lumefantrine,31700
+NGA-01213,Malaria,Artemether/Lumefantrine,32600
+NGA-01214,Hypertension,Amlodipine,37300
+NGA-01215,Sickle Cell Anemia,Folic Acid,17000
+NGA-01216,Sickle Cell Anemia,Folic Acid,21100
+NGA-01217,Sickle Cell Anemia,Folic Acid,28900
+NGA-01218,None,None,31400
+NGA-01219,Diabetes,Metformin,36500
+NGA-01220,Malaria,Artemether/Lumefantrine,17700
+NGA-01221,Hypertension,Amlodipine,3800
+NGA-01222,Asthma,Salbutamol,44200
+NGA-01223,Sickle Cell Anemia,Hydroxyurea,39800
+NGA-01224,Diabetes,Metformin,42800
+NGA-01225,Diabetes,Metformin,43700
+NGA-01226,Malaria,Artemether/Lumefantrine,33100
+NGA-01227,Asthma,Salbutamol,38500
+NGA-01228,Asthma,Salbutamol,29900
+NGA-01229,Hypertension,Amlodipine,30200
+NGA-01230,Sickle Cell Anemia,Folic Acid,26000
+NGA-01231,Sickle Cell Anemia,Hydroxyurea,39000
+NGA-01232,Diabetes,Metformin,31000
+NGA-01233,Sickle Cell Anemia,Folic Acid,21500
+NGA-01234,Diabetes,Metformin,39600
+NGA-01235,Asthma,Salbutamol,25600
+NGA-01236,Diabetes,Metformin,5800
+NGA-01237,None,None,8800
+NGA-01238,Typhoid Fever,Ciprofloxacin,9800
+NGA-01239,Typhoid Fever,Ciprofloxacin,13200
+NGA-01240,Hypertension,Amlodipine,42500
+NGA-01241,Hypertension,Amlodipine,17900
+NGA-01242,None,None,22500
+NGA-01243,None,None,24000
+NGA-01244,Hypertension,Amlodipine,14400
+NGA-01245,None,None,19000
+NGA-01246,Malaria,Artemether/Lumefantrine,21200
+NGA-01247,Diabetes,Metformin,28200
+NGA-01248,Typhoid Fever,Ciprofloxacin,37800
+NGA-01249,Sickle Cell Anemia,Hydroxyurea,37700
+NGA-01250,Hypertension,Amlodipine,37700
+NGA-01251,Hypertension,Amlodipine,5500
+NGA-01252,Malaria,Artemether/Lumefantrine,35600
+NGA-01253,Diabetes,Metformin,26200
+NGA-01254,Diabetes,Metformin,26500
+NGA-01255,Diabetes,Metformin,6300
+NGA-01256,Typhoid Fever,Ciprofloxacin,23700
+NGA-01257,Asthma,Salbutamol,21600
+NGA-01258,Asthma,Salbutamol,18100
+NGA-01259,Asthma,Salbutamol,4900
+NGA-01260,Malaria,Artemether/Lumefantrine,26600
+NGA-01261,Diabetes,Metformin,31600
+NGA-01262,Asthma,Salbutamol,14900
+NGA-01263,Typhoid Fever,Ciprofloxacin,36100
+NGA-01264,Diabetes,Metformin,28000
+NGA-01265,None,None,9100
+NGA-01266,Sickle Cell Anemia,Hydroxyurea,10900
+NGA-01267,Hypertension,Amlodipine,6300
+NGA-01268,Hypertension,Amlodipine,41500
+NGA-01269,Diabetes,Metformin,28700
+NGA-01270,Malaria,Artemether/Lumefantrine,9600
+NGA-01271,Malaria,Artemether/Lumefantrine,34700
+NGA-01272,Diabetes,Metformin,34700
+NGA-01273,Asthma,Salbutamol,24200
+NGA-01274,Sickle Cell Anemia,Folic Acid,29700
+NGA-01275,None,None,30500
+NGA-01276,Typhoid Fever,Ciprofloxacin,22500
+NGA-01277,None,None,20900
+NGA-01278,None,None,20700
+NGA-01279,Typhoid Fever,Ciprofloxacin,18300
+NGA-01280,None,None,15700
+NGA-01281,Sickle Cell Anemia,Folic Acid,40600
+NGA-01282,Diabetes,Metformin,22700
+NGA-01283,Hypertension,Amlodipine,17600
+NGA-01284,Malaria,Artemether/Lumefantrine,15000
+NGA-01285,Hypertension,Amlodipine,28300
+NGA-01286,Sickle Cell Anemia,Folic Acid,29900
+NGA-01287,Asthma,Salbutamol,32500
+NGA-01288,Malaria,Artemether/Lumefantrine,29500
+NGA-01289,Diabetes,Metformin,15200
+NGA-01290,Malaria,Artemether/Lumefantrine,44300
+NGA-01291,None,None,20600
+NGA-01292,Diabetes,Metformin,22200
+NGA-01293,Diabetes,Metformin,23200
+NGA-01294,Hypertension,Amlodipine,16500
+NGA-01295,Typhoid Fever,Ciprofloxacin,19700
+NGA-01296,Typhoid Fever,Ciprofloxacin,26200
+NGA-01297,Asthma,Salbutamol,42900
+NGA-01298,Typhoid Fever,Ciprofloxacin,33200
+NGA-01299,Typhoid Fever,Ciprofloxacin,37700
+NGA-01300,Malaria,Artemether/Lumefantrine,13400
+NGA-01301,None,None,28300
+NGA-01302,Hypertension,Amlodipine,40600
+NGA-01303,Malaria,Artemether/Lumefantrine,22900
+NGA-01304,Asthma,Salbutamol,42700
+NGA-01305,None,None,31800
+NGA-01306,Sickle Cell Anemia,Hydroxyurea,14800
+NGA-01307,Diabetes,Metformin,6800
+NGA-01308,None,None,11100
+NGA-01309,Malaria,Artemether/Lumefantrine,27500
+NGA-01310,Malaria,Artemether/Lumefantrine,22100
+NGA-01311,Malaria,Artemether/Lumefantrine,44700
+NGA-01312,Asthma,Salbutamol,30600
+NGA-01313,Asthma,Salbutamol,6700
+NGA-01314,None,None,42800
+NGA-01315,Typhoid Fever,Ciprofloxacin,29700
+NGA-01316,Hypertension,Amlodipine,21900
+NGA-01317,Malaria,Artemether/Lumefantrine,38900
+NGA-01318,Diabetes,Metformin,35000
+NGA-01319,Hypertension,Amlodipine,28400
+NGA-01320,None,None,13300
+NGA-01321,Malaria,Artemether/Lumefantrine,30500
+NGA-01322,Diabetes,Metformin,37200
+NGA-01323,Malaria,Artemether/Lumefantrine,30300
+NGA-01324,Malaria,Artemether/Lumefantrine,31900
+NGA-01325,Diabetes,Metformin,22800
+NGA-01326,Hypertension,Amlodipine,9400
+NGA-01327,Typhoid Fever,Ciprofloxacin,42500
+NGA-01328,Typhoid Fever,Ciprofloxacin,22100
+NGA-01329,None,None,23500
+NGA-01330,Typhoid Fever,Ciprofloxacin,19300
+NGA-01331,Hypertension,Amlodipine,6500
+NGA-01332,Asthma,Salbutamol,16700
+NGA-01333,Malaria,Artemether/Lumefantrine,29900
+NGA-01334,Sickle Cell Anemia,Hydroxyurea,33400
+NGA-01335,Malaria,Artemether/Lumefantrine,23000
+NGA-01336,Typhoid Fever,Ciprofloxacin,6100
+NGA-01337,Sickle Cell Anemia,Hydroxyurea,25000
+NGA-01338,None,None,39600
+NGA-01339,Malaria,Artemether/Lumefantrine,18100
+NGA-01340,None,None,11200
+NGA-01341,Typhoid Fever,Ciprofloxacin,30600
+NGA-01342,Malaria,Artemether/Lumefantrine,8500
+NGA-01343,Malaria,Artemether/Lumefantrine,39000
+NGA-01344,None,None,25100
+NGA-01345,Asthma,Salbutamol,43600
+NGA-01346,Typhoid Fever,Ciprofloxacin,17000
+NGA-01347,Asthma,Salbutamol,2800
+NGA-01348,None,None,35300
+NGA-01349,Diabetes,Metformin,34200
+NGA-01350,Typhoid Fever,Ciprofloxacin,35800
+NGA-01351,Diabetes,Metformin,38000
+NGA-01352,Hypertension,Amlodipine,22900
+NGA-01353,Diabetes,Metformin,27700
+NGA-01354,Sickle Cell Anemia,Folic Acid,37800
+NGA-01355,Typhoid Fever,Ciprofloxacin,17600
+NGA-01356,Sickle Cell Anemia,Hydroxyurea,23600
+NGA-01357,Malaria,Artemether/Lumefantrine,30100
+NGA-01358,Typhoid Fever,Ciprofloxacin,19300
+NGA-01359,Asthma,Salbutamol,8700
+NGA-01360,None,None,40600
+NGA-01361,Asthma,Salbutamol,24800
+NGA-01362,Sickle Cell Anemia,Hydroxyurea,41100
+NGA-01363,Malaria,Artemether/Lumefantrine,29000
+NGA-01364,Hypertension,Amlodipine,7100
+NGA-01365,Sickle Cell Anemia,Folic Acid,10300
+NGA-01366,Typhoid Fever,Ciprofloxacin,9200
+NGA-01367,Sickle Cell Anemia,Hydroxyurea,11200
+NGA-01368,None,None,33700
+NGA-01369,Asthma,Salbutamol,35800
+NGA-01370,Hypertension,Amlodipine,29400
+NGA-01371,Hypertension,Amlodipine,21100
+NGA-01372,Sickle Cell Anemia,Folic Acid,14900
+NGA-01373,Asthma,Salbutamol,22000
+NGA-01374,Malaria,Artemether/Lumefantrine,12800
+NGA-01375,Diabetes,Metformin,36700
+NGA-01376,Diabetes,Metformin,44900
+NGA-01377,Hypertension,Amlodipine,21100
+NGA-01378,Asthma,Salbutamol,32800
+NGA-01379,Asthma,Salbutamol,12900
+NGA-01380,Hypertension,Amlodipine,44100
+NGA-01381,Malaria,Artemether/Lumefantrine,30800
+NGA-01382,Typhoid Fever,Ciprofloxacin,23000
+NGA-01383,Malaria,Artemether/Lumefantrine,36800
+NGA-01384,Malaria,Artemether/Lumefantrine,37300
+NGA-01385,Hypertension,Amlodipine,12600
+NGA-01386,Hypertension,Amlodipine,14500
+NGA-01387,Malaria,Artemether/Lumefantrine,25900
+NGA-01388,Hypertension,Amlodipine,32700
+NGA-01389,None,None,26600
+NGA-01390,Typhoid Fever,Ciprofloxacin,44800
+NGA-01391,Sickle Cell Anemia,Hydroxyurea,24300
+NGA-01392,Diabetes,Metformin,11300
+NGA-01393,Asthma,Salbutamol,42400
+NGA-01394,Asthma,Salbutamol,18000
+NGA-01395,Diabetes,Metformin,35000
+NGA-01396,Asthma,Salbutamol,3600
+NGA-01397,Malaria,Artemether/Lumefantrine,21800
+NGA-01398,Asthma,Salbutamol,10200
+NGA-01399,Diabetes,Metformin,37500
+NGA-01400,Sickle Cell Anemia,Hydroxyurea,6300
+NGA-01401,Hypertension,Amlodipine,5300
+NGA-01402,Hypertension,Amlodipine,17000
+NGA-01403,Diabetes,Metformin,31100
+NGA-01404,Asthma,Salbutamol,30300
+NGA-01405,Malaria,Artemether/Lumefantrine,3700
+NGA-01406,Malaria,Artemether/Lumefantrine,6500
+NGA-01407,Diabetes,Metformin,34200
+NGA-01408,Sickle Cell Anemia,Hydroxyurea,42400
+NGA-01409,Hypertension,Amlodipine,21800
+NGA-01410,Malaria,Artemether/Lumefantrine,36000
+NGA-01411,Typhoid Fever,Ciprofloxacin,13600
+NGA-01412,Typhoid Fever,Ciprofloxacin,3400
+NGA-01413,Typhoid Fever,Ciprofloxacin,25300
+NGA-01414,Malaria,Artemether/Lumefantrine,32100
+NGA-01415,Malaria,Artemether/Lumefantrine,9700
+NGA-01416,Diabetes,Metformin,24700
+NGA-01417,Malaria,Artemether/Lumefantrine,15500
+NGA-01418,Diabetes,Metformin,6200
+NGA-01419,Diabetes,Metformin,40900
+NGA-01420,Asthma,Salbutamol,8700
+NGA-01421,None,None,34200
+NGA-01422,None,None,17700
+NGA-01423,Hypertension,Amlodipine,36800
+NGA-01424,Malaria,Artemether/Lumefantrine,12200
+NGA-01425,Malaria,Artemether/Lumefantrine,25600
+NGA-01426,Sickle Cell Anemia,Folic Acid,36000
+NGA-01427,Typhoid Fever,Ciprofloxacin,27200
+NGA-01428,Typhoid Fever,Ciprofloxacin,21100
+NGA-01429,Hypertension,Amlodipine,31100
+NGA-01430,Hypertension,Amlodipine,17200
+NGA-01431,Sickle Cell Anemia,Folic Acid,10500
+NGA-01432,Asthma,Salbutamol,20400
+NGA-01433,None,None,45000
+NGA-01434,Hypertension,Amlodipine,17800
+NGA-01435,Hypertension,Amlodipine,31000
+NGA-01436,Hypertension,Amlodipine,17300
+NGA-01437,Sickle Cell Anemia,Hydroxyurea,24700
+NGA-01438,Hypertension,Amlodipine,19500
+NGA-01439,Diabetes,Metformin,23000
+NGA-01440,Malaria,Artemether/Lumefantrine,21500
+NGA-01441,Malaria,Artemether/Lumefantrine,7700
+NGA-01442,Diabetes,Metformin,25100
+NGA-01443,Hypertension,Amlodipine,13600
+NGA-01444,Sickle Cell Anemia,Hydroxyurea,5700
+NGA-01445,None,None,11200
+NGA-01446,Hypertension,Amlodipine,36400
+NGA-01447,Hypertension,Amlodipine,37300
+NGA-01448,Asthma,Salbutamol,34400
+NGA-01449,Hypertension,Amlodipine,28300
+NGA-01450,Malaria,Artemether/Lumefantrine,5200
+NGA-01451,Diabetes,Metformin,10200
+NGA-01452,Typhoid Fever,Ciprofloxacin,28000
+NGA-01453,Hypertension,Amlodipine,41200
+NGA-01454,Asthma,Salbutamol,15300
+NGA-01455,Malaria,Artemether/Lumefantrine,23200
+NGA-01456,Malaria,Artemether/Lumefantrine,15300
+NGA-01457,Asthma,Salbutamol,28400
+NGA-01458,Asthma,Salbutamol,20600
+NGA-01459,None,None,38600
+NGA-01460,Sickle Cell Anemia,Hydroxyurea,41700
+NGA-01461,Malaria,Artemether/Lumefantrine,15500
+NGA-01462,Sickle Cell Anemia,Hydroxyurea,32600
+NGA-01463,Malaria,Artemether/Lumefantrine,33300
+NGA-01464,Malaria,Artemether/Lumefantrine,19800
+NGA-01465,Sickle Cell Anemia,Hydroxyurea,35100
+NGA-01466,Hypertension,Amlodipine,40000
+NGA-01467,Diabetes,Metformin,42900
+NGA-01468,None,None,13500
+NGA-01469,Diabetes,Metformin,43400
+NGA-01470,Hypertension,Amlodipine,10400
+NGA-01471,Hypertension,Amlodipine,35000
+NGA-01472,None,None,43900
+NGA-01473,Malaria,Artemether/Lumefantrine,30700
+NGA-01474,Hypertension,Amlodipine,30600
+NGA-01475,Hypertension,Amlodipine,41300
+NGA-01476,Asthma,Salbutamol,31000
+NGA-01477,Hypertension,Amlodipine,11800
+NGA-01478,Diabetes,Metformin,17700
+NGA-01479,Hypertension,Amlodipine,29000
+NGA-01480,None,None,38300
+NGA-01481,Typhoid Fever,Ciprofloxacin,26100
+NGA-01482,Malaria,Artemether/Lumefantrine,8600
+NGA-01483,Sickle Cell Anemia,Hydroxyurea,37400
+NGA-01484,Hypertension,Amlodipine,24100
+NGA-01485,Hypertension,Amlodipine,43900
+NGA-01486,Hypertension,Amlodipine,16700
+NGA-01487,Asthma,Salbutamol,42800
+NGA-01488,None,None,30800
+NGA-01489,Diabetes,Metformin,12200
+NGA-01490,Diabetes,Metformin,33400
+NGA-01491,Sickle Cell Anemia,Hydroxyurea,36800
+NGA-01492,Sickle Cell Anemia,Folic Acid,42700
+NGA-01493,Typhoid Fever,Ciprofloxacin,32400
+NGA-01494,Asthma,Salbutamol,36400
+NGA-01495,Diabetes,Metformin,8100
+NGA-01496,Diabetes,Metformin,23800
+NGA-01497,Hypertension,Amlodipine,34800
+NGA-01498,Hypertension,Amlodipine,18800
+NGA-01499,Diabetes,Metformin,42400
+NGA-01500,Hypertension,Amlodipine,6500
+NGA-01501,None,None,36800
+NGA-01502,Typhoid Fever,Ciprofloxacin,30900
+NGA-01503,Diabetes,Metformin,43100
+NGA-01504,Sickle Cell Anemia,Folic Acid,36300
+NGA-01505,Sickle Cell Anemia,Hydroxyurea,9100
+NGA-01506,Diabetes,Metformin,13300
+NGA-01507,None,None,30300
+NGA-01508,Typhoid Fever,Ciprofloxacin,15900
+NGA-01509,Typhoid Fever,Ciprofloxacin,8800
+NGA-01510,Sickle Cell Anemia,Folic Acid,18200
+NGA-01511,Malaria,Artemether/Lumefantrine,41700
+NGA-01512,Hypertension,Amlodipine,27200
+NGA-01513,Diabetes,Metformin,36000
+NGA-01514,None,None,25500
+NGA-01515,None,None,36700
+NGA-01516,Typhoid Fever,Ciprofloxacin,8300
+NGA-01517,Typhoid Fever,Ciprofloxacin,16300
+NGA-01518,Hypertension,Amlodipine,28600
+NGA-01519,Diabetes,Metformin,15200
+NGA-01520,Hypertension,Amlodipine,44000
+NGA-01521,Asthma,Salbutamol,34600
+NGA-01522,Malaria,Artemether/Lumefantrine,21400
+NGA-01523,Asthma,Salbutamol,13400
+NGA-01524,Sickle Cell Anemia,Hydroxyurea,29100
+NGA-01525,None,None,18200
+NGA-01526,Diabetes,Metformin,18000
+NGA-01527,Hypertension,Amlodipine,11200
+NGA-01528,Typhoid Fever,Ciprofloxacin,18100
+NGA-01529,Sickle Cell Anemia,Folic Acid,37200
+NGA-01530,Typhoid Fever,Ciprofloxacin,14000
+NGA-01531,Asthma,Salbutamol,41800
+NGA-01532,Asthma,Salbutamol,6700
+NGA-01533,Typhoid Fever,Ciprofloxacin,6200
+NGA-01534,Asthma,Salbutamol,35200
+NGA-01535,Sickle Cell Anemia,Folic Acid,24900
+NGA-01536,Sickle Cell Anemia,Folic Acid,38600
+NGA-01537,Hypertension,Amlodipine,40900
+NGA-01538,Diabetes,Metformin,16700
+NGA-01539,Asthma,Salbutamol,11200
+NGA-01540,None,None,41600
+NGA-01541,None,None,10100
+NGA-01542,Asthma,Salbutamol,43600
+NGA-01543,Asthma,Salbutamol,31500
+NGA-01544,Diabetes,Metformin,8200
+NGA-01545,Hypertension,Amlodipine,10900
+NGA-01546,None,None,37500
+NGA-01547,Typhoid Fever,Ciprofloxacin,29700
+NGA-01548,Sickle Cell Anemia,Folic Acid,6300
+NGA-01549,Hypertension,Amlodipine,27500
+NGA-01550,Diabetes,Metformin,21100
+NGA-01551,Typhoid Fever,Ciprofloxacin,42900
+NGA-01552,Sickle Cell Anemia,Folic Acid,20400
+NGA-01553,Sickle Cell Anemia,Folic Acid,14900
+NGA-01554,Malaria,Artemether/Lumefantrine,6300
+NGA-01555,Diabetes,Metformin,35500
+NGA-01556,Asthma,Salbutamol,14000
+NGA-01557,Hypertension,Amlodipine,23400
+NGA-01558,Typhoid Fever,Ciprofloxacin,5500
+NGA-01559,Typhoid Fever,Ciprofloxacin,18400
+NGA-01560,Diabetes,Metformin,7800
+NGA-01561,Sickle Cell Anemia,Folic Acid,3200
+NGA-01562,Diabetes,Metformin,5200
+NGA-01563,None,None,30500
+NGA-01564,Sickle Cell Anemia,Hydroxyurea,12500
+NGA-01565,Malaria,Artemether/Lumefantrine,12400
+NGA-01566,Diabetes,Metformin,13500
+NGA-01567,Typhoid Fever,Ciprofloxacin,4600
+NGA-01568,Sickle Cell Anemia,Folic Acid,6200
+NGA-01569,Typhoid Fever,Ciprofloxacin,9900
+NGA-01570,Hypertension,Amlodipine,9300
+NGA-01571,Diabetes,Metformin,10900
+NGA-01572,Sickle Cell Anemia,Hydroxyurea,18700
+NGA-01573,Hypertension,Amlodipine,10400
+NGA-01574,Sickle Cell Anemia,Hydroxyurea,23900
+NGA-01575,Asthma,Salbutamol,39800
+NGA-01576,None,None,19000
+NGA-01577,Malaria,Artemether/Lumefantrine,14500
+NGA-01578,None,None,41000
+NGA-01579,Typhoid Fever,Ciprofloxacin,4000
+NGA-01580,Typhoid Fever,Ciprofloxacin,26600
+NGA-01581,Diabetes,Metformin,44600
+NGA-01582,Malaria,Artemether/Lumefantrine,30400
+NGA-01583,Diabetes,Metformin,22800
+NGA-01584,Typhoid Fever,Ciprofloxacin,6700
+NGA-01585,Sickle Cell Anemia,Folic Acid,25400
+NGA-01586,Diabetes,Metformin,35300
+NGA-01587,Hypertension,Amlodipine,18200
+NGA-01588,Hypertension,Amlodipine,33800
+NGA-01589,Typhoid Fever,Ciprofloxacin,18000
+NGA-01590,Sickle Cell Anemia,Folic Acid,22800
+NGA-01591,None,None,30100
+NGA-01592,Asthma,Salbutamol,31600
+NGA-01593,Diabetes,Metformin,4800
+NGA-01594,Hypertension,Amlodipine,19900
+NGA-01595,Diabetes,Metformin,43200
+NGA-01596,Typhoid Fever,Ciprofloxacin,23500
+NGA-01597,Sickle Cell Anemia,Hydroxyurea,3800
+NGA-01598,Diabetes,Metformin,25500
+NGA-01599,Sickle Cell Anemia,Hydroxyurea,38400
+NGA-01600,Typhoid Fever,Ciprofloxacin,19000
+NGA-01601,Typhoid Fever,Ciprofloxacin,4100
+NGA-01602,Asthma,Salbutamol,14900
+NGA-01603,Diabetes,Metformin,23500
+NGA-01604,Asthma,Salbutamol,37000
+NGA-01605,Hypertension,Amlodipine,11600
+NGA-01606,Diabetes,Metformin,11700
+NGA-01607,Hypertension,Amlodipine,37600
+NGA-01608,None,None,9000
+NGA-01609,None,None,38300
+NGA-01610,Asthma,Salbutamol,30100
+NGA-01611,Asthma,Salbutamol,36200
+NGA-01612,Asthma,Salbutamol,13000
+NGA-01613,Typhoid Fever,Ciprofloxacin,20500
+NGA-01614,Hypertension,Amlodipine,14800
+NGA-01615,Sickle Cell Anemia,Hydroxyurea,27300
+NGA-01616,Asthma,Salbutamol,5600
+NGA-01617,Sickle Cell Anemia,Folic Acid,3600
+NGA-01618,None,None,32900
+NGA-01619,None,None,31400
+NGA-01620,Diabetes,Metformin,11900
+NGA-01621,Asthma,Salbutamol,31300
+NGA-01622,Hypertension,Amlodipine,18600
+NGA-01623,Hypertension,Amlodipine,41200
+NGA-01624,Diabetes,Metformin,36200
+NGA-01625,Hypertension,Amlodipine,26500
+NGA-01626,Asthma,Salbutamol,43500
+NGA-01627,Sickle Cell Anemia,Folic Acid,32900
+NGA-01628,Typhoid Fever,Ciprofloxacin,34300
+NGA-01629,Typhoid Fever,Ciprofloxacin,29700
+NGA-01630,None,None,11900
+NGA-01631,Hypertension,Amlodipine,7600
+NGA-01632,Diabetes,Metformin,37000
+NGA-01633,Malaria,Artemether/Lumefantrine,44900
+NGA-01634,Diabetes,Metformin,32300
+NGA-01635,Typhoid Fever,Ciprofloxacin,27600
+NGA-01636,Malaria,Artemether/Lumefantrine,31400
+NGA-01637,Hypertension,Amlodipine,7300
+NGA-01638,Asthma,Salbutamol,5000
+NGA-01639,Typhoid Fever,Ciprofloxacin,39100
+NGA-01640,Sickle Cell Anemia,Folic Acid,26000
+NGA-01641,Asthma,Salbutamol,6300
+NGA-01642,Asthma,Salbutamol,19100
+NGA-01643,Typhoid Fever,Ciprofloxacin,25400
+NGA-01644,Hypertension,Amlodipine,26900
+NGA-01645,Asthma,Salbutamol,22000
+NGA-01646,Asthma,Salbutamol,2500
+NGA-01647,None,None,13900
+NGA-01648,Hypertension,Amlodipine,7100
+NGA-01649,Diabetes,Metformin,16300
+NGA-01650,Diabetes,Metformin,12600
+NGA-01651,Hypertension,Amlodipine,27700
+NGA-01652,Asthma,Salbutamol,29400
+NGA-01653,Diabetes,Metformin,19100
+NGA-01654,Typhoid Fever,Ciprofloxacin,8000
+NGA-01655,None,None,39600
+NGA-01656,Diabetes,Metformin,43000
+NGA-01657,None,None,19300
+NGA-01658,Asthma,Salbutamol,2100
+NGA-01659,Typhoid Fever,Ciprofloxacin,9500
+NGA-01660,Hypertension,Amlodipine,20200
+NGA-01661,Asthma,Salbutamol,33600
+NGA-01662,None,None,34500
+NGA-01663,Malaria,Artemether/Lumefantrine,25700
+NGA-01664,Typhoid Fever,Ciprofloxacin,23900
+NGA-01665,Sickle Cell Anemia,Folic Acid,17800
+NGA-01666,Malaria,Artemether/Lumefantrine,13900
+NGA-01667,Typhoid Fever,Ciprofloxacin,2400
+NGA-01668,Asthma,Salbutamol,39200
+NGA-01669,None,None,41900
+NGA-01670,Hypertension,Amlodipine,12000
+NGA-01671,Diabetes,Metformin,35200
+NGA-01672,None,None,17800
+NGA-01673,Typhoid Fever,Ciprofloxacin,11900
+NGA-01674,None,None,23600
+NGA-01675,Asthma,Salbutamol,14800
+NGA-01676,Hypertension,Amlodipine,31300
+NGA-01677,None,None,28700
+NGA-01678,None,None,5600
+NGA-01679,Sickle Cell Anemia,Hydroxyurea,19600
+NGA-01680,Sickle Cell Anemia,Hydroxyurea,21300
+NGA-01681,None,None,40100
+NGA-01682,Sickle Cell Anemia,Hydroxyurea,16000
+NGA-01683,Asthma,Salbutamol,5600
+NGA-01684,Malaria,Artemether/Lumefantrine,15400
+NGA-01685,Typhoid Fever,Ciprofloxacin,41500
+NGA-01686,Malaria,Artemether/Lumefantrine,18200
+NGA-01687,Diabetes,Metformin,11400
+NGA-01688,Sickle Cell Anemia,Folic Acid,31700
+NGA-01689,Hypertension,Amlodipine,16800
+NGA-01690,Asthma,Salbutamol,3100
+NGA-01691,None,None,9000
+NGA-01692,Malaria,Artemether/Lumefantrine,5500
+NGA-01693,Malaria,Artemether/Lumefantrine,4000
+NGA-01694,Typhoid Fever,Ciprofloxacin,36700
+NGA-01695,Sickle Cell Anemia,Folic Acid,5800
+NGA-01696,None,None,41200
+NGA-01697,Asthma,Salbutamol,12500
+NGA-01698,Hypertension,Amlodipine,5700
+NGA-01699,Asthma,Salbutamol,16200
+NGA-01700,Typhoid Fever,Ciprofloxacin,24100
+NGA-01701,Malaria,Artemether/Lumefantrine,29300
+NGA-01702,Malaria,Artemether/Lumefantrine,32400
+NGA-01703,Hypertension,Amlodipine,26300
+NGA-01704,Malaria,Artemether/Lumefantrine,2500
+NGA-01705,Typhoid Fever,Ciprofloxacin,11500
+NGA-01706,Sickle Cell Anemia,Hydroxyurea,36700
+NGA-01707,Hypertension,Amlodipine,39100
+NGA-01708,Typhoid Fever,Ciprofloxacin,21500
+NGA-01709,Hypertension,Amlodipine,23200
+NGA-01710,Typhoid Fever,Ciprofloxacin,23200
+NGA-01711,Malaria,Artemether/Lumefantrine,38900
+NGA-01712,Typhoid Fever,Ciprofloxacin,32100
+NGA-01713,Asthma,Salbutamol,10300
+NGA-01714,Hypertension,Amlodipine,16900
+NGA-01715,Sickle Cell Anemia,Hydroxyurea,23500
+NGA-01716,Sickle Cell Anemia,Folic Acid,41000
+NGA-01717,Sickle Cell Anemia,Folic Acid,40400
+NGA-01718,Malaria,Artemether/Lumefantrine,15000
+NGA-01719,Malaria,Artemether/Lumefantrine,7600
+NGA-01720,Diabetes,Metformin,41100
+NGA-01721,None,None,32000
+NGA-01722,None,None,2200
+NGA-01723,Typhoid Fever,Ciprofloxacin,6000
+NGA-01724,Sickle Cell Anemia,Folic Acid,18900
+NGA-01725,Typhoid Fever,Ciprofloxacin,25300
+NGA-01726,None,None,12000
+NGA-01727,Asthma,Salbutamol,29300
+NGA-01728,Malaria,Artemether/Lumefantrine,25900
+NGA-01729,None,None,15800
+NGA-01730,Hypertension,Amlodipine,12300
+NGA-01731,Typhoid Fever,Ciprofloxacin,18600
+NGA-01732,Asthma,Salbutamol,13100
+NGA-01733,Diabetes,Metformin,34500
+NGA-01734,None,None,21500
+NGA-01735,Hypertension,Amlodipine,37800
+NGA-01736,Malaria,Artemether/Lumefantrine,21700
+NGA-01737,Hypertension,Amlodipine,39200
+NGA-01738,Malaria,Artemether/Lumefantrine,20700
+NGA-01739,Diabetes,Metformin,4600
+NGA-01740,Typhoid Fever,Ciprofloxacin,18700
+NGA-01741,Sickle Cell Anemia,Folic Acid,11700
+NGA-01742,Hypertension,Amlodipine,16000
+NGA-01743,None,None,43000
+NGA-01744,Sickle Cell Anemia,Folic Acid,38200
+NGA-01745,Diabetes,Metformin,42000
+NGA-01746,Sickle Cell Anemia,Hydroxyurea,36400
+NGA-01747,Sickle Cell Anemia,Hydroxyurea,21600
+NGA-01748,Typhoid Fever,Ciprofloxacin,29300
+NGA-01749,Typhoid Fever,Ciprofloxacin,38200
+NGA-01750,Hypertension,Amlodipine,38200
+NGA-01751,Diabetes,Metformin,29500
+NGA-01752,Asthma,Salbutamol,22300
+NGA-01753,Diabetes,Metformin,12200
+NGA-01754,Sickle Cell Anemia,Hydroxyurea,11800
+NGA-01755,Hypertension,Amlodipine,9600
+NGA-01756,Asthma,Salbutamol,26900
+NGA-01757,None,None,20100
+NGA-01758,Sickle Cell Anemia,Folic Acid,37600
+NGA-01759,Asthma,Salbutamol,33200
+NGA-01760,Hypertension,Amlodipine,16300
+NGA-01761,Typhoid Fever,Ciprofloxacin,34500
+NGA-01762,Sickle Cell Anemia,Hydroxyurea,23500
+NGA-01763,Asthma,Salbutamol,44100
+NGA-01764,Diabetes,Metformin,44800
+NGA-01765,Diabetes,Metformin,16600
+NGA-01766,Sickle Cell Anemia,Folic Acid,35500
+NGA-01767,Typhoid Fever,Ciprofloxacin,15000
+NGA-01768,Hypertension,Amlodipine,14100
+NGA-01769,Sickle Cell Anemia,Folic Acid,24900
+NGA-01770,Hypertension,Amlodipine,3900
+NGA-01771,None,None,15000
+NGA-01772,Malaria,Artemether/Lumefantrine,39500
+NGA-01773,Typhoid Fever,Ciprofloxacin,20900
+NGA-01774,Hypertension,Amlodipine,36500
+NGA-01775,Asthma,Salbutamol,38300
+NGA-01776,None,None,25300
+NGA-01777,Sickle Cell Anemia,Hydroxyurea,44600
+NGA-01778,Sickle Cell Anemia,Hydroxyurea,18600
+NGA-01779,None,None,38800
+NGA-01780,Asthma,Salbutamol,38300
+NGA-01781,Diabetes,Metformin,9000
+NGA-01782,Malaria,Artemether/Lumefantrine,4200
+NGA-01783,Hypertension,Amlodipine,27600
+NGA-01784,Typhoid Fever,Ciprofloxacin,38500
+NGA-01785,Sickle Cell Anemia,Hydroxyurea,40300
+NGA-01786,None,None,17500
+NGA-01787,Diabetes,Metformin,26900
+NGA-01788,None,None,40300
+NGA-01789,Sickle Cell Anemia,Hydroxyurea,36500
+NGA-01790,Asthma,Salbutamol,19800
+NGA-01791,Malaria,Artemether/Lumefantrine,7000
+NGA-01792,Asthma,Salbutamol,6600
+NGA-01793,Malaria,Artemether/Lumefantrine,22800
+NGA-01794,Hypertension,Amlodipine,44700
+NGA-01795,Asthma,Salbutamol,22300
+NGA-01796,Typhoid Fever,Ciprofloxacin,15200
+NGA-01797,Asthma,Salbutamol,21300
+NGA-01798,Typhoid Fever,Ciprofloxacin,14500
+NGA-01799,Asthma,Salbutamol,34000
+NGA-01800,Diabetes,Metformin,20000
+NGA-01801,None,None,21800
+NGA-01802,Typhoid Fever,Ciprofloxacin,24000
+NGA-01803,Malaria,Artemether/Lumefantrine,36000
+NGA-01804,None,None,8500
+NGA-01805,Typhoid Fever,Ciprofloxacin,18700
+NGA-01806,Typhoid Fever,Ciprofloxacin,26800
+NGA-01807,Asthma,Salbutamol,14700
+NGA-01808,Malaria,Artemether/Lumefantrine,16500
+NGA-01809,Typhoid Fever,Ciprofloxacin,42600
+NGA-01810,Asthma,Salbutamol,31300
+NGA-01811,None,None,34600
+NGA-01812,Hypertension,Amlodipine,26900
+NGA-01813,Hypertension,Amlodipine,28200
+NGA-01814,Diabetes,Metformin,13100
+NGA-01815,Hypertension,Amlodipine,31500
+NGA-01816,None,None,24700
+NGA-01817,Malaria,Artemether/Lumefantrine,17000
+NGA-01818,Malaria,Artemether/Lumefantrine,19900
+NGA-01819,Malaria,Artemether/Lumefantrine,38200
+NGA-01820,Typhoid Fever,Ciprofloxacin,18300
+NGA-01821,Malaria,Artemether/Lumefantrine,27400
+NGA-01822,Hypertension,Amlodipine,27700
+NGA-01823,Diabetes,Metformin,41700
+NGA-01824,Sickle Cell Anemia,Folic Acid,43000
+NGA-01825,Sickle Cell Anemia,Hydroxyurea,32900
+NGA-01826,None,None,19500
+NGA-01827,Malaria,Artemether/Lumefantrine,11400
+NGA-01828,Malaria,Artemether/Lumefantrine,7700
+NGA-01829,Typhoid Fever,Ciprofloxacin,19600
+NGA-01830,Sickle Cell Anemia,Hydroxyurea,25600
+NGA-01831,Asthma,Salbutamol,3500
+NGA-01832,Hypertension,Amlodipine,35000
+NGA-01833,None,None,21000
+NGA-01834,None,None,21000
+NGA-01835,Diabetes,Metformin,21600
+NGA-01836,Asthma,Salbutamol,27600
+NGA-01837,None,None,22100
+NGA-01838,Malaria,Artemether/Lumefantrine,34500
+NGA-01839,Sickle Cell Anemia,Hydroxyurea,10800
+NGA-01840,Sickle Cell Anemia,Hydroxyurea,26300
+NGA-01841,Malaria,Artemether/Lumefantrine,37500
+NGA-01842,Hypertension,Amlodipine,8200
+NGA-01843,Hypertension,Amlodipine,11600
+NGA-01844,Hypertension,Amlodipine,22100
+NGA-01845,Diabetes,Metformin,9900
+NGA-01846,Diabetes,Metformin,34100
+NGA-01847,Hypertension,Amlodipine,34600
+NGA-01848,Typhoid Fever,Ciprofloxacin,21100
+NGA-01849,Asthma,Salbutamol,30800
+NGA-01850,Typhoid Fever,Ciprofloxacin,5700
+NGA-01851,Sickle Cell Anemia,Folic Acid,42700
+NGA-01852,Typhoid Fever,Ciprofloxacin,34600
+NGA-01853,Asthma,Salbutamol,44500
+NGA-01854,Sickle Cell Anemia,Hydroxyurea,7300
+NGA-01855,Hypertension,Amlodipine,25800
+NGA-01856,Asthma,Salbutamol,20000
+NGA-01857,Diabetes,Metformin,10100
+NGA-01858,None,None,36100
+NGA-01859,Sickle Cell Anemia,Hydroxyurea,19500
+NGA-01860,Malaria,Artemether/Lumefantrine,43600
+NGA-01861,Diabetes,Metformin,30100
+NGA-01862,Malaria,Artemether/Lumefantrine,9200
+NGA-01863,Sickle Cell Anemia,Folic Acid,10700
+NGA-01864,None,None,12000
+NGA-01865,None,None,31400
+NGA-01866,Sickle Cell Anemia,Folic Acid,35400
+NGA-01867,Asthma,Salbutamol,4200
+NGA-01868,Diabetes,Metformin,8200
+NGA-01869,Malaria,Artemether/Lumefantrine,28500
+NGA-01870,Asthma,Salbutamol,42000
+NGA-01871,Malaria,Artemether/Lumefantrine,12800
+NGA-01872,Malaria,Artemether/Lumefantrine,18300
+NGA-01873,Sickle Cell Anemia,Folic Acid,35900
+NGA-01874,Typhoid Fever,Ciprofloxacin,37000
+NGA-01875,Typhoid Fever,Ciprofloxacin,40300
+NGA-01876,None,None,37900
+NGA-01877,Hypertension,Amlodipine,42900
+NGA-01878,Malaria,Artemether/Lumefantrine,18200
+NGA-01879,Malaria,Artemether/Lumefantrine,44400
+NGA-01880,Diabetes,Metformin,13100
+NGA-01881,None,None,11700
+NGA-01882,Malaria,Artemether/Lumefantrine,41400
+NGA-01883,Malaria,Artemether/Lumefantrine,19100
+NGA-01884,Typhoid Fever,Ciprofloxacin,16800
+NGA-01885,Malaria,Artemether/Lumefantrine,7600
+NGA-01886,Diabetes,Metformin,16700
+NGA-01887,None,None,25100
+NGA-01888,Asthma,Salbutamol,18800
+NGA-01889,Asthma,Salbutamol,35500
+NGA-01890,None,None,27700
+NGA-01891,Asthma,Salbutamol,5900
+NGA-01892,Asthma,Salbutamol,23800
+NGA-01893,Malaria,Artemether/Lumefantrine,12400
+NGA-01894,Sickle Cell Anemia,Hydroxyurea,32800
+NGA-01895,Malaria,Artemether/Lumefantrine,4100
+NGA-01896,Malaria,Artemether/Lumefantrine,35800
+NGA-01897,Sickle Cell Anemia,Folic Acid,39000
+NGA-01898,Diabetes,Metformin,13400
+NGA-01899,Asthma,Salbutamol,24800
+NGA-01900,Hypertension,Amlodipine,37600
+NGA-01901,Malaria,Artemether/Lumefantrine,16500
+NGA-01902,Hypertension,Amlodipine,24900
+NGA-01903,None,None,35500
+NGA-01904,None,None,16600
+NGA-01905,Sickle Cell Anemia,Hydroxyurea,6600
+NGA-01906,Typhoid Fever,Ciprofloxacin,43400
+NGA-01907,Sickle Cell Anemia,Hydroxyurea,29200
+NGA-01908,Typhoid Fever,Ciprofloxacin,34900
+NGA-01909,Malaria,Artemether/Lumefantrine,24400
+NGA-01910,Typhoid Fever,Ciprofloxacin,2400
+NGA-01911,None,None,9200
+NGA-01912,Malaria,Artemether/Lumefantrine,17100
+NGA-01913,Asthma,Salbutamol,15400
+NGA-01914,Malaria,Artemether/Lumefantrine,8200
+NGA-01915,None,None,36500
+NGA-01916,None,None,15900
+NGA-01917,Malaria,Artemether/Lumefantrine,43900
+NGA-01918,Hypertension,Amlodipine,19600
+NGA-01919,Diabetes,Metformin,44700
+NGA-01920,Hypertension,Amlodipine,43700
+NGA-01921,Malaria,Artemether/Lumefantrine,17700
+NGA-01922,Sickle Cell Anemia,Hydroxyurea,36400
+NGA-01923,Sickle Cell Anemia,Folic Acid,22600
+NGA-01924,Hypertension,Amlodipine,39000
+NGA-01925,Diabetes,Metformin,42900
+NGA-01926,None,None,25700
+NGA-01927,Asthma,Salbutamol,29400
+NGA-01928,Diabetes,Metformin,21200
+NGA-01929,Diabetes,Metformin,19100
+NGA-01930,None,None,31200
+NGA-01931,Diabetes,Metformin,3800
+NGA-01932,Hypertension,Amlodipine,33100
+NGA-01933,Malaria,Artemether/Lumefantrine,42900
+NGA-01934,Hypertension,Amlodipine,9300
+NGA-01935,Diabetes,Metformin,12700
+NGA-01936,Hypertension,Amlodipine,5200
+NGA-01937,Malaria,Artemether/Lumefantrine,22700
+NGA-01938,Typhoid Fever,Ciprofloxacin,40800
+NGA-01939,Malaria,Artemether/Lumefantrine,6000
+NGA-01940,Asthma,Salbutamol,43700
+NGA-01941,Typhoid Fever,Ciprofloxacin,40900
+NGA-01942,None,None,26100
+NGA-01943,Asthma,Salbutamol,43500
+NGA-01944,Malaria,Artemether/Lumefantrine,41700
+NGA-01945,Typhoid Fever,Ciprofloxacin,42900
+NGA-01946,Sickle Cell Anemia,Folic Acid,35400
+NGA-01947,None,None,30500
+NGA-01948,Malaria,Artemether/Lumefantrine,25200
+NGA-01949,Hypertension,Amlodipine,22300
+NGA-01950,None,None,24600
+NGA-01951,Typhoid Fever,Ciprofloxacin,22800
+NGA-01952,Malaria,Artemether/Lumefantrine,41500
+NGA-01953,Malaria,Artemether/Lumefantrine,24300
+NGA-01954,Diabetes,Metformin,10700
+NGA-01955,Sickle Cell Anemia,Hydroxyurea,36300
+NGA-01956,Typhoid Fever,Ciprofloxacin,5300
+NGA-01957,Malaria,Artemether/Lumefantrine,36500
+NGA-01958,Sickle Cell Anemia,Hydroxyurea,36600
+NGA-01959,Asthma,Salbutamol,26400
+NGA-01960,Malaria,Artemether/Lumefantrine,36300
+NGA-01961,Sickle Cell Anemia,Hydroxyurea,9500
+NGA-01962,Typhoid Fever,Ciprofloxacin,37100
+NGA-01963,Malaria,Artemether/Lumefantrine,22400
+NGA-01964,Hypertension,Amlodipine,30700
+NGA-01965,Hypertension,Amlodipine,18900
+NGA-01966,Sickle Cell Anemia,Folic Acid,14900
+NGA-01967,Asthma,Salbutamol,20400
+NGA-01968,Malaria,Artemether/Lumefantrine,12100
+NGA-01969,None,None,34700
+NGA-01970,Asthma,Salbutamol,25300
+NGA-01971,Diabetes,Metformin,23800
+NGA-01972,Sickle Cell Anemia,Hydroxyurea,22300
+NGA-01973,Sickle Cell Anemia,Hydroxyurea,2800
+NGA-01974,Malaria,Artemether/Lumefantrine,5400
+NGA-01975,Hypertension,Amlodipine,3800
+NGA-01976,Diabetes,Metformin,24700
+NGA-01977,Typhoid Fever,Ciprofloxacin,15400
+NGA-01978,Asthma,Salbutamol,31400
+NGA-01979,Sickle Cell Anemia,Hydroxyurea,8500
+NGA-01980,Malaria,Artemether/Lumefantrine,2900
+NGA-01981,Hypertension,Amlodipine,31300
+NGA-01982,None,None,33400
+NGA-01983,None,None,30200
+NGA-01984,Sickle Cell Anemia,Hydroxyurea,2200
+NGA-01985,Asthma,Salbutamol,33100
+NGA-01986,Malaria,Artemether/Lumefantrine,23000
+NGA-01987,Diabetes,Metformin,14800
+NGA-01988,Malaria,Artemether/Lumefantrine,42700
+NGA-01989,Malaria,Artemether/Lumefantrine,4900
+NGA-01990,Hypertension,Amlodipine,13800
+NGA-01991,Sickle Cell Anemia,Hydroxyurea,23400
+NGA-01992,None,None,7900
+NGA-01993,Typhoid Fever,Ciprofloxacin,39200
+NGA-01994,Sickle Cell Anemia,Hydroxyurea,4900
+NGA-01995,Asthma,Salbutamol,39300
+NGA-01996,Diabetes,Metformin,13600
+NGA-01997,Diabetes,Metformin,19800
+NGA-01998,Hypertension,Amlodipine,39600
+NGA-01999,Typhoid Fever,Ciprofloxacin,15700
+NGA-02000,Asthma,Salbutamol,33800
+NGA-02001,Malaria,Artemether/Lumefantrine,35500
+NGA-02002,Sickle Cell Anemia,Folic Acid,17300
+NGA-02003,None,None,19400
+NGA-02004,Hypertension,Amlodipine,31300
+NGA-02005,Typhoid Fever,Ciprofloxacin,21200
+NGA-02006,Typhoid Fever,Ciprofloxacin,13900
+NGA-02007,Sickle Cell Anemia,Folic Acid,37500
+NGA-02008,None,None,11900
+NGA-02009,Diabetes,Metformin,33000
+NGA-02010,Typhoid Fever,Ciprofloxacin,4400
+NGA-02011,Typhoid Fever,Ciprofloxacin,25000
+NGA-02012,Diabetes,Metformin,35000
+NGA-02013,Sickle Cell Anemia,Hydroxyurea,14600
+NGA-02014,Typhoid Fever,Ciprofloxacin,25300
+NGA-02015,Hypertension,Amlodipine,42400
+NGA-02016,None,None,10100
+NGA-02017,Malaria,Artemether/Lumefantrine,2600
+NGA-02018,Hypertension,Amlodipine,43600
+NGA-02019,None,None,23800
+NGA-02020,Sickle Cell Anemia,Folic Acid,23200
+NGA-02021,Malaria,Artemether/Lumefantrine,40800
+NGA-02022,Malaria,Artemether/Lumefantrine,31600
+NGA-02023,Asthma,Salbutamol,11300
+NGA-02024,Typhoid Fever,Ciprofloxacin,25000
+NGA-02025,Diabetes,Metformin,29700
+NGA-02026,None,None,20300
+NGA-02027,Malaria,Artemether/Lumefantrine,36200
+NGA-02028,Asthma,Salbutamol,39200
+NGA-02029,Typhoid Fever,Ciprofloxacin,16400
+NGA-02030,Malaria,Artemether/Lumefantrine,44000
+NGA-02031,Sickle Cell Anemia,Hydroxyurea,8600
+NGA-02032,None,None,7800
+NGA-02033,Diabetes,Metformin,22900
+NGA-02034,Hypertension,Amlodipine,13500
+NGA-02035,Hypertension,Amlodipine,30500
+NGA-02036,Asthma,Salbutamol,16700
+NGA-02037,Hypertension,Amlodipine,32300
+NGA-02038,Malaria,Artemether/Lumefantrine,28700
+NGA-02039,Diabetes,Metformin,21800
+NGA-02040,Diabetes,Metformin,6100
+NGA-02041,Malaria,Artemether/Lumefantrine,3900
+NGA-02042,Malaria,Artemether/Lumefantrine,6600
+NGA-02043,Asthma,Salbutamol,20600
+NGA-02044,Hypertension,Amlodipine,28200
+NGA-02045,Malaria,Artemether/Lumefantrine,38400
+NGA-02046,Diabetes,Metformin,22800
+NGA-02047,Hypertension,Amlodipine,7700
+NGA-02048,Diabetes,Metformin,28500
+NGA-02049,Malaria,Artemether/Lumefantrine,17100
+NGA-02050,Typhoid Fever,Ciprofloxacin,26600
+NGA-02051,None,None,4000
+NGA-02052,Asthma,Salbutamol,38500
+NGA-02053,Typhoid Fever,Ciprofloxacin,8700
+NGA-02054,Asthma,Salbutamol,33100
+NGA-02055,Hypertension,Amlodipine,17200
+NGA-02056,Typhoid Fever,Ciprofloxacin,12200
+NGA-02057,Malaria,Artemether/Lumefantrine,32300
+NGA-02058,Typhoid Fever,Ciprofloxacin,43700
+NGA-02059,None,None,21300
+NGA-02060,Diabetes,Metformin,2200
+NGA-02061,Sickle Cell Anemia,Folic Acid,13600
+NGA-02062,Diabetes,Metformin,29800
+NGA-02063,Diabetes,Metformin,10500
+NGA-02064,Hypertension,Amlodipine,22500
+NGA-02065,Diabetes,Metformin,16600
+NGA-02066,Hypertension,Amlodipine,8900
+NGA-02067,Sickle Cell Anemia,Folic Acid,41100
+NGA-02068,Asthma,Salbutamol,16800
+NGA-02069,Typhoid Fever,Ciprofloxacin,43500
+NGA-02070,Asthma,Salbutamol,29200
+NGA-02071,Diabetes,Metformin,18000
+NGA-02072,Malaria,Artemether/Lumefantrine,15900
+NGA-02073,Malaria,Artemether/Lumefantrine,7400
+NGA-02074,Hypertension,Amlodipine,20500
+NGA-02075,Asthma,Salbutamol,11100
+NGA-02076,Diabetes,Metformin,28000
+NGA-02077,Diabetes,Metformin,21100
+NGA-02078,Typhoid Fever,Ciprofloxacin,14100
+NGA-02079,Asthma,Salbutamol,9100
+NGA-02080,Sickle Cell Anemia,Hydroxyurea,2800
+NGA-02081,Malaria,Artemether/Lumefantrine,35900
+NGA-02082,Asthma,Salbutamol,16400
+NGA-02083,Typhoid Fever,Ciprofloxacin,42300
+NGA-02084,None,None,15000
+NGA-02085,None,None,38900
+NGA-02086,None,None,44800
+NGA-02087,Asthma,Salbutamol,43400
+NGA-02088,None,None,41300
+NGA-02089,Diabetes,Metformin,14900
+NGA-02090,None,None,36900
+NGA-02091,None,None,37500
+NGA-02092,Diabetes,Metformin,27100
+NGA-02093,Typhoid Fever,Ciprofloxacin,8800
+NGA-02094,Typhoid Fever,Ciprofloxacin,7600
+NGA-02095,None,None,27900
+NGA-02096,Diabetes,Metformin,24200
+NGA-02097,None,None,25500
+NGA-02098,None,None,31800
+NGA-02099,None,None,9600
+NGA-02100,Hypertension,Amlodipine,30100
+NGA-02101,Malaria,Artemether/Lumefantrine,43000
+NGA-02102,Malaria,Artemether/Lumefantrine,43600
+NGA-02103,Diabetes,Metformin,41300
+NGA-02104,Malaria,Artemether/Lumefantrine,33300
+NGA-02105,None,None,12100
+NGA-02106,Asthma,Salbutamol,41700
+NGA-02107,Asthma,Salbutamol,20700
+NGA-02108,Asthma,Salbutamol,35900
+NGA-02109,Diabetes,Metformin,22600
+NGA-02110,Typhoid Fever,Ciprofloxacin,39900
+NGA-02111,Typhoid Fever,Ciprofloxacin,13100
+NGA-02112,Diabetes,Metformin,10200
+NGA-02113,Asthma,Salbutamol,15100
+NGA-02114,Typhoid Fever,Ciprofloxacin,29100
+NGA-02115,Hypertension,Amlodipine,16700
+NGA-02116,Diabetes,Metformin,15100
+NGA-02117,Diabetes,Metformin,40600
+NGA-02118,Sickle Cell Anemia,Hydroxyurea,24300
+NGA-02119,None,None,9100
+NGA-02120,Diabetes,Metformin,43900
+NGA-02121,Hypertension,Amlodipine,18200
+NGA-02122,Sickle Cell Anemia,Hydroxyurea,22500
+NGA-02123,Hypertension,Amlodipine,16500
+NGA-02124,Typhoid Fever,Ciprofloxacin,19500
+NGA-02125,Asthma,Salbutamol,32600
+NGA-02126,Asthma,Salbutamol,15200
+NGA-02127,Malaria,Artemether/Lumefantrine,40500
+NGA-02128,Typhoid Fever,Ciprofloxacin,39300
+NGA-02129,Hypertension,Amlodipine,29800
+NGA-02130,Typhoid Fever,Ciprofloxacin,37900
+NGA-02131,Typhoid Fever,Ciprofloxacin,28400
+NGA-02132,Hypertension,Amlodipine,26600
+NGA-02133,Sickle Cell Anemia,Hydroxyurea,34800
+NGA-02134,Asthma,Salbutamol,11700
+NGA-02135,Diabetes,Metformin,41900
+NGA-02136,Typhoid Fever,Ciprofloxacin,29800
+NGA-02137,Diabetes,Metformin,29600
+NGA-02138,Malaria,Artemether/Lumefantrine,7400
+NGA-02139,Diabetes,Metformin,22200
+NGA-02140,Typhoid Fever,Ciprofloxacin,39200
+NGA-02141,Sickle Cell Anemia,Folic Acid,43300
+NGA-02142,Malaria,Artemether/Lumefantrine,28900
+NGA-02143,Typhoid Fever,Ciprofloxacin,33000
+NGA-02144,Malaria,Artemether/Lumefantrine,26400
+NGA-02145,Asthma,Salbutamol,2400
+NGA-02146,Malaria,Artemether/Lumefantrine,4800
+NGA-02147,Malaria,Artemether/Lumefantrine,32100
+NGA-02148,Diabetes,Metformin,22800
+NGA-02149,Sickle Cell Anemia,Folic Acid,22500
+NGA-02150,Asthma,Salbutamol,7500
+NGA-02151,Diabetes,Metformin,39800
+NGA-02152,Malaria,Artemether/Lumefantrine,19400
+NGA-02153,Sickle Cell Anemia,Hydroxyurea,31900
+NGA-02154,Hypertension,Amlodipine,43700
+NGA-02155,Malaria,Artemether/Lumefantrine,37800
+NGA-02156,Sickle Cell Anemia,Hydroxyurea,7400
+NGA-02157,Typhoid Fever,Ciprofloxacin,13300
+NGA-02158,None,None,8600
+NGA-02159,Asthma,Salbutamol,3400
+NGA-02160,Typhoid Fever,Ciprofloxacin,19700
+NGA-02161,Sickle Cell Anemia,Hydroxyurea,27800
+NGA-02162,Hypertension,Amlodipine,4300
+NGA-02163,Diabetes,Metformin,34700
+NGA-02164,Malaria,Artemether/Lumefantrine,32900
+NGA-02165,Sickle Cell Anemia,Hydroxyurea,13500
+NGA-02166,Asthma,Salbutamol,37700
+NGA-02167,None,None,43900
+NGA-02168,Typhoid Fever,Ciprofloxacin,41200
+NGA-02169,Sickle Cell Anemia,Folic Acid,31200
+NGA-02170,Sickle Cell Anemia,Folic Acid,8400
+NGA-02171,Malaria,Artemether/Lumefantrine,12400
+NGA-02172,Malaria,Artemether/Lumefantrine,42600
+NGA-02173,Malaria,Artemether/Lumefantrine,6900
+NGA-02174,Asthma,Salbutamol,21800
+NGA-02175,Sickle Cell Anemia,Hydroxyurea,37200
+NGA-02176,Typhoid Fever,Ciprofloxacin,19000
+NGA-02177,Typhoid Fever,Ciprofloxacin,41200
+NGA-02178,None,None,13100
+NGA-02179,None,None,43300
+NGA-02180,Malaria,Artemether/Lumefantrine,16100
+NGA-02181,Asthma,Salbutamol,26600
+NGA-02182,Diabetes,Metformin,35900
+NGA-02183,Sickle Cell Anemia,Hydroxyurea,39800
+NGA-02184,Sickle Cell Anemia,Folic Acid,29300
+NGA-02185,Malaria,Artemether/Lumefantrine,24400
+NGA-02186,Typhoid Fever,Ciprofloxacin,7400
+NGA-02187,Hypertension,Amlodipine,28200
+NGA-02188,None,None,11600
+NGA-02189,Hypertension,Amlodipine,44100
+NGA-02190,Malaria,Artemether/Lumefantrine,28300
+NGA-02191,Typhoid Fever,Ciprofloxacin,44400
+NGA-02192,Typhoid Fever,Ciprofloxacin,13700
+NGA-02193,Hypertension,Amlodipine,36400
+NGA-02194,Hypertension,Amlodipine,9000
+NGA-02195,None,None,26700
+NGA-02196,Asthma,Salbutamol,29400
+NGA-02197,Malaria,Artemether/Lumefantrine,37900
+NGA-02198,Malaria,Artemether/Lumefantrine,43400
+NGA-02199,Diabetes,Metformin,29800
+NGA-02200,Sickle Cell Anemia,Hydroxyurea,15900
+NGA-02201,Sickle Cell Anemia,Hydroxyurea,19900
+NGA-02202,Asthma,Salbutamol,19900
+NGA-02203,Hypertension,Amlodipine,31800
+NGA-02204,Hypertension,Amlodipine,35900
+NGA-02205,Hypertension,Amlodipine,36300
+NGA-02206,Hypertension,Amlodipine,5500
+NGA-02207,None,None,17200
+NGA-02208,Hypertension,Amlodipine,39100
+NGA-02209,Hypertension,Amlodipine,2900
+NGA-02210,Hypertension,Amlodipine,9300
+NGA-02211,None,None,20500
+NGA-02212,Hypertension,Amlodipine,41200
+NGA-02213,Diabetes,Metformin,33900
+NGA-02214,Malaria,Artemether/Lumefantrine,22000
+NGA-02215,None,None,35500
+NGA-02216,Diabetes,Metformin,19300
+NGA-02217,Typhoid Fever,Ciprofloxacin,2500
+NGA-02218,Diabetes,Metformin,32900
+NGA-02219,Sickle Cell Anemia,Folic Acid,8200
+NGA-02220,Hypertension,Amlodipine,26200
+NGA-02221,None,None,26700
+NGA-02222,Hypertension,Amlodipine,32200
+NGA-02223,Diabetes,Metformin,29400
+NGA-02224,None,None,20600
+NGA-02225,None,None,38200
+NGA-02226,None,None,19500
+NGA-02227,Diabetes,Metformin,39200
+NGA-02228,Malaria,Artemether/Lumefantrine,29700
+NGA-02229,Malaria,Artemether/Lumefantrine,14900
+NGA-02230,Diabetes,Metformin,21400
+NGA-02231,Malaria,Artemether/Lumefantrine,23000
+NGA-02232,Malaria,Artemether/Lumefantrine,38200
+NGA-02233,Asthma,Salbutamol,32300
+NGA-02234,Sickle Cell Anemia,Hydroxyurea,15700
+NGA-02235,None,None,30300
+NGA-02236,Diabetes,Metformin,4300
+NGA-02237,Typhoid Fever,Ciprofloxacin,41600
+NGA-02238,None,None,9600
+NGA-02239,Sickle Cell Anemia,Hydroxyurea,12700
+NGA-02240,Malaria,Artemether/Lumefantrine,19200
+NGA-02241,Hypertension,Amlodipine,23200
+NGA-02242,Diabetes,Metformin,8200
+NGA-02243,Sickle Cell Anemia,Folic Acid,32300
+NGA-02244,Malaria,Artemether/Lumefantrine,4600
+NGA-02245,Asthma,Salbutamol,20600
+NGA-02246,Malaria,Artemether/Lumefantrine,42900
+NGA-02247,Hypertension,Amlodipine,36900
+NGA-02248,Diabetes,Metformin,13500
+NGA-02249,Asthma,Salbutamol,26500
+NGA-02250,Malaria,Artemether/Lumefantrine,28700
+NGA-02251,Sickle Cell Anemia,Folic Acid,15100
+NGA-02252,Sickle Cell Anemia,Hydroxyurea,11900
+NGA-02253,Sickle Cell Anemia,Folic Acid,26700
+NGA-02254,Diabetes,Metformin,27300
+NGA-02255,Hypertension,Amlodipine,13900
+NGA-02256,Diabetes,Metformin,38700
+NGA-02257,Sickle Cell Anemia,Hydroxyurea,33800
+NGA-02258,Typhoid Fever,Ciprofloxacin,30900
+NGA-02259,Hypertension,Amlodipine,39200
+NGA-02260,Hypertension,Amlodipine,36000
+NGA-02261,Sickle Cell Anemia,Folic Acid,31600
+NGA-02262,Asthma,Salbutamol,9500
+NGA-02263,None,None,22200
+NGA-02264,None,None,31800
+NGA-02265,Hypertension,Amlodipine,16400
+NGA-02266,Sickle Cell Anemia,Folic Acid,10500
+NGA-02267,Malaria,Artemether/Lumefantrine,37600
+NGA-02268,Sickle Cell Anemia,Folic Acid,37500
+NGA-02269,Typhoid Fever,Ciprofloxacin,6200
+NGA-02270,Diabetes,Metformin,11500
+NGA-02271,Malaria,Artemether/Lumefantrine,2800
+NGA-02272,Asthma,Salbutamol,22700
+NGA-02273,Asthma,Salbutamol,13900
+NGA-02274,Asthma,Salbutamol,12700
+NGA-02275,Diabetes,Metformin,40600
+NGA-02276,Typhoid Fever,Ciprofloxacin,31200
+NGA-02277,None,None,4200
+NGA-02278,Malaria,Artemether/Lumefantrine,44400
+NGA-02279,None,None,20200
+NGA-02280,Sickle Cell Anemia,Folic Acid,6400
+NGA-02281,Typhoid Fever,Ciprofloxacin,9700
+NGA-02282,None,None,14600
+NGA-02283,Hypertension,Amlodipine,22500
+NGA-02284,Malaria,Artemether/Lumefantrine,12900
+NGA-02285,Hypertension,Amlodipine,29200
+NGA-02286,None,None,25200
+NGA-02287,Malaria,Artemether/Lumefantrine,10200
+NGA-02288,Sickle Cell Anemia,Hydroxyurea,37200
+NGA-02289,Malaria,Artemether/Lumefantrine,8800
+NGA-02290,Malaria,Artemether/Lumefantrine,12400
+NGA-02291,Diabetes,Metformin,16900
+NGA-02292,Malaria,Artemether/Lumefantrine,15900
+NGA-02293,None,None,5100
+NGA-02294,Diabetes,Metformin,4100
+NGA-02295,Sickle Cell Anemia,Hydroxyurea,12700
+NGA-02296,Asthma,Salbutamol,7700
+NGA-02297,Diabetes,Metformin,6100
+NGA-02298,Hypertension,Amlodipine,3200
+NGA-02299,Diabetes,Metformin,32500
+NGA-02300,Malaria,Artemether/Lumefantrine,17700
+NGA-02301,None,None,17300
+NGA-02302,Diabetes,Metformin,25000
+NGA-02303,Sickle Cell Anemia,Hydroxyurea,23400
+NGA-02304,Sickle Cell Anemia,Folic Acid,36600
+NGA-02305,Hypertension,Amlodipine,43100
+NGA-02306,Sickle Cell Anemia,Hydroxyurea,13500
+NGA-02307,Sickle Cell Anemia,Folic Acid,44900
+NGA-02308,None,None,4300
+NGA-02309,Sickle Cell Anemia,Hydroxyurea,8500
+NGA-02310,Malaria,Artemether/Lumefantrine,40500
+NGA-02311,Asthma,Salbutamol,37200
+NGA-02312,Diabetes,Metformin,31000
+NGA-02313,Diabetes,Metformin,42700
+NGA-02314,Typhoid Fever,Ciprofloxacin,18900
+NGA-02315,None,None,5100
+NGA-02316,Typhoid Fever,Ciprofloxacin,27500
+NGA-02317,Sickle Cell Anemia,Folic Acid,8700
+NGA-02318,Typhoid Fever,Ciprofloxacin,37000
+NGA-02319,Diabetes,Metformin,38800
+NGA-02320,Asthma,Salbutamol,7700
+NGA-02321,Asthma,Salbutamol,12000
+NGA-02322,Hypertension,Amlodipine,36400
+NGA-02323,None,None,3500
+NGA-02324,Malaria,Artemether/Lumefantrine,22900
+NGA-02325,Hypertension,Amlodipine,24200
+NGA-02326,Malaria,Artemether/Lumefantrine,27200
+NGA-02327,Asthma,Salbutamol,38300
+NGA-02328,None,None,37400
+NGA-02329,Asthma,Salbutamol,33500
+NGA-02330,None,None,40100
+NGA-02331,None,None,40800
+NGA-02332,Hypertension,Amlodipine,17000
+NGA-02333,Malaria,Artemether/Lumefantrine,33900
+NGA-02334,Typhoid Fever,Ciprofloxacin,33400
+NGA-02335,Hypertension,Amlodipine,15300
+NGA-02336,Sickle Cell Anemia,Hydroxyurea,43300
+NGA-02337,Diabetes,Metformin,42100
+NGA-02338,Typhoid Fever,Ciprofloxacin,43900
+NGA-02339,None,None,28500
+NGA-02340,Asthma,Salbutamol,39600
+NGA-02341,Asthma,Salbutamol,6700
+NGA-02342,Malaria,Artemether/Lumefantrine,31800
+NGA-02343,Asthma,Salbutamol,38900
+NGA-02344,Hypertension,Amlodipine,15500
+NGA-02345,Typhoid Fever,Ciprofloxacin,23300
+NGA-02346,None,None,7200
+NGA-02347,None,None,42100
+NGA-02348,Sickle Cell Anemia,Hydroxyurea,20600
+NGA-02349,Malaria,Artemether/Lumefantrine,11900
+NGA-02350,Asthma,Salbutamol,43200
+NGA-02351,Hypertension,Amlodipine,29200
+NGA-02352,Malaria,Artemether/Lumefantrine,7700
+NGA-02353,Hypertension,Amlodipine,13900
+NGA-02354,Sickle Cell Anemia,Hydroxyurea,12600
+NGA-02355,Asthma,Salbutamol,38100
+NGA-02356,None,None,20500
+NGA-02357,Asthma,Salbutamol,34000
+NGA-02358,Asthma,Salbutamol,7800
+NGA-02359,Typhoid Fever,Ciprofloxacin,38600
+NGA-02360,Diabetes,Metformin,30900
+NGA-02361,Hypertension,Amlodipine,39500
+NGA-02362,Sickle Cell Anemia,Hydroxyurea,30300
+NGA-02363,Asthma,Salbutamol,40300
+NGA-02364,Typhoid Fever,Ciprofloxacin,32800
+NGA-02365,None,None,12200
+NGA-02366,None,None,7700
+NGA-02367,Malaria,Artemether/Lumefantrine,39600
+NGA-02368,Diabetes,Metformin,2000
+NGA-02369,Sickle Cell Anemia,Folic Acid,20700
+NGA-02370,Diabetes,Metformin,5100
+NGA-02371,None,None,3800
+NGA-02372,Diabetes,Metformin,8600
+NGA-02373,Diabetes,Metformin,15500
+NGA-02374,Typhoid Fever,Ciprofloxacin,26200
+NGA-02375,Sickle Cell Anemia,Folic Acid,18600
+NGA-02376,Diabetes,Metformin,36800
+NGA-02377,None,None,30700
+NGA-02378,None,None,20100
+NGA-02379,Diabetes,Metformin,21200
+NGA-02380,Asthma,Salbutamol,39700
+NGA-02381,Sickle Cell Anemia,Folic Acid,15200
+NGA-02382,Malaria,Artemether/Lumefantrine,31500
+NGA-02383,None,None,31800
+NGA-02384,Sickle Cell Anemia,Folic Acid,20200
+NGA-02385,Diabetes,Metformin,41300
+NGA-02386,Hypertension,Amlodipine,23700
+NGA-02387,None,None,34000
+NGA-02388,Asthma,Salbutamol,27500
+NGA-02389,Malaria,Artemether/Lumefantrine,6700
+NGA-02390,Sickle Cell Anemia,Hydroxyurea,5400
+NGA-02391,Typhoid Fever,Ciprofloxacin,14200
+NGA-02392,None,None,34400
+NGA-02393,Typhoid Fever,Ciprofloxacin,33500
+NGA-02394,None,None,38500
+NGA-02395,Asthma,Salbutamol,33500
+NGA-02396,Malaria,Artemether/Lumefantrine,27800
+NGA-02397,Asthma,Salbutamol,22900
+NGA-02398,Diabetes,Metformin,24100
+NGA-02399,Diabetes,Metformin,23500
+NGA-02400,Hypertension,Amlodipine,6200
+NGA-02401,None,None,27500
+NGA-02402,None,None,3600
+NGA-02403,Sickle Cell Anemia,Hydroxyurea,36400
+NGA-02404,None,None,40500
+NGA-02405,Typhoid Fever,Ciprofloxacin,30200
+NGA-02406,Malaria,Artemether/Lumefantrine,18600
+NGA-02407,Typhoid Fever,Ciprofloxacin,12500
+NGA-02408,Malaria,Artemether/Lumefantrine,24500
+NGA-02409,Asthma,Salbutamol,19500
+NGA-02410,Malaria,Artemether/Lumefantrine,23900
+NGA-02411,Typhoid Fever,Ciprofloxacin,32400
+NGA-02412,Diabetes,Metformin,33600
+NGA-02413,Typhoid Fever,Ciprofloxacin,5800
+NGA-02414,Typhoid Fever,Ciprofloxacin,37100
+NGA-02415,Hypertension,Amlodipine,17200
+NGA-02416,Hypertension,Amlodipine,20100
+NGA-02417,Typhoid Fever,Ciprofloxacin,27600
+NGA-02418,Sickle Cell Anemia,Folic Acid,44700
+NGA-02419,Diabetes,Metformin,29000
+NGA-02420,Diabetes,Metformin,30400
+NGA-02421,Typhoid Fever,Ciprofloxacin,18400
+NGA-02422,Malaria,Artemether/Lumefantrine,44700
+NGA-02423,Malaria,Artemether/Lumefantrine,34600
+NGA-02424,Typhoid Fever,Ciprofloxacin,25100
+NGA-02425,Diabetes,Metformin,8900
+NGA-02426,Hypertension,Amlodipine,22600
+NGA-02427,Typhoid Fever,Ciprofloxacin,24500
+NGA-02428,Typhoid Fever,Ciprofloxacin,2500
+NGA-02429,Malaria,Artemether/Lumefantrine,42800
+NGA-02430,Hypertension,Amlodipine,32700
+NGA-02431,Typhoid Fever,Ciprofloxacin,8700
+NGA-02432,Asthma,Salbutamol,2100
+NGA-02433,None,None,29400
+NGA-02434,Malaria,Artemether/Lumefantrine,25800
+NGA-02435,Diabetes,Metformin,30900
+NGA-02436,None,None,42600
+NGA-02437,None,None,14500
+NGA-02438,Malaria,Artemether/Lumefantrine,8600
+NGA-02439,Hypertension,Amlodipine,10300
+NGA-02440,Diabetes,Metformin,11100
+NGA-02441,Hypertension,Amlodipine,20100
+NGA-02442,Asthma,Salbutamol,2800
+NGA-02443,Malaria,Artemether/Lumefantrine,24200
+NGA-02444,None,None,33300
+NGA-02445,Diabetes,Metformin,32600
+NGA-02446,Hypertension,Amlodipine,3200
+NGA-02447,Typhoid Fever,Ciprofloxacin,24900
+NGA-02448,Asthma,Salbutamol,4100
+NGA-02449,Typhoid Fever,Ciprofloxacin,19200
+NGA-02450,None,None,21100
+NGA-02451,None,None,40000
+NGA-02452,Hypertension,Amlodipine,34700
+NGA-02453,Asthma,Salbutamol,27100
+NGA-02454,None,None,44500
+NGA-02455,Sickle Cell Anemia,Folic Acid,18000
+NGA-02456,Typhoid Fever,Ciprofloxacin,29600
+NGA-02457,Diabetes,Metformin,16900
+NGA-02458,Diabetes,Metformin,14200
+NGA-02459,Diabetes,Metformin,25600
+NGA-02460,Typhoid Fever,Ciprofloxacin,19700
+NGA-02461,Sickle Cell Anemia,Hydroxyurea,40300
+NGA-02462,Sickle Cell Anemia,Folic Acid,13200
+NGA-02463,Typhoid Fever,Ciprofloxacin,22700
+NGA-02464,Sickle Cell Anemia,Folic Acid,26300
+NGA-02465,Hypertension,Amlodipine,42600
+NGA-02466,Diabetes,Metformin,18300
+NGA-02467,Sickle Cell Anemia,Folic Acid,24100
+NGA-02468,Sickle Cell Anemia,Folic Acid,20000
+NGA-02469,Malaria,Artemether/Lumefantrine,18000
+NGA-02470,None,None,39300
+NGA-02471,Diabetes,Metformin,16500
+NGA-02472,Asthma,Salbutamol,23100
+NGA-02473,Hypertension,Amlodipine,6300
+NGA-02474,Hypertension,Amlodipine,20300
+NGA-02475,Asthma,Salbutamol,17200
+NGA-02476,Hypertension,Amlodipine,4000
+NGA-02477,Diabetes,Metformin,30800
+NGA-02478,Hypertension,Amlodipine,36200
+NGA-02479,Hypertension,Amlodipine,37300
+NGA-02480,Diabetes,Metformin,10900
+NGA-02481,None,None,15100
+NGA-02482,Malaria,Artemether/Lumefantrine,41800
+NGA-02483,Sickle Cell Anemia,Hydroxyurea,5800
+NGA-02484,Malaria,Artemether/Lumefantrine,4100
+NGA-02485,Diabetes,Metformin,28900
+NGA-02486,Malaria,Artemether/Lumefantrine,20900
+NGA-02487,Typhoid Fever,Ciprofloxacin,27300
+NGA-02488,Asthma,Salbutamol,8300
+NGA-02489,Hypertension,Amlodipine,32900
+NGA-02490,Diabetes,Metformin,7800
+NGA-02491,Malaria,Artemether/Lumefantrine,24800
+NGA-02492,Asthma,Salbutamol,43300
+NGA-02493,Diabetes,Metformin,20400
+NGA-02494,Diabetes,Metformin,34600
+NGA-02495,Hypertension,Amlodipine,11200
+NGA-02496,Sickle Cell Anemia,Hydroxyurea,35100
+NGA-02497,Typhoid Fever,Ciprofloxacin,32300
+NGA-02498,None,None,22700
+NGA-02499,Malaria,Artemether/Lumefantrine,12400
+NGA-02500,Diabetes,Metformin,31100
+NGA-02501,None,None,6300
+NGA-02502,Diabetes,Metformin,23300
+NGA-02503,Diabetes,Metformin,26000
+NGA-02504,Typhoid Fever,Ciprofloxacin,6700
+NGA-02505,Diabetes,Metformin,35700
+NGA-02506,Sickle Cell Anemia,Hydroxyurea,38100
+NGA-02507,None,None,6600
+NGA-02508,Malaria,Artemether/Lumefantrine,14200
+NGA-02509,Typhoid Fever,Ciprofloxacin,22700
+NGA-02510,Hypertension,Amlodipine,8600
+NGA-02511,Sickle Cell Anemia,Hydroxyurea,38600
+NGA-02512,Typhoid Fever,Ciprofloxacin,8200
+NGA-02513,None,None,30600
+NGA-02514,Sickle Cell Anemia,Hydroxyurea,8000
+NGA-02515,Typhoid Fever,Ciprofloxacin,18100
+NGA-02516,Malaria,Artemether/Lumefantrine,37200
+NGA-02517,Hypertension,Amlodipine,16500
+NGA-02518,Diabetes,Metformin,3000
+NGA-02519,Hypertension,Amlodipine,4500
+NGA-02520,Diabetes,Metformin,16700
+NGA-02521,Typhoid Fever,Ciprofloxacin,27400
+NGA-02522,Malaria,Artemether/Lumefantrine,3300
+NGA-02523,Hypertension,Amlodipine,44700
+NGA-02524,Sickle Cell Anemia,Hydroxyurea,33000
+NGA-02525,Hypertension,Amlodipine,30600
+NGA-02526,Hypertension,Amlodipine,27200
+NGA-02527,Asthma,Salbutamol,25700
+NGA-02528,Hypertension,Amlodipine,11000
+NGA-02529,None,None,38400
+NGA-02530,Sickle Cell Anemia,Folic Acid,19300
+NGA-02531,Diabetes,Metformin,21700
+NGA-02532,Asthma,Salbutamol,24400
+NGA-02533,None,None,22600
+NGA-02534,Diabetes,Metformin,15300
+NGA-02535,Diabetes,Metformin,6200
+NGA-02536,Hypertension,Amlodipine,11200
+NGA-02537,Hypertension,Amlodipine,10700
+NGA-02538,Sickle Cell Anemia,Hydroxyurea,36100
+NGA-02539,Malaria,Artemether/Lumefantrine,14100
+NGA-02540,Diabetes,Metformin,24600
+NGA-02541,Asthma,Salbutamol,35200
+NGA-02542,None,None,4600
+NGA-02543,Sickle Cell Anemia,Folic Acid,3300
+NGA-02544,Hypertension,Amlodipine,5400
+NGA-02545,None,None,11600
+NGA-02546,Typhoid Fever,Ciprofloxacin,8800
+NGA-02547,Hypertension,Amlodipine,15200
+NGA-02548,Malaria,Artemether/Lumefantrine,42300
+NGA-02549,Diabetes,Metformin,44400
+NGA-02550,Malaria,Artemether/Lumefantrine,23100
+NGA-02551,Sickle Cell Anemia,Folic Acid,43900
+NGA-02552,Hypertension,Amlodipine,14000
+NGA-02553,None,None,20800
+NGA-02554,Typhoid Fever,Ciprofloxacin,26400
+NGA-02555,Typhoid Fever,Ciprofloxacin,43400
+NGA-02556,Hypertension,Amlodipine,19700
+NGA-02557,Asthma,Salbutamol,44600
+NGA-02558,None,None,19800
+NGA-02559,None,None,18700
+NGA-02560,Malaria,Artemether/Lumefantrine,24000
+NGA-02561,Typhoid Fever,Ciprofloxacin,23400
+NGA-02562,Hypertension,Amlodipine,10400
+NGA-02563,Malaria,Artemether/Lumefantrine,6300
+NGA-02564,Typhoid Fever,Ciprofloxacin,28000
+NGA-02565,Diabetes,Metformin,18200
+NGA-02566,Hypertension,Amlodipine,8200
+NGA-02567,None,None,8700
+NGA-02568,Hypertension,Amlodipine,35500
+NGA-02569,Sickle Cell Anemia,Hydroxyurea,29200
+NGA-02570,Hypertension,Amlodipine,4400
+NGA-02571,Malaria,Artemether/Lumefantrine,9100
+NGA-02572,Diabetes,Metformin,12700
+NGA-02573,Malaria,Artemether/Lumefantrine,7600
+NGA-02574,Typhoid Fever,Ciprofloxacin,40600
+NGA-02575,Typhoid Fever,Ciprofloxacin,14300
+NGA-02576,None,None,18000
+NGA-02577,Sickle Cell Anemia,Hydroxyurea,34000
+NGA-02578,Hypertension,Amlodipine,21400
+NGA-02579,Malaria,Artemether/Lumefantrine,38500
+NGA-02580,Diabetes,Metformin,43000
+NGA-02581,Asthma,Salbutamol,9900
+NGA-02582,Hypertension,Amlodipine,5400
+NGA-02583,None,None,17900
+NGA-02584,Hypertension,Amlodipine,26200
+NGA-02585,Typhoid Fever,Ciprofloxacin,3900
+NGA-02586,Typhoid Fever,Ciprofloxacin,13300
+NGA-02587,None,None,41700
+NGA-02588,Hypertension,Amlodipine,38600
+NGA-02589,Typhoid Fever,Ciprofloxacin,9100
+NGA-02590,Sickle Cell Anemia,Hydroxyurea,39100
+NGA-02591,Sickle Cell Anemia,Hydroxyurea,40000
+NGA-02592,Malaria,Artemether/Lumefantrine,2500
+NGA-02593,Typhoid Fever,Ciprofloxacin,5000
+NGA-02594,Hypertension,Amlodipine,19300
+NGA-02595,Hypertension,Amlodipine,3900
+NGA-02596,Sickle Cell Anemia,Hydroxyurea,25300
+NGA-02597,Diabetes,Metformin,6900
+NGA-02598,Sickle Cell Anemia,Hydroxyurea,9700
+NGA-02599,Malaria,Artemether/Lumefantrine,26900
+NGA-02600,Hypertension,Amlodipine,23000
+NGA-02601,Malaria,Artemether/Lumefantrine,25800
+NGA-02602,Sickle Cell Anemia,Hydroxyurea,35200
+NGA-02603,Hypertension,Amlodipine,22900
+NGA-02604,None,None,28400
+NGA-02605,Hypertension,Amlodipine,27100
+NGA-02606,None,None,18400
+NGA-02607,Malaria,Artemether/Lumefantrine,10300
+NGA-02608,Diabetes,Metformin,5600
+NGA-02609,None,None,8000
+NGA-02610,Sickle Cell Anemia,Folic Acid,18800
+NGA-02611,Sickle Cell Anemia,Folic Acid,15900
+NGA-02612,Diabetes,Metformin,25700
+NGA-02613,Malaria,Artemether/Lumefantrine,36900
+NGA-02614,Hypertension,Amlodipine,38900
+NGA-02615,Hypertension,Amlodipine,15000
+NGA-02616,Malaria,Artemether/Lumefantrine,8700
+NGA-02617,Typhoid Fever,Ciprofloxacin,8200
+NGA-02618,Malaria,Artemether/Lumefantrine,36400
+NGA-02619,Asthma,Salbutamol,13200
+NGA-02620,None,None,25900
+NGA-02621,Malaria,Artemether/Lumefantrine,12800
+NGA-02622,Malaria,Artemether/Lumefantrine,25400
+NGA-02623,None,None,18900
+NGA-02624,Hypertension,Amlodipine,33100
+NGA-02625,Asthma,Salbutamol,12500
+NGA-02626,Hypertension,Amlodipine,21800
+NGA-02627,Hypertension,Amlodipine,21900
+NGA-02628,Diabetes,Metformin,14900
+NGA-02629,None,None,3800
+NGA-02630,Hypertension,Amlodipine,42500
+NGA-02631,Typhoid Fever,Ciprofloxacin,38000
+NGA-02632,None,None,39500
+NGA-02633,Typhoid Fever,Ciprofloxacin,41300
+NGA-02634,Malaria,Artemether/Lumefantrine,3400
+NGA-02635,None,None,8600
+NGA-02636,Malaria,Artemether/Lumefantrine,31200
+NGA-02637,Malaria,Artemether/Lumefantrine,29100
+NGA-02638,Malaria,Artemether/Lumefantrine,36900
+NGA-02639,Asthma,Salbutamol,41600
+NGA-02640,Malaria,Artemether/Lumefantrine,35900
+NGA-02641,Hypertension,Amlodipine,28000
+NGA-02642,Asthma,Salbutamol,12700
+NGA-02643,None,None,26700
+NGA-02644,Asthma,Salbutamol,2300
+NGA-02645,Diabetes,Metformin,5700
+NGA-02646,Typhoid Fever,Ciprofloxacin,13300
+NGA-02647,Malaria,Artemether/Lumefantrine,42000
+NGA-02648,Typhoid Fever,Ciprofloxacin,35900
+NGA-02649,Hypertension,Amlodipine,39600
+NGA-02650,Hypertension,Amlodipine,26400
+NGA-02651,Sickle Cell Anemia,Hydroxyurea,34000
+NGA-02652,Diabetes,Metformin,37700
+NGA-02653,Typhoid Fever,Ciprofloxacin,37000
+NGA-02654,Asthma,Salbutamol,36600
+NGA-02655,Asthma,Salbutamol,28500
+NGA-02656,Asthma,Salbutamol,33500
+NGA-02657,Diabetes,Metformin,38400
+NGA-02658,Asthma,Salbutamol,18300
+NGA-02659,Typhoid Fever,Ciprofloxacin,30300
+NGA-02660,Malaria,Artemether/Lumefantrine,27800
+NGA-02661,None,None,40200
+NGA-02662,Asthma,Salbutamol,33200
+NGA-02663,Diabetes,Metformin,19600
+NGA-02664,Diabetes,Metformin,25700
+NGA-02665,None,None,35400
+NGA-02666,Diabetes,Metformin,14400
+NGA-02667,Malaria,Artemether/Lumefantrine,43700
+NGA-02668,Asthma,Salbutamol,11500
+NGA-02669,Typhoid Fever,Ciprofloxacin,5400
+NGA-02670,None,None,6000
+NGA-02671,None,None,34500
+NGA-02672,Sickle Cell Anemia,Folic Acid,24200
+NGA-02673,Hypertension,Amlodipine,6800
+NGA-02674,Hypertension,Amlodipine,38900
+NGA-02675,Malaria,Artemether/Lumefantrine,38800
+NGA-02676,Diabetes,Metformin,29200
+NGA-02677,Sickle Cell Anemia,Folic Acid,15400
+NGA-02678,Sickle Cell Anemia,Folic Acid,42800
+NGA-02679,Diabetes,Metformin,16700
+NGA-02680,Asthma,Salbutamol,5700
+NGA-02681,Sickle Cell Anemia,Folic Acid,32300
+NGA-02682,Hypertension,Amlodipine,8700
+NGA-02683,Hypertension,Amlodipine,29400
+NGA-02684,Asthma,Salbutamol,21100
+NGA-02685,Hypertension,Amlodipine,27300
+NGA-02686,Malaria,Artemether/Lumefantrine,2100
+NGA-02687,Typhoid Fever,Ciprofloxacin,15400
+NGA-02688,Asthma,Salbutamol,3700
+NGA-02689,Asthma,Salbutamol,17500
+NGA-02690,Typhoid Fever,Ciprofloxacin,2100
+NGA-02691,Typhoid Fever,Ciprofloxacin,34000
+NGA-02692,Sickle Cell Anemia,Hydroxyurea,36100
+NGA-02693,None,None,36700
+NGA-02694,Sickle Cell Anemia,Folic Acid,40800
+NGA-02695,Malaria,Artemether/Lumefantrine,21500
+NGA-02696,Diabetes,Metformin,14700
+NGA-02697,Diabetes,Metformin,37200
+NGA-02698,Typhoid Fever,Ciprofloxacin,21700
+NGA-02699,Diabetes,Metformin,11100
+NGA-02700,Typhoid Fever,Ciprofloxacin,2900
+NGA-02701,Asthma,Salbutamol,6500
+NGA-02702,Diabetes,Metformin,36800
+NGA-02703,Sickle Cell Anemia,Folic Acid,17200
+NGA-02704,Hypertension,Amlodipine,41100
+NGA-02705,Typhoid Fever,Ciprofloxacin,13700
+NGA-02706,Malaria,Artemether/Lumefantrine,22400
+NGA-02707,Sickle Cell Anemia,Hydroxyurea,42700
+NGA-02708,Asthma,Salbutamol,8600
+NGA-02709,Malaria,Artemether/Lumefantrine,16100
+NGA-02710,None,None,44000
+NGA-02711,Diabetes,Metformin,27800
+NGA-02712,Sickle Cell Anemia,Hydroxyurea,36000
+NGA-02713,Diabetes,Metformin,21600
+NGA-02714,Hypertension,Amlodipine,13500
+NGA-02715,Asthma,Salbutamol,11600
+NGA-02716,None,None,38900
+NGA-02717,Asthma,Salbutamol,42300
+NGA-02718,Malaria,Artemether/Lumefantrine,13400
+NGA-02719,Malaria,Artemether/Lumefantrine,28600
+NGA-02720,Asthma,Salbutamol,27000
+NGA-02721,Typhoid Fever,Ciprofloxacin,41600
+NGA-02722,Typhoid Fever,Ciprofloxacin,24600
+NGA-02723,Typhoid Fever,Ciprofloxacin,2200
+NGA-02724,Typhoid Fever,Ciprofloxacin,42500
+NGA-02725,Asthma,Salbutamol,12600
+NGA-02726,Typhoid Fever,Ciprofloxacin,6600
+NGA-02727,Diabetes,Metformin,11800
+NGA-02728,Malaria,Artemether/Lumefantrine,34200
+NGA-02729,Diabetes,Metformin,45000
+NGA-02730,Hypertension,Amlodipine,14400
+NGA-02731,Asthma,Salbutamol,10000
+NGA-02732,Typhoid Fever,Ciprofloxacin,29100
+NGA-02733,Asthma,Salbutamol,43400
+NGA-02734,Sickle Cell Anemia,Hydroxyurea,5000
+NGA-02735,Typhoid Fever,Ciprofloxacin,37800
+NGA-02736,Malaria,Artemether/Lumefantrine,2700
+NGA-02737,Hypertension,Amlodipine,9200
+NGA-02738,Malaria,Artemether/Lumefantrine,34600
+NGA-02739,Sickle Cell Anemia,Hydroxyurea,21400
+NGA-02740,None,None,12100
+NGA-02741,Hypertension,Amlodipine,4800
+NGA-02742,None,None,29800
+NGA-02743,Malaria,Artemether/Lumefantrine,4000
+NGA-02744,Sickle Cell Anemia,Folic Acid,23000
+NGA-02745,Asthma,Salbutamol,42800
+NGA-02746,Asthma,Salbutamol,12400
+NGA-02747,Diabetes,Metformin,31500
+NGA-02748,Typhoid Fever,Ciprofloxacin,3600
+NGA-02749,None,None,3200
+NGA-02750,Malaria,Artemether/Lumefantrine,25000
+NGA-02751,Typhoid Fever,Ciprofloxacin,19500
+NGA-02752,Asthma,Salbutamol,16300
+NGA-02753,Malaria,Artemether/Lumefantrine,19500
+NGA-02754,Sickle Cell Anemia,Folic Acid,6100
+NGA-02755,Asthma,Salbutamol,15900
+NGA-02756,None,None,19000
+NGA-02757,Malaria,Artemether/Lumefantrine,18700
+NGA-02758,Hypertension,Amlodipine,14400
+NGA-02759,Hypertension,Amlodipine,4600
+NGA-02760,Hypertension,Amlodipine,21000
+NGA-02761,Malaria,Artemether/Lumefantrine,42900
+NGA-02762,Asthma,Salbutamol,19200
+NGA-02763,Malaria,Artemether/Lumefantrine,27800
+NGA-02764,Typhoid Fever,Ciprofloxacin,39700
+NGA-02765,Typhoid Fever,Ciprofloxacin,18300
+NGA-02766,Asthma,Salbutamol,29300
+NGA-02767,None,None,27100
+NGA-02768,Asthma,Salbutamol,24300
+NGA-02769,Typhoid Fever,Ciprofloxacin,13700
+NGA-02770,Malaria,Artemether/Lumefantrine,12900
+NGA-02771,Typhoid Fever,Ciprofloxacin,5000
+NGA-02772,Asthma,Salbutamol,2500
+NGA-02773,Sickle Cell Anemia,Folic Acid,29900
+NGA-02774,Typhoid Fever,Ciprofloxacin,19400
+NGA-02775,Asthma,Salbutamol,6600
+NGA-02776,Typhoid Fever,Ciprofloxacin,44500
+NGA-02777,Hypertension,Amlodipine,41600
+NGA-02778,Diabetes,Metformin,21600
+NGA-02779,Hypertension,Amlodipine,22100
+NGA-02780,Hypertension,Amlodipine,34400
+NGA-02781,Hypertension,Amlodipine,21100
+NGA-02782,Hypertension,Amlodipine,42800
+NGA-02783,Asthma,Salbutamol,34900
+NGA-02784,Typhoid Fever,Ciprofloxacin,11500
+NGA-02785,Malaria,Artemether/Lumefantrine,22700
+NGA-02786,None,None,26700
+NGA-02787,Diabetes,Metformin,15300
+NGA-02788,None,None,10500
+NGA-02789,Hypertension,Amlodipine,10700
+NGA-02790,Malaria,Artemether/Lumefantrine,44600
+NGA-02791,Sickle Cell Anemia,Hydroxyurea,3600
+NGA-02792,Hypertension,Amlodipine,24700
+NGA-02793,Typhoid Fever,Ciprofloxacin,6800
+NGA-02794,Sickle Cell Anemia,Folic Acid,40100
+NGA-02795,Asthma,Salbutamol,21000
+NGA-02796,None,None,26700
+NGA-02797,Asthma,Salbutamol,34600
+NGA-02798,Diabetes,Metformin,37800
+NGA-02799,Asthma,Salbutamol,44700
+NGA-02800,None,None,14000
+NGA-02801,Diabetes,Metformin,3000
+NGA-02802,Typhoid Fever,Ciprofloxacin,41600
+NGA-02803,Hypertension,Amlodipine,13500
+NGA-02804,Typhoid Fever,Ciprofloxacin,14600
+NGA-02805,Malaria,Artemether/Lumefantrine,42600
+NGA-02806,Malaria,Artemether/Lumefantrine,36800
+NGA-02807,Diabetes,Metformin,16400
+NGA-02808,Sickle Cell Anemia,Hydroxyurea,27500
+NGA-02809,Hypertension,Amlodipine,21300
+NGA-02810,None,None,11800
+NGA-02811,Diabetes,Metformin,12000
+NGA-02812,Hypertension,Amlodipine,30500
+NGA-02813,Malaria,Artemether/Lumefantrine,15000
+NGA-02814,Malaria,Artemether/Lumefantrine,26300
+NGA-02815,Malaria,Artemether/Lumefantrine,19500
+NGA-02816,Asthma,Salbutamol,32200
+NGA-02817,Hypertension,Amlodipine,16700
+NGA-02818,Typhoid Fever,Ciprofloxacin,42400
+NGA-02819,Sickle Cell Anemia,Folic Acid,11800
+NGA-02820,Diabetes,Metformin,44400
+NGA-02821,Sickle Cell Anemia,Folic Acid,22600
+NGA-02822,Hypertension,Amlodipine,31200
+NGA-02823,None,None,37200
+NGA-02824,Sickle Cell Anemia,Folic Acid,33300
+NGA-02825,None,None,17500
+NGA-02826,None,None,41000
+NGA-02827,Asthma,Salbutamol,39700
+NGA-02828,Hypertension,Amlodipine,34600
+NGA-02829,Sickle Cell Anemia,Hydroxyurea,15400
+NGA-02830,Hypertension,Amlodipine,31900
+NGA-02831,Asthma,Salbutamol,27200
+NGA-02832,Asthma,Salbutamol,9700
+NGA-02833,Malaria,Artemether/Lumefantrine,28900
+NGA-02834,Hypertension,Amlodipine,44100
+NGA-02835,Hypertension,Amlodipine,11200
+NGA-02836,Diabetes,Metformin,18600
+NGA-02837,Typhoid Fever,Ciprofloxacin,6800
+NGA-02838,Diabetes,Metformin,33800
+NGA-02839,None,None,22500
+NGA-02840,Asthma,Salbutamol,37800
+NGA-02841,Asthma,Salbutamol,12100
+NGA-02842,None,None,44800
+NGA-02843,Sickle Cell Anemia,Folic Acid,11300
+NGA-02844,Typhoid Fever,Ciprofloxacin,26400
+NGA-02845,Typhoid Fever,Ciprofloxacin,15000
+NGA-02846,None,None,20400
+NGA-02847,Hypertension,Amlodipine,41300
+NGA-02848,Hypertension,Amlodipine,13700
+NGA-02849,Typhoid Fever,Ciprofloxacin,23300
+NGA-02850,Sickle Cell Anemia,Hydroxyurea,33100
+NGA-02851,None,None,42000
+NGA-02852,Asthma,Salbutamol,10400
+NGA-02853,Diabetes,Metformin,34100
+NGA-02854,Malaria,Artemether/Lumefantrine,26100
+NGA-02855,Typhoid Fever,Ciprofloxacin,17000
+NGA-02856,Asthma,Salbutamol,24600
+NGA-02857,None,None,38900
+NGA-02858,Hypertension,Amlodipine,43700
+NGA-02859,Sickle Cell Anemia,Hydroxyurea,12500
+NGA-02860,Asthma,Salbutamol,28700
+NGA-02861,Typhoid Fever,Ciprofloxacin,39200
+NGA-02862,Typhoid Fever,Ciprofloxacin,30300
+NGA-02863,Diabetes,Metformin,18700
+NGA-02864,None,None,21500
+NGA-02865,Malaria,Artemether/Lumefantrine,6000
+NGA-02866,Diabetes,Metformin,32200
+NGA-02867,Hypertension,Amlodipine,44600
+NGA-02868,None,None,43200
+NGA-02869,Hypertension,Amlodipine,13800
+NGA-02870,Malaria,Artemether/Lumefantrine,10600
+NGA-02871,Malaria,Artemether/Lumefantrine,7300
+NGA-02872,Malaria,Artemether/Lumefantrine,34900
+NGA-02873,Sickle Cell Anemia,Folic Acid,41400
+NGA-02874,Diabetes,Metformin,18800
+NGA-02875,Asthma,Salbutamol,42300
+NGA-02876,Sickle Cell Anemia,Folic Acid,20500
+NGA-02877,Malaria,Artemether/Lumefantrine,17700
+NGA-02878,Sickle Cell Anemia,Folic Acid,26000
+NGA-02879,Typhoid Fever,Ciprofloxacin,6400
+NGA-02880,Sickle Cell Anemia,Hydroxyurea,39500
+NGA-02881,Diabetes,Metformin,37500
+NGA-02882,Hypertension,Amlodipine,21900
+NGA-02883,Asthma,Salbutamol,7400
+NGA-02884,Typhoid Fever,Ciprofloxacin,39900
+NGA-02885,Typhoid Fever,Ciprofloxacin,7200
+NGA-02886,Diabetes,Metformin,7900
+NGA-02887,Hypertension,Amlodipine,3100
+NGA-02888,Typhoid Fever,Ciprofloxacin,32000
+NGA-02889,Typhoid Fever,Ciprofloxacin,27300
+NGA-02890,Sickle Cell Anemia,Hydroxyurea,28300
+NGA-02891,Sickle Cell Anemia,Folic Acid,42200
+NGA-02892,Hypertension,Amlodipine,18000
+NGA-02893,Sickle Cell Anemia,Folic Acid,13300
+NGA-02894,Diabetes,Metformin,15000
+NGA-02895,Malaria,Artemether/Lumefantrine,11000
+NGA-02896,Sickle Cell Anemia,Folic Acid,27500
+NGA-02897,Hypertension,Amlodipine,31800
+NGA-02898,Typhoid Fever,Ciprofloxacin,21300
+NGA-02899,Hypertension,Amlodipine,6400
+NGA-02900,Diabetes,Metformin,14700
+NGA-02901,Diabetes,Metformin,44000
+NGA-02902,Diabetes,Metformin,29800
+NGA-02903,Hypertension,Amlodipine,17500
+NGA-02904,Sickle Cell Anemia,Hydroxyurea,2200
+NGA-02905,Hypertension,Amlodipine,39600
+NGA-02906,Typhoid Fever,Ciprofloxacin,27800
+NGA-02907,Sickle Cell Anemia,Hydroxyurea,12200
+NGA-02908,Diabetes,Metformin,30400
+NGA-02909,Asthma,Salbutamol,22400
+NGA-02910,Typhoid Fever,Ciprofloxacin,38100
+NGA-02911,Diabetes,Metformin,6300
+NGA-02912,Sickle Cell Anemia,Folic Acid,25300
+NGA-02913,Typhoid Fever,Ciprofloxacin,19000
+NGA-02914,None,None,43000
+NGA-02915,Typhoid Fever,Ciprofloxacin,27100
+NGA-02916,Typhoid Fever,Ciprofloxacin,8500
+NGA-02917,Diabetes,Metformin,15900
+NGA-02918,None,None,28000
+NGA-02919,Typhoid Fever,Ciprofloxacin,38600
+NGA-02920,None,None,4400
+NGA-02921,Diabetes,Metformin,3000
+NGA-02922,None,None,41700
+NGA-02923,Typhoid Fever,Ciprofloxacin,18700
+NGA-02924,Hypertension,Amlodipine,4300
+NGA-02925,Hypertension,Amlodipine,4100
+NGA-02926,Diabetes,Metformin,5400
+NGA-02927,Sickle Cell Anemia,Folic Acid,43200
+NGA-02928,Sickle Cell Anemia,Folic Acid,37200
+NGA-02929,None,None,30700
+NGA-02930,Diabetes,Metformin,34200
+NGA-02931,Asthma,Salbutamol,5600
+NGA-02932,Diabetes,Metformin,16000
+NGA-02933,Sickle Cell Anemia,Folic Acid,5200
+NGA-02934,Malaria,Artemether/Lumefantrine,5000
+NGA-02935,Malaria,Artemether/Lumefantrine,27200
+NGA-02936,Diabetes,Metformin,10300
+NGA-02937,Typhoid Fever,Ciprofloxacin,13100
+NGA-02938,Asthma,Salbutamol,12900
+NGA-02939,Hypertension,Amlodipine,35200
+NGA-02940,Diabetes,Metformin,28800
+NGA-02941,Malaria,Artemether/Lumefantrine,24100
+NGA-02942,Typhoid Fever,Ciprofloxacin,8000
+NGA-02943,None,None,5800
+NGA-02944,Hypertension,Amlodipine,11900
+NGA-02945,None,None,4000
+NGA-02946,Typhoid Fever,Ciprofloxacin,33800
+NGA-02947,Diabetes,Metformin,24000
+NGA-02948,Typhoid Fever,Ciprofloxacin,30200
+NGA-02949,None,None,10300
+NGA-02950,Diabetes,Metformin,38700
+NGA-02951,Sickle Cell Anemia,Folic Acid,30600
+NGA-02952,Malaria,Artemether/Lumefantrine,18100
+NGA-02953,Hypertension,Amlodipine,26600
+NGA-02954,Sickle Cell Anemia,Folic Acid,4200
+NGA-02955,Asthma,Salbutamol,31300
+NGA-02956,Malaria,Artemether/Lumefantrine,42900
+NGA-02957,Sickle Cell Anemia,Hydroxyurea,41300
+NGA-02958,Typhoid Fever,Ciprofloxacin,37300
+NGA-02959,Sickle Cell Anemia,Hydroxyurea,38700
+NGA-02960,Hypertension,Amlodipine,22600
+NGA-02961,Sickle Cell Anemia,Hydroxyurea,10500
+NGA-02962,Typhoid Fever,Ciprofloxacin,42100
+NGA-02963,Typhoid Fever,Ciprofloxacin,5200
+NGA-02964,Asthma,Salbutamol,13300
+NGA-02965,Typhoid Fever,Ciprofloxacin,13300
+NGA-02966,Hypertension,Amlodipine,7400
+NGA-02967,None,None,31100
+NGA-02968,Hypertension,Amlodipine,42600
+NGA-02969,Asthma,Salbutamol,22000
+NGA-02970,Diabetes,Metformin,29000
+NGA-02971,Asthma,Salbutamol,29000
+NGA-02972,Malaria,Artemether/Lumefantrine,19700
+NGA-02973,None,None,40700
+NGA-02974,Typhoid Fever,Ciprofloxacin,17600
+NGA-02975,None,None,15600
+NGA-02976,Sickle Cell Anemia,Folic Acid,20000
+NGA-02977,Hypertension,Amlodipine,28100
+NGA-02978,Diabetes,Metformin,7400
+NGA-02979,Asthma,Salbutamol,5100
+NGA-02980,Diabetes,Metformin,44600
+NGA-02981,Sickle Cell Anemia,Folic Acid,25500
+NGA-02982,Hypertension,Amlodipine,39800
+NGA-02983,Malaria,Artemether/Lumefantrine,2900
+NGA-02984,Hypertension,Amlodipine,11200
+NGA-02985,None,None,5500
+NGA-02986,Malaria,Artemether/Lumefantrine,33300
+NGA-02987,Diabetes,Metformin,19100
+NGA-02988,Typhoid Fever,Ciprofloxacin,14400
+NGA-02989,Sickle Cell Anemia,Hydroxyurea,22700
+NGA-02990,Sickle Cell Anemia,Folic Acid,4700
+NGA-02991,Asthma,Salbutamol,29100
+NGA-02992,Diabetes,Metformin,43900
+NGA-02993,Malaria,Artemether/Lumefantrine,11600
+NGA-02994,Hypertension,Amlodipine,3200
+NGA-02995,Hypertension,Amlodipine,10200
+NGA-02996,Sickle Cell Anemia,Hydroxyurea,13300
+NGA-02997,Hypertension,Amlodipine,7000
+NGA-02998,Diabetes,Metformin,29000
+NGA-02999,Typhoid Fever,Ciprofloxacin,28100
+NGA-03000,Typhoid Fever,Ciprofloxacin,20200
+NGA-03001,None,None,10100
+NGA-03002,Sickle Cell Anemia,Folic Acid,41300
+NGA-03003,Asthma,Salbutamol,28200
+NGA-03004,Sickle Cell Anemia,Hydroxyurea,4800
+NGA-03005,Asthma,Salbutamol,38400
+NGA-03006,Asthma,Salbutamol,20700
+NGA-03007,Asthma,Salbutamol,2600
+NGA-03008,Asthma,Salbutamol,12500
+NGA-03009,Malaria,Artemether/Lumefantrine,11700
+NGA-03010,Diabetes,Metformin,26800
+NGA-03011,Diabetes,Metformin,4900
+NGA-03012,Typhoid Fever,Ciprofloxacin,26600
+NGA-03013,Asthma,Salbutamol,11800
+NGA-03014,None,None,9700
+NGA-03015,Typhoid Fever,Ciprofloxacin,16800
+NGA-03016,Sickle Cell Anemia,Folic Acid,35900
+NGA-03017,Hypertension,Amlodipine,24900
+NGA-03018,Diabetes,Metformin,40100
+NGA-03019,Malaria,Artemether/Lumefantrine,29300
+NGA-03020,Sickle Cell Anemia,Folic Acid,19300
+NGA-03021,None,None,21500
+NGA-03022,Diabetes,Metformin,6400
+NGA-03023,Asthma,Salbutamol,18400
+NGA-03024,Asthma,Salbutamol,27900
+NGA-03025,Malaria,Artemether/Lumefantrine,21800
+NGA-03026,Typhoid Fever,Ciprofloxacin,13200
+NGA-03027,Malaria,Artemether/Lumefantrine,38400
+NGA-03028,Hypertension,Amlodipine,26400
+NGA-03029,Hypertension,Amlodipine,38400
+NGA-03030,Asthma,Salbutamol,9100
+NGA-03031,None,None,10000
+NGA-03032,None,None,10000
+NGA-03033,Hypertension,Amlodipine,28400
+NGA-03034,Malaria,Artemether/Lumefantrine,34700
+NGA-03035,Diabetes,Metformin,13100
+NGA-03036,Typhoid Fever,Ciprofloxacin,31400
+NGA-03037,None,None,14000
+NGA-03038,Asthma,Salbutamol,43300
+NGA-03039,Sickle Cell Anemia,Hydroxyurea,36500
+NGA-03040,Hypertension,Amlodipine,34100
+NGA-03041,Sickle Cell Anemia,Hydroxyurea,20500
+NGA-03042,Hypertension,Amlodipine,32200
+NGA-03043,Hypertension,Amlodipine,25300
+NGA-03044,Typhoid Fever,Ciprofloxacin,23800
+NGA-03045,Asthma,Salbutamol,39500
+NGA-03046,Asthma,Salbutamol,40000
+NGA-03047,Hypertension,Amlodipine,5200
+NGA-03048,Asthma,Salbutamol,35700
+NGA-03049,Malaria,Artemether/Lumefantrine,11600
+NGA-03050,None,None,4000
+NGA-03051,Asthma,Salbutamol,13100
+NGA-03052,Asthma,Salbutamol,28000
+NGA-03053,Diabetes,Metformin,24300
+NGA-03054,Diabetes,Metformin,15800
+NGA-03055,Malaria,Artemether/Lumefantrine,23500
+NGA-03056,Asthma,Salbutamol,5700
+NGA-03057,Typhoid Fever,Ciprofloxacin,16400
+NGA-03058,Typhoid Fever,Ciprofloxacin,32200
+NGA-03059,Typhoid Fever,Ciprofloxacin,27500
+NGA-03060,Sickle Cell Anemia,Folic Acid,30400
+NGA-03061,Asthma,Salbutamol,31900
+NGA-03062,Typhoid Fever,Ciprofloxacin,35100
+NGA-03063,Malaria,Artemether/Lumefantrine,41100
+NGA-03064,Typhoid Fever,Ciprofloxacin,32000
+NGA-03065,Hypertension,Amlodipine,9200
+NGA-03066,Typhoid Fever,Ciprofloxacin,22700
+NGA-03067,Asthma,Salbutamol,22600
+NGA-03068,Hypertension,Amlodipine,28200
+NGA-03069,Asthma,Salbutamol,9400
+NGA-03070,Hypertension,Amlodipine,17300
+NGA-03071,Sickle Cell Anemia,Hydroxyurea,6200
+NGA-03072,Sickle Cell Anemia,Hydroxyurea,8500
+NGA-03073,Sickle Cell Anemia,Folic Acid,32700
+NGA-03074,Sickle Cell Anemia,Folic Acid,13500
+NGA-03075,None,None,18800
+NGA-03076,Typhoid Fever,Ciprofloxacin,12100
+NGA-03077,Hypertension,Amlodipine,9200
+NGA-03078,Malaria,Artemether/Lumefantrine,19700
+NGA-03079,Malaria,Artemether/Lumefantrine,40100
+NGA-03080,Malaria,Artemether/Lumefantrine,43600
+NGA-03081,Hypertension,Amlodipine,19000
+NGA-03082,Sickle Cell Anemia,Folic Acid,3000
+NGA-03083,Sickle Cell Anemia,Hydroxyurea,8300
+NGA-03084,Hypertension,Amlodipine,15900
+NGA-03085,Malaria,Artemether/Lumefantrine,14800
+NGA-03086,Sickle Cell Anemia,Hydroxyurea,25000
+NGA-03087,Sickle Cell Anemia,Folic Acid,2300
+NGA-03088,Malaria,Artemether/Lumefantrine,28800
+NGA-03089,Asthma,Salbutamol,16800
+NGA-03090,Asthma,Salbutamol,28600
+NGA-03091,None,None,26400
+NGA-03092,Diabetes,Metformin,23100
+NGA-03093,None,None,35100
+NGA-03094,Diabetes,Metformin,33000
+NGA-03095,Hypertension,Amlodipine,43700
+NGA-03096,Typhoid Fever,Ciprofloxacin,36300
+NGA-03097,Sickle Cell Anemia,Hydroxyurea,10400
+NGA-03098,Diabetes,Metformin,37700
+NGA-03099,Sickle Cell Anemia,Hydroxyurea,44000
+NGA-03100,Sickle Cell Anemia,Folic Acid,38700
+NGA-03101,None,None,15600
+NGA-03102,Hypertension,Amlodipine,16900
+NGA-03103,Hypertension,Amlodipine,26300
+NGA-03104,Sickle Cell Anemia,Hydroxyurea,29700
+NGA-03105,Hypertension,Amlodipine,8300
+NGA-03106,Typhoid Fever,Ciprofloxacin,33000
+NGA-03107,Sickle Cell Anemia,Folic Acid,13600
+NGA-03108,Typhoid Fever,Ciprofloxacin,5700
+NGA-03109,Asthma,Salbutamol,4800
+NGA-03110,None,None,31000
+NGA-03111,Typhoid Fever,Ciprofloxacin,44500
+NGA-03112,Malaria,Artemether/Lumefantrine,43400
+NGA-03113,Sickle Cell Anemia,Folic Acid,21600
+NGA-03114,None,None,11400
+NGA-03115,Hypertension,Amlodipine,24700
+NGA-03116,Asthma,Salbutamol,8400
+NGA-03117,None,None,17300
+NGA-03118,None,None,43200
+NGA-03119,Typhoid Fever,Ciprofloxacin,21900
+NGA-03120,Typhoid Fever,Ciprofloxacin,20500
+NGA-03121,Asthma,Salbutamol,6400
+NGA-03122,Asthma,Salbutamol,17700
+NGA-03123,Asthma,Salbutamol,25900
+NGA-03124,Malaria,Artemether/Lumefantrine,33400
+NGA-03125,Asthma,Salbutamol,8900
+NGA-03126,Hypertension,Amlodipine,10900
+NGA-03127,Typhoid Fever,Ciprofloxacin,36200
+NGA-03128,Malaria,Artemether/Lumefantrine,25400
+NGA-03129,Sickle Cell Anemia,Hydroxyurea,17500
+NGA-03130,Diabetes,Metformin,43100
+NGA-03131,Asthma,Salbutamol,3400
+NGA-03132,Asthma,Salbutamol,42800
+NGA-03133,Diabetes,Metformin,32100
+NGA-03134,None,None,26900
+NGA-03135,Diabetes,Metformin,9100
+NGA-03136,Typhoid Fever,Ciprofloxacin,12900
+NGA-03137,None,None,29400
+NGA-03138,Hypertension,Amlodipine,8000
+NGA-03139,Malaria,Artemether/Lumefantrine,22100
+NGA-03140,None,None,43300
+NGA-03141,Diabetes,Metformin,38100
+NGA-03142,Typhoid Fever,Ciprofloxacin,9400
+NGA-03143,Diabetes,Metformin,6800
+NGA-03144,None,None,40200
+NGA-03145,Asthma,Salbutamol,31400
+NGA-03146,Sickle Cell Anemia,Folic Acid,24400
+NGA-03147,Malaria,Artemether/Lumefantrine,10700
+NGA-03148,Malaria,Artemether/Lumefantrine,9400
+NGA-03149,Sickle Cell Anemia,Folic Acid,21000
+NGA-03150,Hypertension,Amlodipine,32800
+NGA-03151,Hypertension,Amlodipine,44200
+NGA-03152,Diabetes,Metformin,34800
+NGA-03153,None,None,14500
+NGA-03154,Diabetes,Metformin,17000
+NGA-03155,Sickle Cell Anemia,Folic Acid,9900
+NGA-03156,Sickle Cell Anemia,Hydroxyurea,22300
+NGA-03157,Malaria,Artemether/Lumefantrine,2300
+NGA-03158,None,None,28500
+NGA-03159,Hypertension,Amlodipine,38300
+NGA-03160,Diabetes,Metformin,25700
+NGA-03161,Malaria,Artemether/Lumefantrine,7900
+NGA-03162,Sickle Cell Anemia,Folic Acid,22200
+NGA-03163,Asthma,Salbutamol,37700
+NGA-03164,Sickle Cell Anemia,Hydroxyurea,5000
+NGA-03165,Malaria,Artemether/Lumefantrine,31300
+NGA-03166,Malaria,Artemether/Lumefantrine,8900
+NGA-03167,Malaria,Artemether/Lumefantrine,28400
+NGA-03168,Diabetes,Metformin,20500
+NGA-03169,Diabetes,Metformin,40200
+NGA-03170,Typhoid Fever,Ciprofloxacin,29100
+NGA-03171,Malaria,Artemether/Lumefantrine,16000
+NGA-03172,Typhoid Fever,Ciprofloxacin,8800
+NGA-03173,Diabetes,Metformin,33400
+NGA-03174,Sickle Cell Anemia,Folic Acid,16100
+NGA-03175,None,None,16300
+NGA-03176,Asthma,Salbutamol,31400
+NGA-03177,Asthma,Salbutamol,2800
+NGA-03178,Asthma,Salbutamol,43200
+NGA-03179,Asthma,Salbutamol,40100
+NGA-03180,Malaria,Artemether/Lumefantrine,3400
+NGA-03181,None,None,6900
+NGA-03182,Malaria,Artemether/Lumefantrine,15100
+NGA-03183,Hypertension,Amlodipine,25100
+NGA-03184,None,None,13000
+NGA-03185,Asthma,Salbutamol,7500
+NGA-03186,None,None,20500
+NGA-03187,None,None,9400
+NGA-03188,Asthma,Salbutamol,31700
+NGA-03189,Sickle Cell Anemia,Hydroxyurea,2600
+NGA-03190,Asthma,Salbutamol,20000
+NGA-03191,Asthma,Salbutamol,44800
+NGA-03192,Malaria,Artemether/Lumefantrine,7800
+NGA-03193,Diabetes,Metformin,12300
+NGA-03194,Diabetes,Metformin,3600
+NGA-03195,Asthma,Salbutamol,34100
+NGA-03196,Malaria,Artemether/Lumefantrine,24700
+NGA-03197,Malaria,Artemether/Lumefantrine,2100
+NGA-03198,Diabetes,Metformin,40900
+NGA-03199,Malaria,Artemether/Lumefantrine,30800
+NGA-03200,Diabetes,Metformin,31400
+NGA-03201,Hypertension,Amlodipine,39700
+NGA-03202,Malaria,Artemether/Lumefantrine,29500
+NGA-03203,Diabetes,Metformin,10500
+NGA-03204,Typhoid Fever,Ciprofloxacin,21600
+NGA-03205,Typhoid Fever,Ciprofloxacin,36700
+NGA-03206,None,None,26700
+NGA-03207,Diabetes,Metformin,44200
+NGA-03208,Malaria,Artemether/Lumefantrine,35000
+NGA-03209,Asthma,Salbutamol,8100
+NGA-03210,Hypertension,Amlodipine,43100
+NGA-03211,Sickle Cell Anemia,Folic Acid,3300
+NGA-03212,Diabetes,Metformin,28100
+NGA-03213,Hypertension,Amlodipine,39500
+NGA-03214,None,None,32500
+NGA-03215,Asthma,Salbutamol,11500
+NGA-03216,Asthma,Salbutamol,20100
+NGA-03217,Malaria,Artemether/Lumefantrine,40700
+NGA-03218,Diabetes,Metformin,20300
+NGA-03219,None,None,18600
+NGA-03220,Asthma,Salbutamol,26000
+NGA-03221,Hypertension,Amlodipine,33300
+NGA-03222,Typhoid Fever,Ciprofloxacin,15100
+NGA-03223,Diabetes,Metformin,12700
+NGA-03224,Typhoid Fever,Ciprofloxacin,38900
+NGA-03225,Diabetes,Metformin,12900
+NGA-03226,Diabetes,Metformin,14000
+NGA-03227,None,None,12900
+NGA-03228,Malaria,Artemether/Lumefantrine,42500
+NGA-03229,Hypertension,Amlodipine,18700
+NGA-03230,Malaria,Artemether/Lumefantrine,20700
+NGA-03231,None,None,13300
+NGA-03232,Asthma,Salbutamol,22000
+NGA-03233,Malaria,Artemether/Lumefantrine,3300
+NGA-03234,Malaria,Artemether/Lumefantrine,25500
+NGA-03235,Typhoid Fever,Ciprofloxacin,14500
+NGA-03236,None,None,33600
+NGA-03237,Diabetes,Metformin,25700
+NGA-03238,Typhoid Fever,Ciprofloxacin,6300
+NGA-03239,Diabetes,Metformin,33300
+NGA-03240,Typhoid Fever,Ciprofloxacin,6100
+NGA-03241,Malaria,Artemether/Lumefantrine,19500
+NGA-03242,Typhoid Fever,Ciprofloxacin,8100
+NGA-03243,Sickle Cell Anemia,Folic Acid,42700
+NGA-03244,Sickle Cell Anemia,Folic Acid,37700
+NGA-03245,Typhoid Fever,Ciprofloxacin,9300
+NGA-03246,None,None,2200
+NGA-03247,Diabetes,Metformin,7600
+NGA-03248,Malaria,Artemether/Lumefantrine,6100
+NGA-03249,Malaria,Artemether/Lumefantrine,17400
+NGA-03250,None,None,15700
+NGA-03251,Malaria,Artemether/Lumefantrine,2800
+NGA-03252,Hypertension,Amlodipine,28200
+NGA-03253,Typhoid Fever,Ciprofloxacin,36700
+NGA-03254,Sickle Cell Anemia,Folic Acid,28500
+NGA-03255,Asthma,Salbutamol,44100
+NGA-03256,Malaria,Artemether/Lumefantrine,19900
+NGA-03257,Typhoid Fever,Ciprofloxacin,33400
+NGA-03258,None,None,35200
+NGA-03259,None,None,7300
+NGA-03260,Asthma,Salbutamol,38000
+NGA-03261,None,None,32500
+NGA-03262,Asthma,Salbutamol,18000
+NGA-03263,Asthma,Salbutamol,32000
+NGA-03264,Hypertension,Amlodipine,31900
+NGA-03265,Typhoid Fever,Ciprofloxacin,7700
+NGA-03266,Asthma,Salbutamol,36100
+NGA-03267,Malaria,Artemether/Lumefantrine,25800
+NGA-03268,Typhoid Fever,Ciprofloxacin,4100
+NGA-03269,Malaria,Artemether/Lumefantrine,23600
+NGA-03270,Malaria,Artemether/Lumefantrine,25600
+NGA-03271,Diabetes,Metformin,44300
+NGA-03272,None,None,29900
+NGA-03273,Typhoid Fever,Ciprofloxacin,29300
+NGA-03274,Typhoid Fever,Ciprofloxacin,12100
+NGA-03275,Sickle Cell Anemia,Folic Acid,41600
+NGA-03276,None,None,33800
+NGA-03277,Typhoid Fever,Ciprofloxacin,43000
+NGA-03278,Malaria,Artemether/Lumefantrine,38600
+NGA-03279,Malaria,Artemether/Lumefantrine,15200
+NGA-03280,None,None,44800
+NGA-03281,None,None,9500
+NGA-03282,Typhoid Fever,Ciprofloxacin,16600
+NGA-03283,Sickle Cell Anemia,Folic Acid,39400
+NGA-03284,Sickle Cell Anemia,Folic Acid,10500
+NGA-03285,Typhoid Fever,Ciprofloxacin,17700
+NGA-03286,Typhoid Fever,Ciprofloxacin,35200
+NGA-03287,Diabetes,Metformin,5700
+NGA-03288,None,None,41300
+NGA-03289,Asthma,Salbutamol,35400
+NGA-03290,Asthma,Salbutamol,37100
+NGA-03291,None,None,15700
+NGA-03292,Hypertension,Amlodipine,31500
+NGA-03293,Asthma,Salbutamol,37900
+NGA-03294,Hypertension,Amlodipine,21900
+NGA-03295,Hypertension,Amlodipine,32300
+NGA-03296,Typhoid Fever,Ciprofloxacin,25700
+NGA-03297,Malaria,Artemether/Lumefantrine,9600
+NGA-03298,Typhoid Fever,Ciprofloxacin,3700
+NGA-03299,Sickle Cell Anemia,Hydroxyurea,5500
+NGA-03300,Malaria,Artemether/Lumefantrine,21100
+NGA-03301,Asthma,Salbutamol,24900
+NGA-03302,Diabetes,Metformin,2800
+NGA-03303,Sickle Cell Anemia,Hydroxyurea,12200
+NGA-03304,Malaria,Artemether/Lumefantrine,13000
+NGA-03305,Diabetes,Metformin,43400
+NGA-03306,None,None,36500
+NGA-03307,Hypertension,Amlodipine,24900
+NGA-03308,Diabetes,Metformin,36300
+NGA-03309,Hypertension,Amlodipine,2300
+NGA-03310,Diabetes,Metformin,34600
+NGA-03311,Diabetes,Metformin,22200
+NGA-03312,Asthma,Salbutamol,38000
+NGA-03313,None,None,20600
+NGA-03314,Malaria,Artemether/Lumefantrine,36400
+NGA-03315,None,None,38500
+NGA-03316,Diabetes,Metformin,15300
+NGA-03317,Typhoid Fever,Ciprofloxacin,40700
+NGA-03318,Diabetes,Metformin,9700
+NGA-03319,Typhoid Fever,Ciprofloxacin,44600
+NGA-03320,Asthma,Salbutamol,11500
+NGA-03321,Hypertension,Amlodipine,43200
+NGA-03322,None,None,16100
+NGA-03323,Diabetes,Metformin,31800
+NGA-03324,Hypertension,Amlodipine,14700
+NGA-03325,Diabetes,Metformin,33400
+NGA-03326,Hypertension,Amlodipine,27600
+NGA-03327,Hypertension,Amlodipine,9800
+NGA-03328,None,None,16000
+NGA-03329,Asthma,Salbutamol,36100
+NGA-03330,None,None,26200
+NGA-03331,Sickle Cell Anemia,Folic Acid,21000
+NGA-03332,Sickle Cell Anemia,Folic Acid,21100
+NGA-03333,None,None,27800
+NGA-03334,Hypertension,Amlodipine,44200
+NGA-03335,Diabetes,Metformin,5800
+NGA-03336,Hypertension,Amlodipine,31300
+NGA-03337,Typhoid Fever,Ciprofloxacin,35800
+NGA-03338,Typhoid Fever,Ciprofloxacin,44500
+NGA-03339,Asthma,Salbutamol,36300
+NGA-03340,Hypertension,Amlodipine,11600
+NGA-03341,Malaria,Artemether/Lumefantrine,32500
+NGA-03342,Typhoid Fever,Ciprofloxacin,34600
+NGA-03343,Sickle Cell Anemia,Folic Acid,22100
+NGA-03344,Asthma,Salbutamol,43800
+NGA-03345,Typhoid Fever,Ciprofloxacin,21000
+NGA-03346,Diabetes,Metformin,12800
+NGA-03347,None,None,35000
+NGA-03348,Malaria,Artemether/Lumefantrine,31400
+NGA-03349,Malaria,Artemether/Lumefantrine,5800
+NGA-03350,Asthma,Salbutamol,18700
+NGA-03351,Diabetes,Metformin,25600
+NGA-03352,None,None,44100
+NGA-03353,Sickle Cell Anemia,Hydroxyurea,38500
+NGA-03354,Diabetes,Metformin,43600
+NGA-03355,Typhoid Fever,Ciprofloxacin,26500
+NGA-03356,Typhoid Fever,Ciprofloxacin,41200
+NGA-03357,None,None,3700
+NGA-03358,Typhoid Fever,Ciprofloxacin,34500
+NGA-03359,None,None,39800
+NGA-03360,Sickle Cell Anemia,Folic Acid,30300
+NGA-03361,Hypertension,Amlodipine,43500
+NGA-03362,Malaria,Artemether/Lumefantrine,9800
+NGA-03363,Sickle Cell Anemia,Folic Acid,35400
+NGA-03364,Sickle Cell Anemia,Folic Acid,10700
+NGA-03365,Sickle Cell Anemia,Hydroxyurea,32500
+NGA-03366,Hypertension,Amlodipine,27600
+NGA-03367,Malaria,Artemether/Lumefantrine,18200
+NGA-03368,Hypertension,Amlodipine,2300
+NGA-03369,Sickle Cell Anemia,Folic Acid,24100
+NGA-03370,None,None,13700
+NGA-03371,Diabetes,Metformin,20600
+NGA-03372,Hypertension,Amlodipine,34200
+NGA-03373,Hypertension,Amlodipine,7600
+NGA-03374,Sickle Cell Anemia,Hydroxyurea,23800
+NGA-03375,Typhoid Fever,Ciprofloxacin,26800
+NGA-03376,Hypertension,Amlodipine,24200
+NGA-03377,Typhoid Fever,Ciprofloxacin,28500
+NGA-03378,Sickle Cell Anemia,Hydroxyurea,11800
+NGA-03379,Typhoid Fever,Ciprofloxacin,31500
+NGA-03380,Typhoid Fever,Ciprofloxacin,41600
+NGA-03381,None,None,14100
+NGA-03382,None,None,40800
+NGA-03383,Sickle Cell Anemia,Hydroxyurea,33800
+NGA-03384,Asthma,Salbutamol,34200
+NGA-03385,Hypertension,Amlodipine,33400
+NGA-03386,Diabetes,Metformin,26600
+NGA-03387,Diabetes,Metformin,34500
+NGA-03388,Malaria,Artemether/Lumefantrine,22600
+NGA-03389,Asthma,Salbutamol,40000
+NGA-03390,Diabetes,Metformin,38400
+NGA-03391,Sickle Cell Anemia,Hydroxyurea,7400
+NGA-03392,Asthma,Salbutamol,6500
+NGA-03393,Asthma,Salbutamol,41000
+NGA-03394,Malaria,Artemether/Lumefantrine,16100
+NGA-03395,Hypertension,Amlodipine,18900
+NGA-03396,Diabetes,Metformin,4100
+NGA-03397,Hypertension,Amlodipine,35700
+NGA-03398,Sickle Cell Anemia,Hydroxyurea,38500
+NGA-03399,None,None,11100
+NGA-03400,Diabetes,Metformin,31100
+NGA-03401,Diabetes,Metformin,34200
+NGA-03402,Typhoid Fever,Ciprofloxacin,39900
+NGA-03403,Malaria,Artemether/Lumefantrine,31100
+NGA-03404,Hypertension,Amlodipine,39900
+NGA-03405,Malaria,Artemether/Lumefantrine,8300
+NGA-03406,Sickle Cell Anemia,Folic Acid,17700
+NGA-03407,None,None,29600
+NGA-03408,Typhoid Fever,Ciprofloxacin,42600
+NGA-03409,Sickle Cell Anemia,Hydroxyurea,39000
+NGA-03410,Hypertension,Amlodipine,24000
+NGA-03411,Malaria,Artemether/Lumefantrine,24000
+NGA-03412,None,None,6500
+NGA-03413,None,None,35200
+NGA-03414,Typhoid Fever,Ciprofloxacin,13100
+NGA-03415,Hypertension,Amlodipine,12100
+NGA-03416,Asthma,Salbutamol,26700
+NGA-03417,Sickle Cell Anemia,Hydroxyurea,19000
+NGA-03418,Malaria,Artemether/Lumefantrine,12400
+NGA-03419,Asthma,Salbutamol,32600
+NGA-03420,Typhoid Fever,Ciprofloxacin,40600
+NGA-03421,Sickle Cell Anemia,Folic Acid,2400
+NGA-03422,Sickle Cell Anemia,Hydroxyurea,2200
+NGA-03423,Hypertension,Amlodipine,12200
+NGA-03424,None,None,27300
+NGA-03425,Sickle Cell Anemia,Hydroxyurea,28500
+NGA-03426,Asthma,Salbutamol,44100
+NGA-03427,Sickle Cell Anemia,Folic Acid,38500
+NGA-03428,Hypertension,Amlodipine,42500
+NGA-03429,Typhoid Fever,Ciprofloxacin,30100
+NGA-03430,Sickle Cell Anemia,Folic Acid,14800
+NGA-03431,Typhoid Fever,Ciprofloxacin,13900
+NGA-03432,Typhoid Fever,Ciprofloxacin,21900
+NGA-03433,Typhoid Fever,Ciprofloxacin,40700
+NGA-03434,Asthma,Salbutamol,30400
+NGA-03435,Sickle Cell Anemia,Folic Acid,39400
+NGA-03436,Malaria,Artemether/Lumefantrine,15300
+NGA-03437,Malaria,Artemether/Lumefantrine,6700
+NGA-03438,Sickle Cell Anemia,Hydroxyurea,43400
+NGA-03439,None,None,21400
+NGA-03440,Diabetes,Metformin,27000
+NGA-03441,Hypertension,Amlodipine,37600
+NGA-03442,Diabetes,Metformin,34000
+NGA-03443,Hypertension,Amlodipine,7800
+NGA-03444,Asthma,Salbutamol,29500
+NGA-03445,Asthma,Salbutamol,41800
+NGA-03446,Typhoid Fever,Ciprofloxacin,14200
+NGA-03447,Asthma,Salbutamol,12000
+NGA-03448,None,None,35000
+NGA-03449,Typhoid Fever,Ciprofloxacin,37700
+NGA-03450,Hypertension,Amlodipine,44700
+NGA-03451,Malaria,Artemether/Lumefantrine,6700
+NGA-03452,Sickle Cell Anemia,Folic Acid,18800
+NGA-03453,None,None,42300
+NGA-03454,Malaria,Artemether/Lumefantrine,33500
+NGA-03455,Malaria,Artemether/Lumefantrine,12700
+NGA-03456,Typhoid Fever,Ciprofloxacin,26900
+NGA-03457,Malaria,Artemether/Lumefantrine,41500
+NGA-03458,Hypertension,Amlodipine,11000
+NGA-03459,Malaria,Artemether/Lumefantrine,28300
+NGA-03460,Malaria,Artemether/Lumefantrine,16200
+NGA-03461,Sickle Cell Anemia,Folic Acid,28900
+NGA-03462,Hypertension,Amlodipine,32600
+NGA-03463,Asthma,Salbutamol,26400
+NGA-03464,Sickle Cell Anemia,Folic Acid,4300
+NGA-03465,Diabetes,Metformin,36900
+NGA-03466,Hypertension,Amlodipine,32300
+NGA-03467,Hypertension,Amlodipine,26600
+NGA-03468,Diabetes,Metformin,20500
+NGA-03469,Asthma,Salbutamol,23800
+NGA-03470,Diabetes,Metformin,15500
+NGA-03471,Typhoid Fever,Ciprofloxacin,23800
+NGA-03472,Hypertension,Amlodipine,11600
+NGA-03473,Asthma,Salbutamol,30900
+NGA-03474,Malaria,Artemether/Lumefantrine,16200
+NGA-03475,Diabetes,Metformin,30600
+NGA-03476,Asthma,Salbutamol,36300
+NGA-03477,Asthma,Salbutamol,5100
+NGA-03478,Typhoid Fever,Ciprofloxacin,22500
+NGA-03479,Sickle Cell Anemia,Folic Acid,15300
+NGA-03480,Sickle Cell Anemia,Hydroxyurea,37400
+NGA-03481,Asthma,Salbutamol,44600
+NGA-03482,Asthma,Salbutamol,31100
+NGA-03483,Typhoid Fever,Ciprofloxacin,23000
+NGA-03484,Typhoid Fever,Ciprofloxacin,43100
+NGA-03485,Malaria,Artemether/Lumefantrine,11100
+NGA-03486,Sickle Cell Anemia,Hydroxyurea,44800
+NGA-03487,None,None,30000
+NGA-03488,Sickle Cell Anemia,Folic Acid,6200
+NGA-03489,Sickle Cell Anemia,Hydroxyurea,31500
+NGA-03490,Asthma,Salbutamol,22000
+NGA-03491,Typhoid Fever,Ciprofloxacin,43200
+NGA-03492,Malaria,Artemether/Lumefantrine,6000
+NGA-03493,Asthma,Salbutamol,41600
+NGA-03494,None,None,29400
+NGA-03495,None,None,10300
+NGA-03496,Asthma,Salbutamol,30300
+NGA-03497,Typhoid Fever,Ciprofloxacin,29600
+NGA-03498,Malaria,Artemether/Lumefantrine,2100
+NGA-03499,Typhoid Fever,Ciprofloxacin,23800
+NGA-03500,Diabetes,Metformin,11400
+NGA-03501,Asthma,Salbutamol,27100
+NGA-03502,None,None,8400
+NGA-03503,Typhoid Fever,Ciprofloxacin,10500
+NGA-03504,Diabetes,Metformin,32600
+NGA-03505,Sickle Cell Anemia,Hydroxyurea,15800
+NGA-03506,Typhoid Fever,Ciprofloxacin,2600
+NGA-03507,Typhoid Fever,Ciprofloxacin,40900
+NGA-03508,Sickle Cell Anemia,Hydroxyurea,19600
+NGA-03509,Typhoid Fever,Ciprofloxacin,27300
+NGA-03510,Typhoid Fever,Ciprofloxacin,16600
+NGA-03511,Diabetes,Metformin,43000
+NGA-03512,Malaria,Artemether/Lumefantrine,16300
+NGA-03513,None,None,34900
+NGA-03514,None,None,33300
+NGA-03515,Asthma,Salbutamol,11600
+NGA-03516,Asthma,Salbutamol,34900
+NGA-03517,Typhoid Fever,Ciprofloxacin,43400
+NGA-03518,None,None,42000
+NGA-03519,Sickle Cell Anemia,Folic Acid,31400
+NGA-03520,Hypertension,Amlodipine,18900
+NGA-03521,Hypertension,Amlodipine,10400
+NGA-03522,Diabetes,Metformin,21700
+NGA-03523,Sickle Cell Anemia,Folic Acid,15500
+NGA-03524,Diabetes,Metformin,30900
+NGA-03525,Malaria,Artemether/Lumefantrine,16200
+NGA-03526,Malaria,Artemether/Lumefantrine,7100
+NGA-03527,None,None,28800
+NGA-03528,Asthma,Salbutamol,8700
+NGA-03529,Diabetes,Metformin,27600
+NGA-03530,Hypertension,Amlodipine,4300
+NGA-03531,Hypertension,Amlodipine,8000
+NGA-03532,Sickle Cell Anemia,Folic Acid,7500
+NGA-03533,Sickle Cell Anemia,Folic Acid,13500
+NGA-03534,Diabetes,Metformin,23000
+NGA-03535,Hypertension,Amlodipine,14600
+NGA-03536,Asthma,Salbutamol,36100
+NGA-03537,Typhoid Fever,Ciprofloxacin,16200
+NGA-03538,Asthma,Salbutamol,3400
+NGA-03539,Asthma,Salbutamol,12500
+NGA-03540,Diabetes,Metformin,17300
+NGA-03541,Hypertension,Amlodipine,17800
+NGA-03542,Sickle Cell Anemia,Hydroxyurea,31900
+NGA-03543,Typhoid Fever,Ciprofloxacin,44400
+NGA-03544,None,None,3800
+NGA-03545,Hypertension,Amlodipine,44200
+NGA-03546,Asthma,Salbutamol,3600
+NGA-03547,Hypertension,Amlodipine,19700
+NGA-03548,Hypertension,Amlodipine,22200
+NGA-03549,Sickle Cell Anemia,Folic Acid,5200
+NGA-03550,Malaria,Artemether/Lumefantrine,20000
+NGA-03551,None,None,15300
+NGA-03552,Malaria,Artemether/Lumefantrine,42300
+NGA-03553,Sickle Cell Anemia,Folic Acid,36100
+NGA-03554,Diabetes,Metformin,26200
+NGA-03555,Hypertension,Amlodipine,36400
+NGA-03556,None,None,36400
+NGA-03557,Asthma,Salbutamol,6800
+NGA-03558,Malaria,Artemether/Lumefantrine,8900
+NGA-03559,Typhoid Fever,Ciprofloxacin,25700
+NGA-03560,Malaria,Artemether/Lumefantrine,12700
+NGA-03561,Diabetes,Metformin,30500
+NGA-03562,Asthma,Salbutamol,6000
+NGA-03563,Diabetes,Metformin,29300
+NGA-03564,Typhoid Fever,Ciprofloxacin,22500
+NGA-03565,Asthma,Salbutamol,33500
+NGA-03566,Hypertension,Amlodipine,35800
+NGA-03567,Typhoid Fever,Ciprofloxacin,38200
+NGA-03568,Malaria,Artemether/Lumefantrine,16000
+NGA-03569,Sickle Cell Anemia,Folic Acid,20800
+NGA-03570,Malaria,Artemether/Lumefantrine,19400
+NGA-03571,Diabetes,Metformin,41000
+NGA-03572,Typhoid Fever,Ciprofloxacin,9300
+NGA-03573,Sickle Cell Anemia,Folic Acid,8400
+NGA-03574,Asthma,Salbutamol,44100
+NGA-03575,None,None,29900
+NGA-03576,Malaria,Artemether/Lumefantrine,30200
+NGA-03577,Malaria,Artemether/Lumefantrine,29200
+NGA-03578,Diabetes,Metformin,17700
+NGA-03579,Malaria,Artemether/Lumefantrine,14700
+NGA-03580,Asthma,Salbutamol,20000
+NGA-03581,Asthma,Salbutamol,31900
+NGA-03582,Malaria,Artemether/Lumefantrine,12700
+NGA-03583,Malaria,Artemether/Lumefantrine,2200
+NGA-03584,Malaria,Artemether/Lumefantrine,13000
+NGA-03585,Typhoid Fever,Ciprofloxacin,17900
+NGA-03586,Asthma,Salbutamol,36900
+NGA-03587,Sickle Cell Anemia,Folic Acid,16600
+NGA-03588,Hypertension,Amlodipine,16300
+NGA-03589,Typhoid Fever,Ciprofloxacin,7400
+NGA-03590,Malaria,Artemether/Lumefantrine,19500
+NGA-03591,Malaria,Artemether/Lumefantrine,32300
+NGA-03592,None,None,20400
+NGA-03593,Malaria,Artemether/Lumefantrine,23500
+NGA-03594,Hypertension,Amlodipine,23000
+NGA-03595,Typhoid Fever,Ciprofloxacin,25200
+NGA-03596,Diabetes,Metformin,36500
+NGA-03597,None,None,15400
+NGA-03598,None,None,36100
+NGA-03599,Asthma,Salbutamol,12000
+NGA-03600,Hypertension,Amlodipine,7900
+NGA-03601,Asthma,Salbutamol,19600
+NGA-03602,Diabetes,Metformin,44400
+NGA-03603,Sickle Cell Anemia,Folic Acid,26800
+NGA-03604,Typhoid Fever,Ciprofloxacin,27800
+NGA-03605,Diabetes,Metformin,13300
+NGA-03606,None,None,37400
+NGA-03607,Typhoid Fever,Ciprofloxacin,3500
+NGA-03608,Sickle Cell Anemia,Folic Acid,24300
+NGA-03609,None,None,31900
+NGA-03610,Sickle Cell Anemia,Folic Acid,37500
+NGA-03611,Hypertension,Amlodipine,19200
+NGA-03612,Hypertension,Amlodipine,18200
+NGA-03613,Diabetes,Metformin,30400
+NGA-03614,Diabetes,Metformin,37200
+NGA-03615,None,None,8100
+NGA-03616,None,None,43300
+NGA-03617,Asthma,Salbutamol,40300
+NGA-03618,Hypertension,Amlodipine,26200
+NGA-03619,Diabetes,Metformin,9900
+NGA-03620,Typhoid Fever,Ciprofloxacin,31500
+NGA-03621,Malaria,Artemether/Lumefantrine,8400
+NGA-03622,None,None,26300
+NGA-03623,Hypertension,Amlodipine,18100
+NGA-03624,Malaria,Artemether/Lumefantrine,16500
+NGA-03625,Diabetes,Metformin,3000
+NGA-03626,None,None,6500
+NGA-03627,Typhoid Fever,Ciprofloxacin,35300
+NGA-03628,Typhoid Fever,Ciprofloxacin,3600
+NGA-03629,None,None,29700
+NGA-03630,Malaria,Artemether/Lumefantrine,41400
+NGA-03631,Sickle Cell Anemia,Folic Acid,3000
+NGA-03632,Diabetes,Metformin,33000
+NGA-03633,Typhoid Fever,Ciprofloxacin,43100
+NGA-03634,Hypertension,Amlodipine,31200
+NGA-03635,Asthma,Salbutamol,9400
+NGA-03636,None,None,4400
+NGA-03637,Typhoid Fever,Ciprofloxacin,27100
+NGA-03638,Asthma,Salbutamol,11000
+NGA-03639,Typhoid Fever,Ciprofloxacin,15300
+NGA-03640,Sickle Cell Anemia,Folic Acid,3400
+NGA-03641,Diabetes,Metformin,20800
+NGA-03642,Asthma,Salbutamol,22500
+NGA-03643,Sickle Cell Anemia,Hydroxyurea,9000
+NGA-03644,Hypertension,Amlodipine,6900
+NGA-03645,Sickle Cell Anemia,Hydroxyurea,9800
+NGA-03646,Hypertension,Amlodipine,5200
+NGA-03647,Malaria,Artemether/Lumefantrine,29900
+NGA-03648,Hypertension,Amlodipine,31500
+NGA-03649,Malaria,Artemether/Lumefantrine,34500
+NGA-03650,Typhoid Fever,Ciprofloxacin,37200
+NGA-03651,Asthma,Salbutamol,27300
+NGA-03652,Hypertension,Amlodipine,29300
+NGA-03653,Sickle Cell Anemia,Hydroxyurea,38100
+NGA-03654,Asthma,Salbutamol,33800
+NGA-03655,Typhoid Fever,Ciprofloxacin,8800
+NGA-03656,Typhoid Fever,Ciprofloxacin,41600
+NGA-03657,Diabetes,Metformin,35700
+NGA-03658,Hypertension,Amlodipine,28200
+NGA-03659,Sickle Cell Anemia,Folic Acid,6800
+NGA-03660,None,None,38600
+NGA-03661,Hypertension,Amlodipine,11600
+NGA-03662,Diabetes,Metformin,22700
+NGA-03663,Typhoid Fever,Ciprofloxacin,8900
+NGA-03664,None,None,41500
+NGA-03665,Diabetes,Metformin,3800
+NGA-03666,Diabetes,Metformin,4400
+NGA-03667,Sickle Cell Anemia,Folic Acid,26000
+NGA-03668,None,None,40000
+NGA-03669,Hypertension,Amlodipine,24000
+NGA-03670,Asthma,Salbutamol,30100
+NGA-03671,Typhoid Fever,Ciprofloxacin,21100
+NGA-03672,Asthma,Salbutamol,14000
+NGA-03673,Hypertension,Amlodipine,21500
+NGA-03674,Diabetes,Metformin,4300
+NGA-03675,Malaria,Artemether/Lumefantrine,14300
+NGA-03676,Malaria,Artemether/Lumefantrine,26100
+NGA-03677,Sickle Cell Anemia,Hydroxyurea,23100
+NGA-03678,Malaria,Artemether/Lumefantrine,25300
+NGA-03679,Asthma,Salbutamol,40200
+NGA-03680,Asthma,Salbutamol,35900
+NGA-03681,Asthma,Salbutamol,40300
+NGA-03682,Asthma,Salbutamol,42100
+NGA-03683,Hypertension,Amlodipine,4700
+NGA-03684,Malaria,Artemether/Lumefantrine,10300
+NGA-03685,None,None,8800
+NGA-03686,Typhoid Fever,Ciprofloxacin,30400
+NGA-03687,Asthma,Salbutamol,37700
+NGA-03688,Malaria,Artemether/Lumefantrine,34100
+NGA-03689,Malaria,Artemether/Lumefantrine,3100
+NGA-03690,Diabetes,Metformin,5400
+NGA-03691,Asthma,Salbutamol,44900
+NGA-03692,Asthma,Salbutamol,20100
+NGA-03693,Typhoid Fever,Ciprofloxacin,26800
+NGA-03694,Sickle Cell Anemia,Folic Acid,4300
+NGA-03695,Malaria,Artemether/Lumefantrine,14500
+NGA-03696,Diabetes,Metformin,19900
+NGA-03697,Malaria,Artemether/Lumefantrine,20000
+NGA-03698,None,None,23600
+NGA-03699,Malaria,Artemether/Lumefantrine,15900
+NGA-03700,None,None,33800
+NGA-03701,Sickle Cell Anemia,Folic Acid,13600
+NGA-03702,Diabetes,Metformin,19600
+NGA-03703,Diabetes,Metformin,38300
+NGA-03704,Hypertension,Amlodipine,19900
+NGA-03705,Sickle Cell Anemia,Folic Acid,31800
+NGA-03706,Hypertension,Amlodipine,2800
+NGA-03707,Typhoid Fever,Ciprofloxacin,20300
+NGA-03708,Malaria,Artemether/Lumefantrine,37700
+NGA-03709,Typhoid Fever,Ciprofloxacin,13400
+NGA-03710,Asthma,Salbutamol,8700
+NGA-03711,Hypertension,Amlodipine,29000
+NGA-03712,Asthma,Salbutamol,41400
+NGA-03713,Malaria,Artemether/Lumefantrine,45000
+NGA-03714,Asthma,Salbutamol,9600
+NGA-03715,Asthma,Salbutamol,21800
+NGA-03716,Asthma,Salbutamol,21500
+NGA-03717,Hypertension,Amlodipine,22000
+NGA-03718,Hypertension,Amlodipine,12800
+NGA-03719,Diabetes,Metformin,23300
+NGA-03720,Typhoid Fever,Ciprofloxacin,41000
+NGA-03721,Sickle Cell Anemia,Hydroxyurea,13200
+NGA-03722,Asthma,Salbutamol,21000
+NGA-03723,Hypertension,Amlodipine,36800
+NGA-03724,Typhoid Fever,Ciprofloxacin,32100
+NGA-03725,None,None,13700
+NGA-03726,Asthma,Salbutamol,15700
+NGA-03727,Sickle Cell Anemia,Hydroxyurea,22100
+NGA-03728,Sickle Cell Anemia,Hydroxyurea,35300
+NGA-03729,Hypertension,Amlodipine,4300
+NGA-03730,Sickle Cell Anemia,Folic Acid,20700
+NGA-03731,Malaria,Artemether/Lumefantrine,8100
+NGA-03732,Malaria,Artemether/Lumefantrine,28400
+NGA-03733,Malaria,Artemether/Lumefantrine,23500
+NGA-03734,Malaria,Artemether/Lumefantrine,21500
+NGA-03735,Asthma,Salbutamol,41600
+NGA-03736,Malaria,Artemether/Lumefantrine,25500
+NGA-03737,None,None,8700
+NGA-03738,Malaria,Artemether/Lumefantrine,24500
+NGA-03739,None,None,36200
+NGA-03740,Sickle Cell Anemia,Folic Acid,7900
+NGA-03741,None,None,36300
+NGA-03742,None,None,8300
+NGA-03743,Hypertension,Amlodipine,19200
+NGA-03744,Malaria,Artemether/Lumefantrine,32900
+NGA-03745,None,None,32400
+NGA-03746,Typhoid Fever,Ciprofloxacin,34500
+NGA-03747,None,None,13100
+NGA-03748,Malaria,Artemether/Lumefantrine,20800
+NGA-03749,Asthma,Salbutamol,2100
+NGA-03750,Malaria,Artemether/Lumefantrine,10400
+NGA-03751,Sickle Cell Anemia,Hydroxyurea,23200
+NGA-03752,Diabetes,Metformin,29800
+NGA-03753,Sickle Cell Anemia,Folic Acid,42500
+NGA-03754,Sickle Cell Anemia,Hydroxyurea,3400
+NGA-03755,None,None,18600
+NGA-03756,Malaria,Artemether/Lumefantrine,32800
+NGA-03757,Hypertension,Amlodipine,25300
+NGA-03758,None,None,2500
+NGA-03759,Asthma,Salbutamol,10700
+NGA-03760,Hypertension,Amlodipine,31700
+NGA-03761,Diabetes,Metformin,43400
+NGA-03762,Asthma,Salbutamol,19300
+NGA-03763,Diabetes,Metformin,15100
+NGA-03764,Malaria,Artemether/Lumefantrine,22300
+NGA-03765,Diabetes,Metformin,39400
+NGA-03766,None,None,38000
+NGA-03767,None,None,29300
+NGA-03768,Sickle Cell Anemia,Folic Acid,8200
+NGA-03769,Hypertension,Amlodipine,27100
+NGA-03770,None,None,10200
+NGA-03771,Asthma,Salbutamol,7300
+NGA-03772,Malaria,Artemether/Lumefantrine,9500
+NGA-03773,None,None,34800
+NGA-03774,Asthma,Salbutamol,13300
+NGA-03775,Hypertension,Amlodipine,25900
+NGA-03776,Malaria,Artemether/Lumefantrine,17500
+NGA-03777,Diabetes,Metformin,44300
+NGA-03778,Asthma,Salbutamol,30900
+NGA-03779,Hypertension,Amlodipine,13600
+NGA-03780,Asthma,Salbutamol,38100
+NGA-03781,Typhoid Fever,Ciprofloxacin,36000
+NGA-03782,Typhoid Fever,Ciprofloxacin,5600
+NGA-03783,Typhoid Fever,Ciprofloxacin,28000
+NGA-03784,Malaria,Artemether/Lumefantrine,44000
+NGA-03785,Hypertension,Amlodipine,25900
+NGA-03786,Sickle Cell Anemia,Hydroxyurea,13300
+NGA-03787,Typhoid Fever,Ciprofloxacin,2800
+NGA-03788,Typhoid Fever,Ciprofloxacin,20900
+NGA-03789,Hypertension,Amlodipine,42000
+NGA-03790,None,None,7100
+NGA-03791,Asthma,Salbutamol,2100
+NGA-03792,Malaria,Artemether/Lumefantrine,24100
+NGA-03793,None,None,33100
+NGA-03794,Sickle Cell Anemia,Hydroxyurea,19200
+NGA-03795,Sickle Cell Anemia,Folic Acid,39500
+NGA-03796,Malaria,Artemether/Lumefantrine,6400
+NGA-03797,Hypertension,Amlodipine,9300
+NGA-03798,Hypertension,Amlodipine,22600
+NGA-03799,Asthma,Salbutamol,29900
+NGA-03800,Asthma,Salbutamol,33200
+NGA-03801,Typhoid Fever,Ciprofloxacin,4400
+NGA-03802,None,None,37600
+NGA-03803,Malaria,Artemether/Lumefantrine,4500
+NGA-03804,Diabetes,Metformin,11700
+NGA-03805,Sickle Cell Anemia,Hydroxyurea,20300
+NGA-03806,Sickle Cell Anemia,Folic Acid,25600
+NGA-03807,Sickle Cell Anemia,Folic Acid,18000
+NGA-03808,None,None,21000
+NGA-03809,Diabetes,Metformin,18300
+NGA-03810,Sickle Cell Anemia,Folic Acid,32100
+NGA-03811,Typhoid Fever,Ciprofloxacin,29900
+NGA-03812,Asthma,Salbutamol,14600
+NGA-03813,Diabetes,Metformin,5600
+NGA-03814,Sickle Cell Anemia,Folic Acid,4300
+NGA-03815,Typhoid Fever,Ciprofloxacin,43900
+NGA-03816,Sickle Cell Anemia,Folic Acid,5900
+NGA-03817,Malaria,Artemether/Lumefantrine,41800
+NGA-03818,Sickle Cell Anemia,Folic Acid,26500
+NGA-03819,Diabetes,Metformin,2000
+NGA-03820,Asthma,Salbutamol,31100
+NGA-03821,Hypertension,Amlodipine,4200
+NGA-03822,Malaria,Artemether/Lumefantrine,6600
+NGA-03823,Sickle Cell Anemia,Hydroxyurea,25900
+NGA-03824,Sickle Cell Anemia,Folic Acid,17600
+NGA-03825,Malaria,Artemether/Lumefantrine,33200
+NGA-03826,Malaria,Artemether/Lumefantrine,2500
+NGA-03827,Diabetes,Metformin,4100
+NGA-03828,Asthma,Salbutamol,17000
+NGA-03829,None,None,14400
+NGA-03830,Hypertension,Amlodipine,22400
+NGA-03831,Asthma,Salbutamol,31500
+NGA-03832,Sickle Cell Anemia,Folic Acid,42000
+NGA-03833,Asthma,Salbutamol,11900
+NGA-03834,Hypertension,Amlodipine,31400
+NGA-03835,Malaria,Artemether/Lumefantrine,9600
+NGA-03836,Sickle Cell Anemia,Hydroxyurea,5500
+NGA-03837,None,None,44600
+NGA-03838,Typhoid Fever,Ciprofloxacin,9400
+NGA-03839,Typhoid Fever,Ciprofloxacin,40800
+NGA-03840,Hypertension,Amlodipine,22200
+NGA-03841,None,None,40900
+NGA-03842,Typhoid Fever,Ciprofloxacin,36000
+NGA-03843,None,None,22400
+NGA-03844,None,None,29900
+NGA-03845,Diabetes,Metformin,31000
+NGA-03846,Hypertension,Amlodipine,30100
+NGA-03847,Malaria,Artemether/Lumefantrine,39000
+NGA-03848,None,None,16400
+NGA-03849,None,None,11900
+NGA-03850,Malaria,Artemether/Lumefantrine,27800
+NGA-03851,Asthma,Salbutamol,15800
+NGA-03852,Diabetes,Metformin,39300
+NGA-03853,Hypertension,Amlodipine,44500
+NGA-03854,Asthma,Salbutamol,34200
+NGA-03855,Typhoid Fever,Ciprofloxacin,12900
+NGA-03856,None,None,34700
+NGA-03857,Hypertension,Amlodipine,16900
+NGA-03858,Typhoid Fever,Ciprofloxacin,18500
+NGA-03859,Typhoid Fever,Ciprofloxacin,31200
+NGA-03860,Asthma,Salbutamol,28500
+NGA-03861,Sickle Cell Anemia,Hydroxyurea,33900
+NGA-03862,Diabetes,Metformin,30800
+NGA-03863,Asthma,Salbutamol,9100
+NGA-03864,Malaria,Artemether/Lumefantrine,14100
+NGA-03865,Sickle Cell Anemia,Folic Acid,19400
+NGA-03866,Asthma,Salbutamol,6900
+NGA-03867,Malaria,Artemether/Lumefantrine,35500
+NGA-03868,Typhoid Fever,Ciprofloxacin,11100
+NGA-03869,Sickle Cell Anemia,Folic Acid,14500
+NGA-03870,Typhoid Fever,Ciprofloxacin,42500
+NGA-03871,Typhoid Fever,Ciprofloxacin,35800
+NGA-03872,Typhoid Fever,Ciprofloxacin,38600
+NGA-03873,Asthma,Salbutamol,6000
+NGA-03874,Sickle Cell Anemia,Hydroxyurea,40600
+NGA-03875,Malaria,Artemether/Lumefantrine,10100
+NGA-03876,None,None,21700
+NGA-03877,Typhoid Fever,Ciprofloxacin,35600
+NGA-03878,Typhoid Fever,Ciprofloxacin,28300
+NGA-03879,Typhoid Fever,Ciprofloxacin,11900
+NGA-03880,Sickle Cell Anemia,Hydroxyurea,21100
+NGA-03881,Hypertension,Amlodipine,20200
+NGA-03882,Asthma,Salbutamol,34300
+NGA-03883,None,None,33900
+NGA-03884,None,None,35200
+NGA-03885,Sickle Cell Anemia,Hydroxyurea,31500
+NGA-03886,Hypertension,Amlodipine,21200
+NGA-03887,Typhoid Fever,Ciprofloxacin,24900
+NGA-03888,Hypertension,Amlodipine,34000
+NGA-03889,Typhoid Fever,Ciprofloxacin,40700
+NGA-03890,None,None,35000
+NGA-03891,None,None,2200
+NGA-03892,Asthma,Salbutamol,24800
+NGA-03893,Asthma,Salbutamol,16800
+NGA-03894,Diabetes,Metformin,35000
+NGA-03895,Malaria,Artemether/Lumefantrine,36800
+NGA-03896,Malaria,Artemether/Lumefantrine,21700
+NGA-03897,Asthma,Salbutamol,27700
+NGA-03898,Asthma,Salbutamol,4000
+NGA-03899,Typhoid Fever,Ciprofloxacin,17600
+NGA-03900,Sickle Cell Anemia,Folic Acid,14800
+NGA-03901,Sickle Cell Anemia,Folic Acid,33100
+NGA-03902,Asthma,Salbutamol,24200
+NGA-03903,Hypertension,Amlodipine,5400
+NGA-03904,Typhoid Fever,Ciprofloxacin,13700
+NGA-03905,Typhoid Fever,Ciprofloxacin,28300
+NGA-03906,Hypertension,Amlodipine,24200
+NGA-03907,None,None,11100
+NGA-03908,Hypertension,Amlodipine,37200
+NGA-03909,Hypertension,Amlodipine,16500
+NGA-03910,Typhoid Fever,Ciprofloxacin,19200
+NGA-03911,Typhoid Fever,Ciprofloxacin,14200
+NGA-03912,Typhoid Fever,Ciprofloxacin,3900
+NGA-03913,Typhoid Fever,Ciprofloxacin,17300
+NGA-03914,None,None,13000
+NGA-03915,Sickle Cell Anemia,Hydroxyurea,16200
+NGA-03916,Asthma,Salbutamol,26300
+NGA-03917,None,None,26800
+NGA-03918,Malaria,Artemether/Lumefantrine,20800
+NGA-03919,None,None,9900
+NGA-03920,Asthma,Salbutamol,18100
+NGA-03921,Asthma,Salbutamol,12500
+NGA-03922,Hypertension,Amlodipine,8300
+NGA-03923,Typhoid Fever,Ciprofloxacin,21000
+NGA-03924,Asthma,Salbutamol,27400
+NGA-03925,Typhoid Fever,Ciprofloxacin,6200
+NGA-03926,Malaria,Artemether/Lumefantrine,7000
+NGA-03927,Typhoid Fever,Ciprofloxacin,31700
+NGA-03928,Sickle Cell Anemia,Folic Acid,4400
+NGA-03929,Diabetes,Metformin,32100
+NGA-03930,Hypertension,Amlodipine,18000
+NGA-03931,Hypertension,Amlodipine,31800
+NGA-03932,None,None,5000
+NGA-03933,Asthma,Salbutamol,25000
+NGA-03934,None,None,19600
+NGA-03935,Asthma,Salbutamol,20200
+NGA-03936,Asthma,Salbutamol,24000
+NGA-03937,None,None,25800
+NGA-03938,None,None,44800
+NGA-03939,Malaria,Artemether/Lumefantrine,15800
+NGA-03940,Typhoid Fever,Ciprofloxacin,11600
+NGA-03941,Diabetes,Metformin,9100
+NGA-03942,None,None,12400
+NGA-03943,None,None,37600
+NGA-03944,Hypertension,Amlodipine,19700
+NGA-03945,Sickle Cell Anemia,Hydroxyurea,23500
+NGA-03946,Diabetes,Metformin,11000
+NGA-03947,None,None,37200
+NGA-03948,None,None,21500
+NGA-03949,Malaria,Artemether/Lumefantrine,31900
+NGA-03950,Hypertension,Amlodipine,30000
+NGA-03951,Diabetes,Metformin,31800
+NGA-03952,Diabetes,Metformin,38600
+NGA-03953,None,None,2400
+NGA-03954,Typhoid Fever,Ciprofloxacin,34700
+NGA-03955,Typhoid Fever,Ciprofloxacin,40000
+NGA-03956,Typhoid Fever,Ciprofloxacin,8400
+NGA-03957,Hypertension,Amlodipine,38900
+NGA-03958,Typhoid Fever,Ciprofloxacin,13400
+NGA-03959,Diabetes,Metformin,16900
+NGA-03960,None,None,43600
+NGA-03961,Sickle Cell Anemia,Folic Acid,23300
+NGA-03962,Typhoid Fever,Ciprofloxacin,42100
+NGA-03963,Typhoid Fever,Ciprofloxacin,2400
+NGA-03964,Diabetes,Metformin,38600
+NGA-03965,Malaria,Artemether/Lumefantrine,14700
+NGA-03966,None,None,37500
+NGA-03967,Sickle Cell Anemia,Folic Acid,37400
+NGA-03968,Hypertension,Amlodipine,24200
+NGA-03969,None,None,40000
+NGA-03970,Diabetes,Metformin,22800
+NGA-03971,Asthma,Salbutamol,36000
+NGA-03972,None,None,39200
+NGA-03973,Malaria,Artemether/Lumefantrine,32900
+NGA-03974,Diabetes,Metformin,8100
+NGA-03975,Malaria,Artemether/Lumefantrine,4800
+NGA-03976,Malaria,Artemether/Lumefantrine,34600
+NGA-03977,Asthma,Salbutamol,14100
+NGA-03978,Diabetes,Metformin,43800
+NGA-03979,Malaria,Artemether/Lumefantrine,13000
+NGA-03980,Sickle Cell Anemia,Hydroxyurea,33300
+NGA-03981,Typhoid Fever,Ciprofloxacin,14000
+NGA-03982,Malaria,Artemether/Lumefantrine,15100
+NGA-03983,Sickle Cell Anemia,Hydroxyurea,2200
+NGA-03984,Typhoid Fever,Ciprofloxacin,9500
+NGA-03985,Diabetes,Metformin,12700
+NGA-03986,Typhoid Fever,Ciprofloxacin,21600
+NGA-03987,None,None,6500
+NGA-03988,None,None,33000
+NGA-03989,Hypertension,Amlodipine,41500
+NGA-03990,None,None,31300
+NGA-03991,Malaria,Artemether/Lumefantrine,44400
+NGA-03992,Sickle Cell Anemia,Hydroxyurea,39800
+NGA-03993,Hypertension,Amlodipine,5500
+NGA-03994,None,None,20500
+NGA-03995,Sickle Cell Anemia,Hydroxyurea,21700
+NGA-03996,Diabetes,Metformin,23500
+NGA-03997,Sickle Cell Anemia,Hydroxyurea,25000
+NGA-03998,Typhoid Fever,Ciprofloxacin,36800
+NGA-03999,Diabetes,Metformin,16800
+NGA-04000,Sickle Cell Anemia,Hydroxyurea,8200
+NGA-04001,Malaria,Artemether/Lumefantrine,37800
+NGA-04002,None,None,9800
+NGA-04003,None,None,21200
+NGA-04004,Typhoid Fever,Ciprofloxacin,42500
+NGA-04005,Malaria,Artemether/Lumefantrine,20400
+NGA-04006,Asthma,Salbutamol,41500
+NGA-04007,Malaria,Artemether/Lumefantrine,24300
+NGA-04008,Sickle Cell Anemia,Folic Acid,28600
+NGA-04009,Diabetes,Metformin,27400
+NGA-04010,None,None,25300
+NGA-04011,Typhoid Fever,Ciprofloxacin,21800
+NGA-04012,Malaria,Artemether/Lumefantrine,22200
+NGA-04013,Malaria,Artemether/Lumefantrine,14600
+NGA-04014,Sickle Cell Anemia,Hydroxyurea,16200
+NGA-04015,Asthma,Salbutamol,13100
+NGA-04016,Diabetes,Metformin,21400
+NGA-04017,Sickle Cell Anemia,Folic Acid,14700
+NGA-04018,Malaria,Artemether/Lumefantrine,5000
+NGA-04019,Malaria,Artemether/Lumefantrine,13900
+NGA-04020,Asthma,Salbutamol,7000
+NGA-04021,None,None,28200
+NGA-04022,Hypertension,Amlodipine,44800
+NGA-04023,Diabetes,Metformin,33000
+NGA-04024,Diabetes,Metformin,27000
+NGA-04025,None,None,31800
+NGA-04026,Asthma,Salbutamol,11200
+NGA-04027,Asthma,Salbutamol,44800
+NGA-04028,Hypertension,Amlodipine,41400
+NGA-04029,None,None,31700
+NGA-04030,Typhoid Fever,Ciprofloxacin,43400
+NGA-04031,None,None,20700
+NGA-04032,Sickle Cell Anemia,Hydroxyurea,31900
+NGA-04033,Typhoid Fever,Ciprofloxacin,16300
+NGA-04034,Diabetes,Metformin,44600
+NGA-04035,Asthma,Salbutamol,44500
+NGA-04036,Typhoid Fever,Ciprofloxacin,27000
+NGA-04037,Malaria,Artemether/Lumefantrine,12800
+NGA-04038,Asthma,Salbutamol,40500
+NGA-04039,Hypertension,Amlodipine,24200
+NGA-04040,Asthma,Salbutamol,3200
+NGA-04041,Malaria,Artemether/Lumefantrine,8600
+NGA-04042,Sickle Cell Anemia,Folic Acid,14000
+NGA-04043,Hypertension,Amlodipine,44000
+NGA-04044,None,None,14300
+NGA-04045,Hypertension,Amlodipine,14700
+NGA-04046,Malaria,Artemether/Lumefantrine,28000
+NGA-04047,Malaria,Artemether/Lumefantrine,20100
+NGA-04048,Malaria,Artemether/Lumefantrine,35900
+NGA-04049,Asthma,Salbutamol,17000
+NGA-04050,Hypertension,Amlodipine,7100
+NGA-04051,Diabetes,Metformin,40100
+NGA-04052,Asthma,Salbutamol,44200
+NGA-04053,Malaria,Artemether/Lumefantrine,19600
+NGA-04054,Malaria,Artemether/Lumefantrine,36500
+NGA-04055,Asthma,Salbutamol,7900
+NGA-04056,None,None,7700
+NGA-04057,Typhoid Fever,Ciprofloxacin,41600
+NGA-04058,Sickle Cell Anemia,Hydroxyurea,39300
+NGA-04059,Asthma,Salbutamol,4700
+NGA-04060,Malaria,Artemether/Lumefantrine,42500
+NGA-04061,Typhoid Fever,Ciprofloxacin,22000
+NGA-04062,Diabetes,Metformin,30300
+NGA-04063,Hypertension,Amlodipine,16400
+NGA-04064,None,None,12800
+NGA-04065,Sickle Cell Anemia,Folic Acid,3300
+NGA-04066,Malaria,Artemether/Lumefantrine,15600
+NGA-04067,Typhoid Fever,Ciprofloxacin,12000
+NGA-04068,Asthma,Salbutamol,18300
+NGA-04069,Asthma,Salbutamol,7600
+NGA-04070,None,None,7600
+NGA-04071,Diabetes,Metformin,29300
+NGA-04072,Hypertension,Amlodipine,14900
+NGA-04073,Hypertension,Amlodipine,12700
+NGA-04074,Hypertension,Amlodipine,11200
+NGA-04075,Hypertension,Amlodipine,20900
+NGA-04076,Sickle Cell Anemia,Hydroxyurea,31000
+NGA-04077,Hypertension,Amlodipine,36800
+NGA-04078,Typhoid Fever,Ciprofloxacin,41300
+NGA-04079,None,None,32800
+NGA-04080,Hypertension,Amlodipine,41100
+NGA-04081,Sickle Cell Anemia,Hydroxyurea,4900
+NGA-04082,Malaria,Artemether/Lumefantrine,19800
+NGA-04083,Asthma,Salbutamol,29900
+NGA-04084,None,None,14200
+NGA-04085,Malaria,Artemether/Lumefantrine,21600
+NGA-04086,Typhoid Fever,Ciprofloxacin,39600
+NGA-04087,Hypertension,Amlodipine,20000
+NGA-04088,Malaria,Artemether/Lumefantrine,39000
+NGA-04089,Malaria,Artemether/Lumefantrine,36400
+NGA-04090,Sickle Cell Anemia,Hydroxyurea,6500
+NGA-04091,Typhoid Fever,Ciprofloxacin,28900
+NGA-04092,Asthma,Salbutamol,11000
+NGA-04093,Hypertension,Amlodipine,32000
+NGA-04094,Malaria,Artemether/Lumefantrine,23100
+NGA-04095,Hypertension,Amlodipine,38400
+NGA-04096,Sickle Cell Anemia,Hydroxyurea,26000
+NGA-04097,Diabetes,Metformin,23000
+NGA-04098,Sickle Cell Anemia,Hydroxyurea,34600
+NGA-04099,Hypertension,Amlodipine,4000
+NGA-04100,Typhoid Fever,Ciprofloxacin,19000
+NGA-04101,Asthma,Salbutamol,5300
+NGA-04102,Asthma,Salbutamol,32000
+NGA-04103,Typhoid Fever,Ciprofloxacin,14800
+NGA-04104,Hypertension,Amlodipine,28800
+NGA-04105,Diabetes,Metformin,24000
+NGA-04106,Asthma,Salbutamol,24100
+NGA-04107,Sickle Cell Anemia,Folic Acid,18200
+NGA-04108,None,None,17200
+NGA-04109,Typhoid Fever,Ciprofloxacin,16000
+NGA-04110,Diabetes,Metformin,37800
+NGA-04111,Hypertension,Amlodipine,5400
+NGA-04112,Typhoid Fever,Ciprofloxacin,42000
+NGA-04113,Sickle Cell Anemia,Hydroxyurea,9100
+NGA-04114,Asthma,Salbutamol,38700
+NGA-04115,Asthma,Salbutamol,31300
+NGA-04116,Diabetes,Metformin,9600
+NGA-04117,Malaria,Artemether/Lumefantrine,8000
+NGA-04118,Asthma,Salbutamol,42300
+NGA-04119,Sickle Cell Anemia,Folic Acid,41300
+NGA-04120,Diabetes,Metformin,24500
+NGA-04121,Typhoid Fever,Ciprofloxacin,25200
+NGA-04122,Sickle Cell Anemia,Hydroxyurea,20600
+NGA-04123,Asthma,Salbutamol,3800
+NGA-04124,Malaria,Artemether/Lumefantrine,41800
+NGA-04125,Sickle Cell Anemia,Hydroxyurea,37900
+NGA-04126,Asthma,Salbutamol,28400
+NGA-04127,Sickle Cell Anemia,Folic Acid,18800
+NGA-04128,Diabetes,Metformin,41700
+NGA-04129,Diabetes,Metformin,28000
+NGA-04130,Typhoid Fever,Ciprofloxacin,34700
+NGA-04131,Asthma,Salbutamol,9600
+NGA-04132,None,None,23600
+NGA-04133,Diabetes,Metformin,8700
+NGA-04134,Typhoid Fever,Ciprofloxacin,31800
+NGA-04135,Asthma,Salbutamol,24900
+NGA-04136,Sickle Cell Anemia,Hydroxyurea,14300
+NGA-04137,Typhoid Fever,Ciprofloxacin,40000
+NGA-04138,Diabetes,Metformin,16100
+NGA-04139,Malaria,Artemether/Lumefantrine,3900
+NGA-04140,Asthma,Salbutamol,5400
+NGA-04141,Typhoid Fever,Ciprofloxacin,11500
+NGA-04142,None,None,31000
+NGA-04143,Typhoid Fever,Ciprofloxacin,37000
+NGA-04144,Sickle Cell Anemia,Folic Acid,25200
+NGA-04145,Hypertension,Amlodipine,39300
+NGA-04146,Diabetes,Metformin,21800
+NGA-04147,Asthma,Salbutamol,36100
+NGA-04148,Diabetes,Metformin,34400
+NGA-04149,Diabetes,Metformin,9200
+NGA-04150,Diabetes,Metformin,34100
+NGA-04151,Hypertension,Amlodipine,41500
+NGA-04152,Diabetes,Metformin,10900
+NGA-04153,Diabetes,Metformin,20600
+NGA-04154,Asthma,Salbutamol,18400
+NGA-04155,Malaria,Artemether/Lumefantrine,20800
+NGA-04156,Diabetes,Metformin,14600
+NGA-04157,Typhoid Fever,Ciprofloxacin,35900
+NGA-04158,Asthma,Salbutamol,42000
+NGA-04159,Typhoid Fever,Ciprofloxacin,34200
+NGA-04160,None,None,25400
+NGA-04161,None,None,7900
+NGA-04162,Asthma,Salbutamol,42600
+NGA-04163,Sickle Cell Anemia,Hydroxyurea,32200
+NGA-04164,Typhoid Fever,Ciprofloxacin,35400
+NGA-04165,Diabetes,Metformin,10000
+NGA-04166,Sickle Cell Anemia,Folic Acid,8200
+NGA-04167,None,None,21900
+NGA-04168,Hypertension,Amlodipine,18300
+NGA-04169,Asthma,Salbutamol,3200
+NGA-04170,Asthma,Salbutamol,12500
+NGA-04171,Sickle Cell Anemia,Folic Acid,2300
+NGA-04172,Diabetes,Metformin,44700
+NGA-04173,None,None,22800
+NGA-04174,Hypertension,Amlodipine,26100
+NGA-04175,Sickle Cell Anemia,Hydroxyurea,37700
+NGA-04176,Diabetes,Metformin,20800
+NGA-04177,None,None,5400
+NGA-04178,Asthma,Salbutamol,34000
+NGA-04179,Sickle Cell Anemia,Hydroxyurea,19500
+NGA-04180,Hypertension,Amlodipine,30600
+NGA-04181,Asthma,Salbutamol,11800
+NGA-04182,Diabetes,Metformin,11500
+NGA-04183,Asthma,Salbutamol,29400
+NGA-04184,None,None,16900
+NGA-04185,Typhoid Fever,Ciprofloxacin,39400
+NGA-04186,Asthma,Salbutamol,34500
+NGA-04187,Hypertension,Amlodipine,43100
+NGA-04188,Sickle Cell Anemia,Hydroxyurea,32300
+NGA-04189,Typhoid Fever,Ciprofloxacin,22700
+NGA-04190,Sickle Cell Anemia,Hydroxyurea,16700
+NGA-04191,Typhoid Fever,Ciprofloxacin,20300
+NGA-04192,Hypertension,Amlodipine,10300
+NGA-04193,Typhoid Fever,Ciprofloxacin,30000
+NGA-04194,Typhoid Fever,Ciprofloxacin,38900
+NGA-04195,Sickle Cell Anemia,Hydroxyurea,38600
+NGA-04196,Diabetes,Metformin,21500
+NGA-04197,None,None,29700
+NGA-04198,Diabetes,Metformin,35000
+NGA-04199,Hypertension,Amlodipine,4400
+NGA-04200,Hypertension,Amlodipine,16200
+NGA-04201,Malaria,Artemether/Lumefantrine,16600
+NGA-04202,Sickle Cell Anemia,Folic Acid,17300
+NGA-04203,Asthma,Salbutamol,27100
+NGA-04204,Sickle Cell Anemia,Hydroxyurea,11400
+NGA-04205,Typhoid Fever,Ciprofloxacin,42500
+NGA-04206,Typhoid Fever,Ciprofloxacin,35400
+NGA-04207,Diabetes,Metformin,11500
+NGA-04208,None,None,29300
+NGA-04209,Typhoid Fever,Ciprofloxacin,37500
+NGA-04210,Malaria,Artemether/Lumefantrine,9300
+NGA-04211,None,None,16800
+NGA-04212,None,None,41800
+NGA-04213,Diabetes,Metformin,21300
+NGA-04214,Hypertension,Amlodipine,41200
+NGA-04215,Hypertension,Amlodipine,15400
+NGA-04216,Sickle Cell Anemia,Folic Acid,9000
+NGA-04217,Asthma,Salbutamol,12900
+NGA-04218,Typhoid Fever,Ciprofloxacin,34800
+NGA-04219,Sickle Cell Anemia,Hydroxyurea,43800
+NGA-04220,Sickle Cell Anemia,Hydroxyurea,16200
+NGA-04221,None,None,16500
+NGA-04222,None,None,41100
+NGA-04223,Hypertension,Amlodipine,24400
+NGA-04224,Asthma,Salbutamol,33200
+NGA-04225,Sickle Cell Anemia,Hydroxyurea,32100
+NGA-04226,Asthma,Salbutamol,11600
+NGA-04227,Diabetes,Metformin,26900
+NGA-04228,Diabetes,Metformin,21300
+NGA-04229,Hypertension,Amlodipine,41400
+NGA-04230,Sickle Cell Anemia,Hydroxyurea,21700
+NGA-04231,Asthma,Salbutamol,3700
+NGA-04232,Typhoid Fever,Ciprofloxacin,6500
+NGA-04233,None,None,19900
+NGA-04234,Asthma,Salbutamol,43800
+NGA-04235,Diabetes,Metformin,25100
+NGA-04236,Sickle Cell Anemia,Folic Acid,43000
+NGA-04237,None,None,17500
+NGA-04238,Malaria,Artemether/Lumefantrine,27100
+NGA-04239,Diabetes,Metformin,29400
+NGA-04240,Malaria,Artemether/Lumefantrine,39200
+NGA-04241,Sickle Cell Anemia,Hydroxyurea,19200
+NGA-04242,Asthma,Salbutamol,29700
+NGA-04243,Sickle Cell Anemia,Folic Acid,12000
+NGA-04244,Diabetes,Metformin,18800
+NGA-04245,Diabetes,Metformin,35800
+NGA-04246,Sickle Cell Anemia,Folic Acid,39600
+NGA-04247,Malaria,Artemether/Lumefantrine,18300
+NGA-04248,Diabetes,Metformin,2400
+NGA-04249,Asthma,Salbutamol,43400
+NGA-04250,Malaria,Artemether/Lumefantrine,14000
+NGA-04251,None,None,30900
+NGA-04252,Hypertension,Amlodipine,40600
+NGA-04253,None,None,34100
+NGA-04254,Diabetes,Metformin,20500
+NGA-04255,Typhoid Fever,Ciprofloxacin,34100
+NGA-04256,Typhoid Fever,Ciprofloxacin,10900
+NGA-04257,Hypertension,Amlodipine,32600
+NGA-04258,Asthma,Salbutamol,28800
+NGA-04259,Sickle Cell Anemia,Folic Acid,5000
+NGA-04260,Malaria,Artemether/Lumefantrine,31700
+NGA-04261,Malaria,Artemether/Lumefantrine,14200
+NGA-04262,Typhoid Fever,Ciprofloxacin,27900
+NGA-04263,Hypertension,Amlodipine,17100
+NGA-04264,Diabetes,Metformin,22000
+NGA-04265,Hypertension,Amlodipine,31600
+NGA-04266,Sickle Cell Anemia,Hydroxyurea,3200
+NGA-04267,None,None,30300
+NGA-04268,Sickle Cell Anemia,Hydroxyurea,20200
+NGA-04269,Hypertension,Amlodipine,9000
+NGA-04270,None,None,31100
+NGA-04271,Malaria,Artemether/Lumefantrine,13300
+NGA-04272,Asthma,Salbutamol,15400
+NGA-04273,Typhoid Fever,Ciprofloxacin,38100
+NGA-04274,Typhoid Fever,Ciprofloxacin,31100
+NGA-04275,Hypertension,Amlodipine,14000
+NGA-04276,Asthma,Salbutamol,8900
+NGA-04277,Typhoid Fever,Ciprofloxacin,13800
+NGA-04278,Hypertension,Amlodipine,23000
+NGA-04279,Sickle Cell Anemia,Hydroxyurea,3000
+NGA-04280,None,None,25900
+NGA-04281,Diabetes,Metformin,15900
+NGA-04282,Diabetes,Metformin,4500
+NGA-04283,Asthma,Salbutamol,7500
+NGA-04284,Sickle Cell Anemia,Folic Acid,32900
+NGA-04285,Diabetes,Metformin,11700
+NGA-04286,Asthma,Salbutamol,43100
+NGA-04287,Asthma,Salbutamol,26800
+NGA-04288,Asthma,Salbutamol,3200
+NGA-04289,Malaria,Artemether/Lumefantrine,7000
+NGA-04290,Hypertension,Amlodipine,33000
+NGA-04291,None,None,23700
+NGA-04292,Malaria,Artemether/Lumefantrine,5900
+NGA-04293,Malaria,Artemether/Lumefantrine,34600
+NGA-04294,Typhoid Fever,Ciprofloxacin,8200
+NGA-04295,Hypertension,Amlodipine,11600
+NGA-04296,Diabetes,Metformin,17300
+NGA-04297,None,None,25600
+NGA-04298,Diabetes,Metformin,4300
+NGA-04299,Malaria,Artemether/Lumefantrine,40300
+NGA-04300,Diabetes,Metformin,25600
+NGA-04301,Malaria,Artemether/Lumefantrine,44900
+NGA-04302,Asthma,Salbutamol,3600
+NGA-04303,Hypertension,Amlodipine,31000
+NGA-04304,Asthma,Salbutamol,42700
+NGA-04305,Asthma,Salbutamol,17700
+NGA-04306,Asthma,Salbutamol,11400
+NGA-04307,Malaria,Artemether/Lumefantrine,21700
+NGA-04308,Diabetes,Metformin,38000
+NGA-04309,Diabetes,Metformin,10500
+NGA-04310,Malaria,Artemether/Lumefantrine,19400
+NGA-04311,Asthma,Salbutamol,2900
+NGA-04312,Hypertension,Amlodipine,29300
+NGA-04313,None,None,21300
+NGA-04314,Malaria,Artemether/Lumefantrine,9100
+NGA-04315,Diabetes,Metformin,35000
+NGA-04316,Hypertension,Amlodipine,5000
+NGA-04317,Diabetes,Metformin,15700
+NGA-04318,Hypertension,Amlodipine,18400
+NGA-04319,Malaria,Artemether/Lumefantrine,28200
+NGA-04320,Hypertension,Amlodipine,30400
+NGA-04321,Typhoid Fever,Ciprofloxacin,17800
+NGA-04322,None,None,32000
+NGA-04323,Diabetes,Metformin,27000
+NGA-04324,Sickle Cell Anemia,Hydroxyurea,40600
+NGA-04325,Asthma,Salbutamol,17200
+NGA-04326,Asthma,Salbutamol,23300
+NGA-04327,Asthma,Salbutamol,26400
+NGA-04328,Asthma,Salbutamol,28300
+NGA-04329,Hypertension,Amlodipine,17900
+NGA-04330,Sickle Cell Anemia,Folic Acid,17800
+NGA-04331,Hypertension,Amlodipine,40300
+NGA-04332,Sickle Cell Anemia,Hydroxyurea,15900
+NGA-04333,Typhoid Fever,Ciprofloxacin,29900
+NGA-04334,None,None,31600
+NGA-04335,Sickle Cell Anemia,Hydroxyurea,18600
+NGA-04336,Sickle Cell Anemia,Hydroxyurea,26200
+NGA-04337,Sickle Cell Anemia,Hydroxyurea,29200
+NGA-04338,Diabetes,Metformin,21100
+NGA-04339,Hypertension,Amlodipine,14900
+NGA-04340,Malaria,Artemether/Lumefantrine,17700
+NGA-04341,Sickle Cell Anemia,Folic Acid,40300
+NGA-04342,Asthma,Salbutamol,38100
+NGA-04343,Asthma,Salbutamol,40600
+NGA-04344,Malaria,Artemether/Lumefantrine,26000
+NGA-04345,Malaria,Artemether/Lumefantrine,28800
+NGA-04346,Hypertension,Amlodipine,42500
+NGA-04347,Hypertension,Amlodipine,31700
+NGA-04348,Asthma,Salbutamol,7600
+NGA-04349,Diabetes,Metformin,38700
+NGA-04350,None,None,40600
+NGA-04351,Malaria,Artemether/Lumefantrine,8200
+NGA-04352,Diabetes,Metformin,42100
+NGA-04353,Sickle Cell Anemia,Folic Acid,42500
+NGA-04354,Hypertension,Amlodipine,40500
+NGA-04355,Typhoid Fever,Ciprofloxacin,35300
+NGA-04356,Diabetes,Metformin,29700
+NGA-04357,Hypertension,Amlodipine,23500
+NGA-04358,Typhoid Fever,Ciprofloxacin,35300
+NGA-04359,Sickle Cell Anemia,Hydroxyurea,5200
+NGA-04360,Diabetes,Metformin,30000
+NGA-04361,Hypertension,Amlodipine,6100
+NGA-04362,None,None,4900
+NGA-04363,Typhoid Fever,Ciprofloxacin,29100
+NGA-04364,Sickle Cell Anemia,Folic Acid,10000
+NGA-04365,Asthma,Salbutamol,14900
+NGA-04366,Typhoid Fever,Ciprofloxacin,41000
+NGA-04367,Hypertension,Amlodipine,23100
+NGA-04368,Sickle Cell Anemia,Hydroxyurea,32600
+NGA-04369,Asthma,Salbutamol,15700
+NGA-04370,Diabetes,Metformin,4600
+NGA-04371,Malaria,Artemether/Lumefantrine,10800
+NGA-04372,Asthma,Salbutamol,35900
+NGA-04373,Malaria,Artemether/Lumefantrine,30600
+NGA-04374,None,None,22400
+NGA-04375,Diabetes,Metformin,18600
+NGA-04376,Typhoid Fever,Ciprofloxacin,28800
+NGA-04377,Hypertension,Amlodipine,13300
+NGA-04378,None,None,10700
+NGA-04379,Hypertension,Amlodipine,24100
+NGA-04380,None,None,35300
+NGA-04381,Asthma,Salbutamol,8100
+NGA-04382,Asthma,Salbutamol,42900
+NGA-04383,Diabetes,Metformin,10100
+NGA-04384,Diabetes,Metformin,33300
+NGA-04385,Diabetes,Metformin,31400
+NGA-04386,Diabetes,Metformin,12400
+NGA-04387,Malaria,Artemether/Lumefantrine,33100
+NGA-04388,Diabetes,Metformin,5900
+NGA-04389,Asthma,Salbutamol,9200
+NGA-04390,Sickle Cell Anemia,Hydroxyurea,44700
+NGA-04391,Typhoid Fever,Ciprofloxacin,39800
+NGA-04392,Malaria,Artemether/Lumefantrine,14300
+NGA-04393,Sickle Cell Anemia,Folic Acid,33700
+NGA-04394,None,None,9400
+NGA-04395,Sickle Cell Anemia,Folic Acid,10600
+NGA-04396,Asthma,Salbutamol,35200
+NGA-04397,Malaria,Artemether/Lumefantrine,12000
+NGA-04398,None,None,29700
+NGA-04399,Hypertension,Amlodipine,36200
+NGA-04400,Diabetes,Metformin,2900
+NGA-04401,Malaria,Artemether/Lumefantrine,12800
+NGA-04402,Malaria,Artemether/Lumefantrine,9600
+NGA-04403,Typhoid Fever,Ciprofloxacin,32800
+NGA-04404,Asthma,Salbutamol,37400
+NGA-04405,Diabetes,Metformin,40800
+NGA-04406,Diabetes,Metformin,17600
+NGA-04407,Sickle Cell Anemia,Hydroxyurea,37700
+NGA-04408,Diabetes,Metformin,9100
+NGA-04409,Diabetes,Metformin,22600
+NGA-04410,Sickle Cell Anemia,Hydroxyurea,15600
+NGA-04411,Asthma,Salbutamol,26400
+NGA-04412,Hypertension,Amlodipine,32400
+NGA-04413,Asthma,Salbutamol,14100
+NGA-04414,Typhoid Fever,Ciprofloxacin,37100
+NGA-04415,Asthma,Salbutamol,28100
+NGA-04416,Malaria,Artemether/Lumefantrine,12900
+NGA-04417,Sickle Cell Anemia,Folic Acid,7900
+NGA-04418,Typhoid Fever,Ciprofloxacin,41200
+NGA-04419,Hypertension,Amlodipine,12200
+NGA-04420,Typhoid Fever,Ciprofloxacin,8600
+NGA-04421,Hypertension,Amlodipine,15000
+NGA-04422,None,None,2400
+NGA-04423,Sickle Cell Anemia,Hydroxyurea,25800
+NGA-04424,Malaria,Artemether/Lumefantrine,27600
+NGA-04425,Typhoid Fever,Ciprofloxacin,43100
+NGA-04426,Typhoid Fever,Ciprofloxacin,35600
+NGA-04427,Hypertension,Amlodipine,10800
+NGA-04428,Hypertension,Amlodipine,15000
+NGA-04429,Typhoid Fever,Ciprofloxacin,43400
+NGA-04430,Diabetes,Metformin,44000
+NGA-04431,Typhoid Fever,Ciprofloxacin,13300
+NGA-04432,Malaria,Artemether/Lumefantrine,23600
+NGA-04433,Sickle Cell Anemia,Hydroxyurea,17800
+NGA-04434,Hypertension,Amlodipine,5000
+NGA-04435,Sickle Cell Anemia,Folic Acid,11200
+NGA-04436,Malaria,Artemether/Lumefantrine,35000
+NGA-04437,Asthma,Salbutamol,28800
+NGA-04438,Diabetes,Metformin,31800
+NGA-04439,Sickle Cell Anemia,Folic Acid,40400
+NGA-04440,Typhoid Fever,Ciprofloxacin,20400
+NGA-04441,Diabetes,Metformin,19900
+NGA-04442,Typhoid Fever,Ciprofloxacin,10000
+NGA-04443,Asthma,Salbutamol,12300
+NGA-04444,Asthma,Salbutamol,37200
+NGA-04445,Sickle Cell Anemia,Hydroxyurea,7000
+NGA-04446,Sickle Cell Anemia,Folic Acid,7000
+NGA-04447,Asthma,Salbutamol,3100
+NGA-04448,Hypertension,Amlodipine,9100
+NGA-04449,Sickle Cell Anemia,Hydroxyurea,5700
+NGA-04450,Typhoid Fever,Ciprofloxacin,31900
+NGA-04451,Diabetes,Metformin,10800
+NGA-04452,Malaria,Artemether/Lumefantrine,5600
+NGA-04453,Hypertension,Amlodipine,11600
+NGA-04454,Sickle Cell Anemia,Hydroxyurea,6000
+NGA-04455,Typhoid Fever,Ciprofloxacin,27500
+NGA-04456,Malaria,Artemether/Lumefantrine,15100
+NGA-04457,None,None,3500
+NGA-04458,Diabetes,Metformin,28600
+NGA-04459,None,None,42900
+NGA-04460,Malaria,Artemether/Lumefantrine,4200
+NGA-04461,None,None,25400
+NGA-04462,Sickle Cell Anemia,Hydroxyurea,24700
+NGA-04463,Asthma,Salbutamol,5000
+NGA-04464,Typhoid Fever,Ciprofloxacin,18300
+NGA-04465,Typhoid Fever,Ciprofloxacin,19700
+NGA-04466,Hypertension,Amlodipine,36800
+NGA-04467,Malaria,Artemether/Lumefantrine,8800
+NGA-04468,None,None,7000
+NGA-04469,None,None,26600
+NGA-04470,Malaria,Artemether/Lumefantrine,31100
+NGA-04471,Typhoid Fever,Ciprofloxacin,39400
+NGA-04472,None,None,3600
+NGA-04473,Hypertension,Amlodipine,8600
+NGA-04474,Malaria,Artemether/Lumefantrine,30800
+NGA-04475,None,None,10300
+NGA-04476,Sickle Cell Anemia,Hydroxyurea,18900
+NGA-04477,Typhoid Fever,Ciprofloxacin,26100
+NGA-04478,Hypertension,Amlodipine,37100
+NGA-04479,Malaria,Artemether/Lumefantrine,10900
+NGA-04480,Sickle Cell Anemia,Folic Acid,21000
+NGA-04481,Sickle Cell Anemia,Folic Acid,8500
+NGA-04482,Hypertension,Amlodipine,34700
+NGA-04483,None,None,39900
+NGA-04484,None,None,28900
+NGA-04485,Diabetes,Metformin,23000
+NGA-04486,Malaria,Artemether/Lumefantrine,44600
+NGA-04487,Typhoid Fever,Ciprofloxacin,43900
+NGA-04488,Asthma,Salbutamol,32600
+NGA-04489,Typhoid Fever,Ciprofloxacin,31900
+NGA-04490,Malaria,Artemether/Lumefantrine,5000
+NGA-04491,Diabetes,Metformin,22800
+NGA-04492,Diabetes,Metformin,2500
+NGA-04493,Malaria,Artemether/Lumefantrine,30200
+NGA-04494,Asthma,Salbutamol,31700
+NGA-04495,Diabetes,Metformin,40800
+NGA-04496,Asthma,Salbutamol,6000
+NGA-04497,None,None,7000
+NGA-04498,Sickle Cell Anemia,Hydroxyurea,23800
+NGA-04499,None,None,34800
+NGA-04500,None,None,14500
+NGA-04501,Hypertension,Amlodipine,15800
+NGA-04502,Sickle Cell Anemia,Hydroxyurea,39300
+NGA-04503,Hypertension,Amlodipine,6800
+NGA-04504,Asthma,Salbutamol,33100
+NGA-04505,Asthma,Salbutamol,35600
+NGA-04506,Asthma,Salbutamol,3000
+NGA-04507,Typhoid Fever,Ciprofloxacin,40200
+NGA-04508,Typhoid Fever,Ciprofloxacin,12700
+NGA-04509,Hypertension,Amlodipine,43000
+NGA-04510,Asthma,Salbutamol,13300
+NGA-04511,Sickle Cell Anemia,Hydroxyurea,17800
+NGA-04512,Malaria,Artemether/Lumefantrine,3200
+NGA-04513,Hypertension,Amlodipine,23200
+NGA-04514,Sickle Cell Anemia,Folic Acid,13000
+NGA-04515,Hypertension,Amlodipine,24300
+NGA-04516,Diabetes,Metformin,35100
+NGA-04517,Sickle Cell Anemia,Hydroxyurea,16800
+NGA-04518,Hypertension,Amlodipine,37500
+NGA-04519,Sickle Cell Anemia,Hydroxyurea,23300
+NGA-04520,Sickle Cell Anemia,Hydroxyurea,16900
+NGA-04521,None,None,32200
+NGA-04522,None,None,17400
+NGA-04523,None,None,39000
+NGA-04524,Malaria,Artemether/Lumefantrine,21700
+NGA-04525,Diabetes,Metformin,11700
+NGA-04526,None,None,37500
+NGA-04527,Diabetes,Metformin,34500
+NGA-04528,Sickle Cell Anemia,Folic Acid,11000
+NGA-04529,Malaria,Artemether/Lumefantrine,19000
+NGA-04530,Asthma,Salbutamol,37900
+NGA-04531,Diabetes,Metformin,30500
+NGA-04532,Asthma,Salbutamol,43300
+NGA-04533,Hypertension,Amlodipine,23700
+NGA-04534,Malaria,Artemether/Lumefantrine,5300
+NGA-04535,Hypertension,Amlodipine,30000
+NGA-04536,Diabetes,Metformin,38700
+NGA-04537,None,None,34000
+NGA-04538,Sickle Cell Anemia,Folic Acid,35100
+NGA-04539,Hypertension,Amlodipine,15600
+NGA-04540,Typhoid Fever,Ciprofloxacin,40200
+NGA-04541,Diabetes,Metformin,34500
+NGA-04542,Diabetes,Metformin,44000
+NGA-04543,Malaria,Artemether/Lumefantrine,43800
+NGA-04544,Sickle Cell Anemia,Folic Acid,43000
+NGA-04545,Asthma,Salbutamol,34700
+NGA-04546,Hypertension,Amlodipine,26700
+NGA-04547,None,None,18300
+NGA-04548,Hypertension,Amlodipine,35200
+NGA-04549,Sickle Cell Anemia,Hydroxyurea,4600
+NGA-04550,Asthma,Salbutamol,19200
+NGA-04551,Hypertension,Amlodipine,21900
+NGA-04552,Malaria,Artemether/Lumefantrine,2600
+NGA-04553,Hypertension,Amlodipine,27500
+NGA-04554,Diabetes,Metformin,14100
+NGA-04555,Hypertension,Amlodipine,41300
+NGA-04556,Typhoid Fever,Ciprofloxacin,39100
+NGA-04557,Diabetes,Metformin,43600
+NGA-04558,Sickle Cell Anemia,Hydroxyurea,19100
+NGA-04559,Diabetes,Metformin,28000
+NGA-04560,Typhoid Fever,Ciprofloxacin,39000
+NGA-04561,Typhoid Fever,Ciprofloxacin,7900
+NGA-04562,Typhoid Fever,Ciprofloxacin,34900
+NGA-04563,Hypertension,Amlodipine,11400
+NGA-04564,None,None,21800
+NGA-04565,None,None,3300
+NGA-04566,Malaria,Artemether/Lumefantrine,6600
+NGA-04567,Malaria,Artemether/Lumefantrine,31300
+NGA-04568,Asthma,Salbutamol,24500
+NGA-04569,Diabetes,Metformin,2400
+NGA-04570,Diabetes,Metformin,3100
+NGA-04571,None,None,23300
+NGA-04572,Malaria,Artemether/Lumefantrine,41300
+NGA-04573,Asthma,Salbutamol,13800
+NGA-04574,Diabetes,Metformin,4100
+NGA-04575,Asthma,Salbutamol,20100
+NGA-04576,Diabetes,Metformin,12700
+NGA-04577,Hypertension,Amlodipine,11300
+NGA-04578,Malaria,Artemether/Lumefantrine,11300
+NGA-04579,None,None,3300
+NGA-04580,Sickle Cell Anemia,Folic Acid,34400
+NGA-04581,Asthma,Salbutamol,16500
+NGA-04582,Hypertension,Amlodipine,25000
+NGA-04583,Asthma,Salbutamol,23100
+NGA-04584,Diabetes,Metformin,14300
+NGA-04585,Hypertension,Amlodipine,31900
+NGA-04586,Typhoid Fever,Ciprofloxacin,31800
+NGA-04587,None,None,25700
+NGA-04588,Diabetes,Metformin,28800
+NGA-04589,Hypertension,Amlodipine,30000
+NGA-04590,Sickle Cell Anemia,Folic Acid,12500
+NGA-04591,Malaria,Artemether/Lumefantrine,16400
+NGA-04592,Malaria,Artemether/Lumefantrine,33500
+NGA-04593,Asthma,Salbutamol,38200
+NGA-04594,Asthma,Salbutamol,23200
+NGA-04595,Sickle Cell Anemia,Folic Acid,8100
+NGA-04596,Hypertension,Amlodipine,38600
+NGA-04597,Asthma,Salbutamol,16000
+NGA-04598,None,None,25300
+NGA-04599,Typhoid Fever,Ciprofloxacin,31800
+NGA-04600,Typhoid Fever,Ciprofloxacin,31500
+NGA-04601,Malaria,Artemether/Lumefantrine,25700
+NGA-04602,Asthma,Salbutamol,16500
+NGA-04603,Asthma,Salbutamol,13800
+NGA-04604,Malaria,Artemether/Lumefantrine,15600
+NGA-04605,Diabetes,Metformin,39400
+NGA-04606,Malaria,Artemether/Lumefantrine,11100
+NGA-04607,Typhoid Fever,Ciprofloxacin,35100
+NGA-04608,Hypertension,Amlodipine,40400
+NGA-04609,Asthma,Salbutamol,43100
+NGA-04610,None,None,35600
+NGA-04611,Malaria,Artemether/Lumefantrine,43400
+NGA-04612,Asthma,Salbutamol,41500
+NGA-04613,Typhoid Fever,Ciprofloxacin,24300
+NGA-04614,None,None,9100
+NGA-04615,Hypertension,Amlodipine,34300
+NGA-04616,Typhoid Fever,Ciprofloxacin,20400
+NGA-04617,Sickle Cell Anemia,Folic Acid,25300
+NGA-04618,Diabetes,Metformin,41100
+NGA-04619,Sickle Cell Anemia,Hydroxyurea,25600
+NGA-04620,Malaria,Artemether/Lumefantrine,23000
+NGA-04621,Typhoid Fever,Ciprofloxacin,19000
+NGA-04622,Hypertension,Amlodipine,26200
+NGA-04623,Sickle Cell Anemia,Folic Acid,29300
+NGA-04624,Hypertension,Amlodipine,8300
+NGA-04625,None,None,12300
+NGA-04626,Malaria,Artemether/Lumefantrine,2700
+NGA-04627,Sickle Cell Anemia,Hydroxyurea,13100
+NGA-04628,Typhoid Fever,Ciprofloxacin,12100
+NGA-04629,Hypertension,Amlodipine,13000
+NGA-04630,Asthma,Salbutamol,17700
+NGA-04631,None,None,15400
+NGA-04632,Malaria,Artemether/Lumefantrine,20100
+NGA-04633,Asthma,Salbutamol,36400
+NGA-04634,Malaria,Artemether/Lumefantrine,24200
+NGA-04635,Asthma,Salbutamol,33700
+NGA-04636,None,None,42600
+NGA-04637,Typhoid Fever,Ciprofloxacin,13400
+NGA-04638,Hypertension,Amlodipine,18900
+NGA-04639,Sickle Cell Anemia,Folic Acid,23100
+NGA-04640,None,None,5800
+NGA-04641,Hypertension,Amlodipine,3700
+NGA-04642,Hypertension,Amlodipine,11800
+NGA-04643,Malaria,Artemether/Lumefantrine,21700
+NGA-04644,None,None,16800
+NGA-04645,None,None,9300
+NGA-04646,Hypertension,Amlodipine,21000
+NGA-04647,Typhoid Fever,Ciprofloxacin,19200
+NGA-04648,None,None,7200
+NGA-04649,Malaria,Artemether/Lumefantrine,17400
+NGA-04650,Sickle Cell Anemia,Folic Acid,15000
+NGA-04651,Diabetes,Metformin,24100
+NGA-04652,Typhoid Fever,Ciprofloxacin,6800
+NGA-04653,Hypertension,Amlodipine,35400
+NGA-04654,Asthma,Salbutamol,12900
+NGA-04655,Typhoid Fever,Ciprofloxacin,5400
+NGA-04656,Typhoid Fever,Ciprofloxacin,20900
+NGA-04657,Sickle Cell Anemia,Hydroxyurea,25400
+NGA-04658,Typhoid Fever,Ciprofloxacin,32400
+NGA-04659,Malaria,Artemether/Lumefantrine,32600
+NGA-04660,Sickle Cell Anemia,Folic Acid,32200
+NGA-04661,Malaria,Artemether/Lumefantrine,40300
+NGA-04662,Diabetes,Metformin,5100
+NGA-04663,Hypertension,Amlodipine,25200
+NGA-04664,None,None,7100
+NGA-04665,None,None,15200
+NGA-04666,Asthma,Salbutamol,41400
+NGA-04667,Typhoid Fever,Ciprofloxacin,39000
+NGA-04668,Typhoid Fever,Ciprofloxacin,39700
+NGA-04669,Malaria,Artemether/Lumefantrine,5300
+NGA-04670,Typhoid Fever,Ciprofloxacin,24200
+NGA-04671,Asthma,Salbutamol,9200
+NGA-04672,Diabetes,Metformin,34200
+NGA-04673,Diabetes,Metformin,3000
+NGA-04674,Sickle Cell Anemia,Hydroxyurea,16300
+NGA-04675,None,None,16600
+NGA-04676,Asthma,Salbutamol,29100
+NGA-04677,None,None,18300
+NGA-04678,Sickle Cell Anemia,Hydroxyurea,17100
+NGA-04679,Asthma,Salbutamol,13100
+NGA-04680,Malaria,Artemether/Lumefantrine,33900
+NGA-04681,Diabetes,Metformin,23500
+NGA-04682,Sickle Cell Anemia,Folic Acid,12600
+NGA-04683,Hypertension,Amlodipine,23800
+NGA-04684,Malaria,Artemether/Lumefantrine,13000
+NGA-04685,Diabetes,Metformin,38500
+NGA-04686,Diabetes,Metformin,35500
+NGA-04687,Diabetes,Metformin,38400
+NGA-04688,Malaria,Artemether/Lumefantrine,12000
+NGA-04689,Malaria,Artemether/Lumefantrine,21400
+NGA-04690,Sickle Cell Anemia,Folic Acid,44500
+NGA-04691,Hypertension,Amlodipine,36700
+NGA-04692,Malaria,Artemether/Lumefantrine,10500
+NGA-04693,Hypertension,Amlodipine,39700
+NGA-04694,Sickle Cell Anemia,Hydroxyurea,31100
+NGA-04695,Asthma,Salbutamol,29200
+NGA-04696,Typhoid Fever,Ciprofloxacin,15500
+NGA-04697,Asthma,Salbutamol,44700
+NGA-04698,Sickle Cell Anemia,Hydroxyurea,38400
+NGA-04699,None,None,17200
+NGA-04700,Hypertension,Amlodipine,19600
+NGA-04701,None,None,20200
+NGA-04702,Typhoid Fever,Ciprofloxacin,2400
+NGA-04703,None,None,44700
+NGA-04704,None,None,38600
+NGA-04705,Malaria,Artemether/Lumefantrine,6000
+NGA-04706,Hypertension,Amlodipine,43100
+NGA-04707,Asthma,Salbutamol,29700
+NGA-04708,Diabetes,Metformin,7900
+NGA-04709,Asthma,Salbutamol,23400
+NGA-04710,Diabetes,Metformin,8400
+NGA-04711,Malaria,Artemether/Lumefantrine,11500
+NGA-04712,Hypertension,Amlodipine,24500
+NGA-04713,None,None,36400
+NGA-04714,Diabetes,Metformin,22300
+NGA-04715,None,None,13500
+NGA-04716,Typhoid Fever,Ciprofloxacin,7400
+NGA-04717,Typhoid Fever,Ciprofloxacin,6300
+NGA-04718,Sickle Cell Anemia,Hydroxyurea,38900
+NGA-04719,Typhoid Fever,Ciprofloxacin,43500
+NGA-04720,Malaria,Artemether/Lumefantrine,21100
+NGA-04721,Hypertension,Amlodipine,39500
+NGA-04722,Asthma,Salbutamol,10900
+NGA-04723,Sickle Cell Anemia,Folic Acid,36300
+NGA-04724,Malaria,Artemether/Lumefantrine,12000
+NGA-04725,Diabetes,Metformin,17800
+NGA-04726,Malaria,Artemether/Lumefantrine,35800
+NGA-04727,None,None,4400
+NGA-04728,Sickle Cell Anemia,Hydroxyurea,27000
+NGA-04729,Asthma,Salbutamol,38000
+NGA-04730,Sickle Cell Anemia,Folic Acid,29100
+NGA-04731,Hypertension,Amlodipine,2900
+NGA-04732,Diabetes,Metformin,36000
+NGA-04733,Typhoid Fever,Ciprofloxacin,10300
+NGA-04734,Asthma,Salbutamol,3300
+NGA-04735,Asthma,Salbutamol,32800
+NGA-04736,Typhoid Fever,Ciprofloxacin,26700
+NGA-04737,Asthma,Salbutamol,19500
+NGA-04738,Diabetes,Metformin,41500
+NGA-04739,Diabetes,Metformin,17500
+NGA-04740,Asthma,Salbutamol,25400
+NGA-04741,Malaria,Artemether/Lumefantrine,5000
+NGA-04742,None,None,19700
+NGA-04743,Asthma,Salbutamol,31800
+NGA-04744,Asthma,Salbutamol,13200
+NGA-04745,Hypertension,Amlodipine,40300
+NGA-04746,Hypertension,Amlodipine,35300
+NGA-04747,Sickle Cell Anemia,Folic Acid,2800
+NGA-04748,Typhoid Fever,Ciprofloxacin,13800
+NGA-04749,None,None,24700
+NGA-04750,None,None,12800
+NGA-04751,Malaria,Artemether/Lumefantrine,13700
+NGA-04752,Malaria,Artemether/Lumefantrine,39500
+NGA-04753,Malaria,Artemether/Lumefantrine,43300
+NGA-04754,Hypertension,Amlodipine,37000
+NGA-04755,Sickle Cell Anemia,Hydroxyurea,3500
+NGA-04756,None,None,31700
+NGA-04757,Asthma,Salbutamol,9400
+NGA-04758,Hypertension,Amlodipine,22900
+NGA-04759,Typhoid Fever,Ciprofloxacin,26500
+NGA-04760,Hypertension,Amlodipine,32600
+NGA-04761,Malaria,Artemether/Lumefantrine,26800
+NGA-04762,Malaria,Artemether/Lumefantrine,39700
+NGA-04763,Sickle Cell Anemia,Folic Acid,7300
+NGA-04764,Sickle Cell Anemia,Hydroxyurea,36900
+NGA-04765,Diabetes,Metformin,27500
+NGA-04766,Malaria,Artemether/Lumefantrine,17300
+NGA-04767,Hypertension,Amlodipine,14300
+NGA-04768,Hypertension,Amlodipine,34200
+NGA-04769,Diabetes,Metformin,20400
+NGA-04770,Typhoid Fever,Ciprofloxacin,16200
+NGA-04771,Malaria,Artemether/Lumefantrine,7900
+NGA-04772,Malaria,Artemether/Lumefantrine,5600
+NGA-04773,None,None,33900
+NGA-04774,Diabetes,Metformin,32000
+NGA-04775,Hypertension,Amlodipine,38200
+NGA-04776,Hypertension,Amlodipine,32000
+NGA-04777,Malaria,Artemether/Lumefantrine,17200
+NGA-04778,Malaria,Artemether/Lumefantrine,20700
+NGA-04779,Hypertension,Amlodipine,22400
+NGA-04780,None,None,9200
+NGA-04781,Asthma,Salbutamol,2300
+NGA-04782,None,None,2500
+NGA-04783,Hypertension,Amlodipine,19800
+NGA-04784,Diabetes,Metformin,42000
+NGA-04785,Sickle Cell Anemia,Folic Acid,40200
+NGA-04786,Hypertension,Amlodipine,40200
+NGA-04787,Hypertension,Amlodipine,32900
+NGA-04788,Malaria,Artemether/Lumefantrine,4900
+NGA-04789,Sickle Cell Anemia,Folic Acid,44700
+NGA-04790,None,None,10800
+NGA-04791,Asthma,Salbutamol,15200
+NGA-04792,Hypertension,Amlodipine,26900
+NGA-04793,Asthma,Salbutamol,35700
+NGA-04794,Asthma,Salbutamol,32000
+NGA-04795,Malaria,Artemether/Lumefantrine,15700
+NGA-04796,Sickle Cell Anemia,Hydroxyurea,9900
+NGA-04797,Asthma,Salbutamol,15500
+NGA-04798,Typhoid Fever,Ciprofloxacin,7100
+NGA-04799,None,None,19600
+NGA-04800,Malaria,Artemether/Lumefantrine,11200
+NGA-04801,Asthma,Salbutamol,11800
+NGA-04802,Sickle Cell Anemia,Folic Acid,9000
+NGA-04803,Asthma,Salbutamol,14000
+NGA-04804,Typhoid Fever,Ciprofloxacin,33500
+NGA-04805,Hypertension,Amlodipine,28100
+NGA-04806,Typhoid Fever,Ciprofloxacin,32900
+NGA-04807,Sickle Cell Anemia,Hydroxyurea,31500
+NGA-04808,Malaria,Artemether/Lumefantrine,31400
+NGA-04809,Hypertension,Amlodipine,4000
+NGA-04810,None,None,5900
+NGA-04811,None,None,2500
+NGA-04812,Asthma,Salbutamol,25900
+NGA-04813,Asthma,Salbutamol,42700
+NGA-04814,Asthma,Salbutamol,7400
+NGA-04815,Malaria,Artemether/Lumefantrine,32600
+NGA-04816,Asthma,Salbutamol,14200
+NGA-04817,Asthma,Salbutamol,30200
+NGA-04818,Typhoid Fever,Ciprofloxacin,21300
+NGA-04819,Hypertension,Amlodipine,42900
+NGA-04820,Asthma,Salbutamol,33700
+NGA-04821,Typhoid Fever,Ciprofloxacin,12300
+NGA-04822,None,None,38800
+NGA-04823,Malaria,Artemether/Lumefantrine,39600
+NGA-04824,Typhoid Fever,Ciprofloxacin,35500
+NGA-04825,Asthma,Salbutamol,42400
+NGA-04826,None,None,15000
+NGA-04827,None,None,14100
+NGA-04828,Asthma,Salbutamol,32100
+NGA-04829,Diabetes,Metformin,38700
+NGA-04830,Asthma,Salbutamol,9500
+NGA-04831,Typhoid Fever,Ciprofloxacin,32300
+NGA-04832,Typhoid Fever,Ciprofloxacin,29400
+NGA-04833,Typhoid Fever,Ciprofloxacin,40300
+NGA-04834,Hypertension,Amlodipine,12500
+NGA-04835,Malaria,Artemether/Lumefantrine,32700
+NGA-04836,Malaria,Artemether/Lumefantrine,35300
+NGA-04837,Malaria,Artemether/Lumefantrine,35800
+NGA-04838,Diabetes,Metformin,40100
+NGA-04839,Hypertension,Amlodipine,40400
+NGA-04840,Malaria,Artemether/Lumefantrine,10700
+NGA-04841,Diabetes,Metformin,11200
+NGA-04842,Asthma,Salbutamol,9300
+NGA-04843,Asthma,Salbutamol,25000
+NGA-04844,Malaria,Artemether/Lumefantrine,22300
+NGA-04845,Sickle Cell Anemia,Folic Acid,17400
+NGA-04846,Malaria,Artemether/Lumefantrine,19400
+NGA-04847,Typhoid Fever,Ciprofloxacin,23200
+NGA-04848,Malaria,Artemether/Lumefantrine,44700
+NGA-04849,Typhoid Fever,Ciprofloxacin,7400
+NGA-04850,Malaria,Artemether/Lumefantrine,10900
+NGA-04851,Typhoid Fever,Ciprofloxacin,41500
+NGA-04852,Hypertension,Amlodipine,19800
+NGA-04853,Diabetes,Metformin,16000
+NGA-04854,None,None,13800
+NGA-04855,Diabetes,Metformin,21600
+NGA-04856,Sickle Cell Anemia,Folic Acid,32600
+NGA-04857,Sickle Cell Anemia,Folic Acid,6100
+NGA-04858,Malaria,Artemether/Lumefantrine,5600
+NGA-04859,Sickle Cell Anemia,Folic Acid,24300
+NGA-04860,Asthma,Salbutamol,7600
+NGA-04861,Asthma,Salbutamol,33300
+NGA-04862,None,None,44300
+NGA-04863,Sickle Cell Anemia,Hydroxyurea,37900
+NGA-04864,None,None,39200
+NGA-04865,Diabetes,Metformin,43300
+NGA-04866,Malaria,Artemether/Lumefantrine,43300
+NGA-04867,Hypertension,Amlodipine,31000
+NGA-04868,Hypertension,Amlodipine,24400
+NGA-04869,Typhoid Fever,Ciprofloxacin,27600
+NGA-04870,Malaria,Artemether/Lumefantrine,5100
+NGA-04871,None,None,33000
+NGA-04872,Diabetes,Metformin,2100
+NGA-04873,Malaria,Artemether/Lumefantrine,33300
+NGA-04874,Sickle Cell Anemia,Hydroxyurea,7200
+NGA-04875,Malaria,Artemether/Lumefantrine,44500
+NGA-04876,Sickle Cell Anemia,Hydroxyurea,7100
+NGA-04877,None,None,14900
+NGA-04878,Sickle Cell Anemia,Folic Acid,19300
+NGA-04879,Malaria,Artemether/Lumefantrine,12900
+NGA-04880,None,None,32600
+NGA-04881,Diabetes,Metformin,5500
+NGA-04882,Sickle Cell Anemia,Hydroxyurea,6400
+NGA-04883,Asthma,Salbutamol,27000
+NGA-04884,Diabetes,Metformin,23700
+NGA-04885,Diabetes,Metformin,4600
+NGA-04886,Diabetes,Metformin,26800
+NGA-04887,Diabetes,Metformin,17600
+NGA-04888,Typhoid Fever,Ciprofloxacin,15000
+NGA-04889,None,None,33500
+NGA-04890,Typhoid Fever,Ciprofloxacin,15000
+NGA-04891,Hypertension,Amlodipine,41500
+NGA-04892,None,None,11200
+NGA-04893,Typhoid Fever,Ciprofloxacin,33500
+NGA-04894,Diabetes,Metformin,35100
+NGA-04895,Diabetes,Metformin,24200
+NGA-04896,Typhoid Fever,Ciprofloxacin,25500
+NGA-04897,Sickle Cell Anemia,Folic Acid,30000
+NGA-04898,Malaria,Artemether/Lumefantrine,16500
+NGA-04899,None,None,32500
+NGA-04900,Hypertension,Amlodipine,12400
+NGA-04901,Typhoid Fever,Ciprofloxacin,45000
+NGA-04902,Typhoid Fever,Ciprofloxacin,30800
+NGA-04903,Typhoid Fever,Ciprofloxacin,43700
+NGA-04904,Malaria,Artemether/Lumefantrine,26100
+NGA-04905,Hypertension,Amlodipine,38100
+NGA-04906,Typhoid Fever,Ciprofloxacin,33300
+NGA-04907,Typhoid Fever,Ciprofloxacin,21700
+NGA-04908,Asthma,Salbutamol,4400
+NGA-04909,Asthma,Salbutamol,26100
+NGA-04910,Sickle Cell Anemia,Hydroxyurea,40200
+NGA-04911,Malaria,Artemether/Lumefantrine,29200
+NGA-04912,Asthma,Salbutamol,16600
+NGA-04913,Sickle Cell Anemia,Folic Acid,9400
+NGA-04914,Asthma,Salbutamol,42100
+NGA-04915,None,None,8700
+NGA-04916,None,None,34300
+NGA-04917,Typhoid Fever,Ciprofloxacin,33300
+NGA-04918,Sickle Cell Anemia,Folic Acid,25900
+NGA-04919,Hypertension,Amlodipine,3300
+NGA-04920,Sickle Cell Anemia,Folic Acid,43700
+NGA-04921,Typhoid Fever,Ciprofloxacin,34500
+NGA-04922,Hypertension,Amlodipine,19500
+NGA-04923,None,None,26600
+NGA-04924,Diabetes,Metformin,27200
+NGA-04925,Typhoid Fever,Ciprofloxacin,28400
+NGA-04926,Malaria,Artemether/Lumefantrine,30600
+NGA-04927,Hypertension,Amlodipine,19700
+NGA-04928,Asthma,Salbutamol,2800
+NGA-04929,Typhoid Fever,Ciprofloxacin,25300
+NGA-04930,Sickle Cell Anemia,Folic Acid,17500
+NGA-04931,Sickle Cell Anemia,Folic Acid,32900
+NGA-04932,Typhoid Fever,Ciprofloxacin,10700
+NGA-04933,Sickle Cell Anemia,Folic Acid,44700
+NGA-04934,Typhoid Fever,Ciprofloxacin,37600
+NGA-04935,None,None,29800
+NGA-04936,Hypertension,Amlodipine,17500
+NGA-04937,Malaria,Artemether/Lumefantrine,4700
+NGA-04938,Diabetes,Metformin,15200
+NGA-04939,Diabetes,Metformin,34600
+NGA-04940,Typhoid Fever,Ciprofloxacin,30800
+NGA-04941,Hypertension,Amlodipine,7700
+NGA-04942,Typhoid Fever,Ciprofloxacin,6700
+NGA-04943,Malaria,Artemether/Lumefantrine,32800
+NGA-04944,Hypertension,Amlodipine,37700
+NGA-04945,None,None,10100
+NGA-04946,Sickle Cell Anemia,Folic Acid,44700
+NGA-04947,Sickle Cell Anemia,Folic Acid,22300
+NGA-04948,None,None,37800
+NGA-04949,Typhoid Fever,Ciprofloxacin,34200
+NGA-04950,Asthma,Salbutamol,38200
+NGA-04951,Diabetes,Metformin,2900
+NGA-04952,Sickle Cell Anemia,Hydroxyurea,4000
+NGA-04953,Malaria,Artemether/Lumefantrine,12600
+NGA-04954,Hypertension,Amlodipine,24400
+NGA-04955,Asthma,Salbutamol,4600
+NGA-04956,Hypertension,Amlodipine,29200
+NGA-04957,Hypertension,Amlodipine,34300
+NGA-04958,Asthma,Salbutamol,19900
+NGA-04959,Asthma,Salbutamol,32700
+NGA-04960,Asthma,Salbutamol,34800
+NGA-04961,Sickle Cell Anemia,Hydroxyurea,34300
+NGA-04962,Diabetes,Metformin,42400
+NGA-04963,Asthma,Salbutamol,11700
+NGA-04964,Typhoid Fever,Ciprofloxacin,3600
+NGA-04965,Malaria,Artemether/Lumefantrine,36400
+NGA-04966,Diabetes,Metformin,36200
+NGA-04967,Diabetes,Metformin,32400
+NGA-04968,Sickle Cell Anemia,Folic Acid,26500
+NGA-04969,Typhoid Fever,Ciprofloxacin,40200
+NGA-04970,Typhoid Fever,Ciprofloxacin,24100
+NGA-04971,Hypertension,Amlodipine,13700
+NGA-04972,Typhoid Fever,Ciprofloxacin,13700
+NGA-04973,Typhoid Fever,Ciprofloxacin,8600
+NGA-04974,Hypertension,Amlodipine,31900
+NGA-04975,Asthma,Salbutamol,20700
+NGA-04976,Hypertension,Amlodipine,33100
+NGA-04977,Malaria,Artemether/Lumefantrine,25300
+NGA-04978,Diabetes,Metformin,39200
+NGA-04979,Asthma,Salbutamol,42200
+NGA-04980,Malaria,Artemether/Lumefantrine,9600
+NGA-04981,Malaria,Artemether/Lumefantrine,19600
+NGA-04982,Sickle Cell Anemia,Folic Acid,4500
+NGA-04983,Typhoid Fever,Ciprofloxacin,22400
+NGA-04984,Typhoid Fever,Ciprofloxacin,14300
+NGA-04985,Sickle Cell Anemia,Hydroxyurea,39100
+NGA-04986,Malaria,Artemether/Lumefantrine,36900
+NGA-04987,Asthma,Salbutamol,19000
+NGA-04988,Diabetes,Metformin,21000
+NGA-04989,Hypertension,Amlodipine,20400
+NGA-04990,Asthma,Salbutamol,19000
+NGA-04991,Asthma,Salbutamol,31100
+NGA-04992,Malaria,Artemether/Lumefantrine,5900
+NGA-04993,Diabetes,Metformin,27700
+NGA-04994,Hypertension,Amlodipine,8900
+NGA-04995,Diabetes,Metformin,6400
+NGA-04996,None,None,44900
+NGA-04997,Hypertension,Amlodipine,13700
+NGA-04998,Malaria,Artemether/Lumefantrine,22500
+NGA-04999,None,None,17100
